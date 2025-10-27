@@ -156,6 +156,109 @@ body {
   line-height: 1.6;
 }
 
+/* Process Section */
+.process {
+  max-width: 1000px;
+  margin-bottom: 100px;
+}
+
+.process-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 40px;
+}
+
+.process-item {
+  position: relative;
+}
+
+.process-number {
+  font-size: 2.5rem;
+  font-weight: 600;
+  color: #3C3D37;
+  margin-bottom: 16px;
+  line-height: 1;
+}
+
+.process-item h3 {
+  font-size: 1.15rem;
+  font-weight: 500;
+  margin-bottom: 12px;
+  color: #ECDFCC;
+}
+
+.process-item p {
+  font-size: 0.95rem;
+  color: #697565;
+  line-height: 1.6;
+}
+
+/* Deliverables Section */
+.deliverables {
+  max-width: 1000px;
+  margin-bottom: 100px;
+}
+
+.deliverables-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 40px;
+}
+
+.deliverable-item h3 {
+  font-size: 1.15rem;
+  font-weight: 500;
+  margin-bottom: 12px;
+  color: #ECDFCC;
+}
+
+.deliverable-item p {
+  font-size: 0.95rem;
+  color: #697565;
+  line-height: 1.6;
+}
+
+/* Tech Stack Section */
+.tech-stack {
+  max-width: 1000px;
+  margin-bottom: 100px;
+}
+
+.tech-categories {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+
+.tech-category h3 {
+  font-size: 1.05rem;
+  font-weight: 500;
+  margin-bottom: 16px;
+  color: #ECDFCC;
+}
+
+.tech-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.tech-tag {
+  padding: 8px 16px;
+  background-color: rgba(60, 61, 55, 0.4);
+  border: 1px solid rgba(236, 223, 204, 0.1);
+  border-radius: 6px;
+  font-size: 0.9rem;
+  color: #697565;
+  transition: all 0.2s ease;
+}
+
+.tech-tag:hover {
+  background-color: rgba(60, 61, 55, 0.6);
+  border-color: rgba(236, 223, 204, 0.2);
+  color: #ECDFCC;
+}
+
 /* Footer */
 .footer {
   padding: 40px 0;
@@ -249,6 +352,28 @@ body {
     gap: 32px;
   }
 
+  .process {
+    margin-bottom: 60px;
+  }
+
+  .process-grid {
+    grid-template-columns: 1fr;
+    gap: 32px;
+  }
+
+  .deliverables {
+    margin-bottom: 60px;
+  }
+
+  .deliverables-grid {
+    grid-template-columns: 1fr;
+    gap: 32px;
+  }
+
+  .tech-stack {
+    margin-bottom: 60px;
+  }
+
   .footer-content {
     flex-direction: column;
     align-items: flex-start;
@@ -274,5 +399,20 @@ body {
 
   .service-item p {
     font-size: 0.9rem;
+  }
+
+  .process-number {
+    font-size: 2rem;
+  }
+
+  .process-item h3,
+  .deliverable-item h3,
+  .tech-category h3 {
+    font-size: 1.05rem;
+  }
+
+  .tech-tag {
+    font-size: 0.85rem;
+    padding: 6px 12px;
   }
 }
