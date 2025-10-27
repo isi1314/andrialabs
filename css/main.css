@@ -104,13 +104,21 @@ body {
 
 /* Services Section */
 .services {
-  max-width: 900px;
+  max-width: 1000px;
+}
+
+.section-title {
+  font-size: 1.5rem;
+  font-weight: 500;
+  margin-bottom: 48px;
+  color: #ECDFCC;
+  letter-spacing: -0.02em;
 }
 
 .service-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 40px;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 48px;
 }
 
 .service-item h3 {
