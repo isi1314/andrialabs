@@ -72,6 +72,19 @@ body {
   color: #ECDFCC;
 }
 
+.nav-cta {
+  background-color: #3C3D37;
+  color: #ECDFCC !important;
+  padding: 8px 20px;
+  border-radius: 6px;
+  transition: all 0.2s ease;
+}
+
+.nav-cta:hover {
+  background-color: #697565;
+  color: #ECDFCC !important;
+}
+
 /* Main Content */
 .main {
   flex: 1;
@@ -121,6 +134,25 @@ body {
   font-size: 1.1rem;
   color: #697565;
   line-height: 1.6;
+  margin-bottom: 32px;
+}
+
+.cta-button {
+  display: inline-block;
+  padding: 14px 32px;
+  background-color: #ECDFCC;
+  color: #181C14;
+  text-decoration: none;
+  font-size: 1rem;
+  font-weight: 500;
+  border-radius: 8px;
+  transition: all 0.2s ease;
+}
+
+.cta-button:hover {
+  background-color: #697565;
+  color: #ECDFCC;
+  transform: translateY(-2px);
 }
 
 /* Value Proposition */
@@ -369,6 +401,11 @@ body {
 
   .business-subtitle {
     font-size: 1rem;
+  }
+
+  .cta-button {
+    padding: 12px 28px;
+    font-size: 0.95rem;
   }
 
   .value-prop {
