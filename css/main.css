@@ -102,6 +102,26 @@ body {
   line-height: 1.5;
 }
 
+/* Value Proposition */
+.value-prop {
+  max-width: 700px;
+  margin-bottom: 100px;
+  padding: 40px 0;
+  border-top: 1px solid rgba(236, 223, 204, 0.1);
+  border-bottom: 1px solid rgba(236, 223, 204, 0.1);
+}
+
+.value-prop-text {
+  font-size: 1.05rem;
+  color: #697565;
+  line-height: 1.7;
+  margin-bottom: 20px;
+}
+
+.value-prop-text:last-child {
+  margin-bottom: 0;
+}
+
 /* Services Section */
 .services {
   max-width: 1000px;
@@ -213,6 +233,15 @@ body {
     font-size: 1.1rem;
   }
 
+  .value-prop {
+    margin-bottom: 60px;
+    padding: 32px 0;
+  }
+
+  .value-prop-text {
+    font-size: 1rem;
+  }
+
   .service-grid {
     grid-template-columns: 1fr;
     gap: 32px;
@@ -231,6 +260,10 @@ body {
 
   .hero-subtitle {
     font-size: 1rem;
+  }
+
+  .value-prop-text {
+    font-size: 0.95rem;
   }
 
   .service-item h3 {
