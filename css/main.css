@@ -84,7 +84,7 @@ body {
 /* Hero Section */
 .hero {
   max-width: 800px;
-  margin-bottom: 80px;
+  margin-bottom: 60px;
 }
 
 .hero-title {
@@ -100,6 +100,27 @@ body {
   font-size: 1.25rem;
   color: #697565;
   line-height: 1.5;
+}
+
+/* Business Value */
+.business-value {
+  max-width: 800px;
+  margin-bottom: 80px;
+}
+
+.business-title {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2;
+  margin-bottom: 16px;
+  letter-spacing: -0.02em;
+  color: #ECDFCC;
+}
+
+.business-subtitle {
+  font-size: 1.1rem;
+  color: #697565;
+  line-height: 1.6;
 }
 
 /* Value Proposition */
@@ -338,6 +359,18 @@ body {
     font-size: 1.1rem;
   }
 
+  .business-value {
+    margin-bottom: 60px;
+  }
+
+  .business-title {
+    font-size: 1.75rem;
+  }
+
+  .business-subtitle {
+    font-size: 1rem;
+  }
+
   .value-prop {
     margin-bottom: 60px;
     padding: 32px 0;
@@ -387,6 +420,14 @@ body {
 
   .hero-subtitle {
     font-size: 1rem;
+  }
+
+  .business-title {
+    font-size: 1.5rem;
+  }
+
+  .business-subtitle {
+    font-size: 0.95rem;
   }
 
   .value-prop-text {
