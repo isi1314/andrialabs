@@ -1,0 +1,301 @@
+/**
+ * ANDRIA LABS DESIGN TOKENS
+ *
+ * Comprehensive design system tokens for consistency across the entire application.
+ * This file defines all design decisions as reusable CSS custom properties.
+ *
+ * Usage: Import this file before other stylesheets to make tokens available globally.
+ * Example: <link href="css/design-tokens.css" rel="stylesheet" type="text/css">
+ */
+
+:root {
+  /* ========================================
+     COLOR TOKENS
+     ======================================== */
+
+  /* Primary Colors - New Blue-Gray Palette */
+  --color-primary: #234C6A;  /* Medium blue-gray */
+  --color-primary-light: #456882;  /* Light blue-gray */
+  --color-primary-dark: #1B3C53;  /* Deep blue-gray */
+
+  /* Secondary Colors - Warm Beige Accent */
+  --color-secondary: #D2C1B6;  /* Warm beige/sand */
+  --color-secondary-light: #E5D9CF;  /* Lighter beige */
+  --color-secondary-dark: #B8A89C;  /* Darker beige */
+
+  /* Accent Colors - Keep blue accent for interactive elements */
+  --color-accent-blue: #456882;  /* Light blue-gray for links/accents */
+  --color-accent-blue-hover: #234C6A;  /* Medium blue-gray on hover */
+  --color-accent-blue-light: #5A7C96;  /* Even lighter blue-gray */
+
+  /* Semantic Colors */
+  --color-success: #4caf50;
+  --color-success-light: #81c784;
+  --color-success-dark: #388e3c;
+
+  --color-error: #C41E1E;
+  --color-error-light: #ef5350;
+  --color-error-dark: #c62828;
+
+  --color-warning: #ff9800;
+  --color-warning-light: #ffb74d;
+  --color-warning-dark: #f57c00;
+
+  --color-info: #2196f3;
+  --color-info-light: #64b5f6;
+  --color-info-dark: #1976d2;
+
+  /* Neutral Colors - Updated to work with new palette */
+  --color-black: #1B3C53;  /* Darkest blue-gray instead of pure black */
+  --color-white: #fafafa;  /* Keep off-white for text */
+  --color-gray-50: #f9f9f9;
+  --color-gray-100: #E5D9CF;  /* Light beige tint */
+  --color-gray-200: #D2C1B6;  /* Beige accent */
+  --color-gray-300: #B8A89C;  /* Darker beige */
+  --color-gray-400: #8FA3B3;  /* Muted blue-gray */
+  --color-gray-500: #6B8499;  /* Medium blue-gray */
+  --color-gray-600: #456882;  /* Blue-gray */
+  --color-gray-700: #2F5470;  /* Deep blue-gray */
+  --color-gray-800: #234C6A;  /* Primary blue-gray */
+  --color-gray-900: #1B3C53;  /* Darkest blue-gray */
+
+  /* Background Colors */
+  --color-bg-primary: #1B3C53;  /* Deep blue-gray background */
+  --color-bg-secondary: #234C6A;  /* Medium blue-gray */
+  --color-bg-tertiary: #2F5470;  /* Slightly lighter */
+  --color-bg-card: #1E4259;  /* Card backgrounds */
+  --color-bg-overlay: rgba(27, 60, 83, 0.9);  /* Blue-gray overlay */
+
+  /* Text Colors */
+  --color-text-primary: #fafafa;  /* White text on dark backgrounds */
+  --color-text-secondary: #D2C1B6;  /* Beige for secondary text */
+  --color-text-tertiary: #B8A89C;  /* Darker beige for tertiary */
+  --color-text-disabled: #6B8499;  /* Muted blue-gray */
+  --color-text-placeholder: #8FA3B3;  /* Lighter for placeholders */
+
+  /* Border Colors */
+  --color-border-light: rgba(210, 193, 182, 0.15);  /* Subtle beige border */
+  --color-border-medium: rgba(210, 193, 182, 0.3);  /* Medium beige border */
+  --color-border-heavy: rgba(210, 193, 182, 0.5);  /* Strong beige border */
+
+  /* Transparent */
+  --color-transparent: transparent;
+
+
+  /* ========================================
+     SPACING TOKENS (8pt Grid System)
+     ======================================== */
+
+  --space-0: 0;
+  --space-4: 4px;      /* 0.5 unit */
+  --space-8: 8px;      /* 1 unit */
+  --space-12: 12px;    /* 1.5 units */
+  --space-16: 16px;    /* 2 units */
+  --space-20: 20px;    /* 2.5 units */
+  --space-24: 24px;    /* 3 units */
+  --space-32: 32px;    /* 4 units */
+  --space-40: 40px;    /* 5 units */
+  --space-48: 48px;    /* 6 units */
+  --space-56: 56px;    /* 7 units */
+  --space-64: 64px;    /* 8 units */
+  --space-72: 72px;    /* 9 units */
+  --space-80: 80px;    /* 10 units */
+  --space-96: 96px;    /* 12 units */
+  --space-128: 128px;  /* 16 units */
+  --space-160: 160px;  /* 20 units */
+  --space-192: 192px;  /* 24 units */
+  --space-256: 256px;  /* 32 units */
+
+
+  /* ========================================
+     TYPOGRAPHY TOKENS
+     ======================================== */
+
+  /* Font Families */
+  --font-primary: 'Funnel Display', sans-serif;
+  --font-secondary: 'Inter', sans-serif;
+  --font-mono: 'Inconsolata', monospace;
+
+  /* Font Sizes */
+  --font-size-xs: 12px;
+  --font-size-sm: 14px;
+  --font-size-base: 16px;
+  --font-size-lg: 18px;
+  --font-size-xl: 20px;
+  --font-size-2xl: 24px;
+  --font-size-3xl: 30px;
+  --font-size-4xl: 36px;
+  --font-size-5xl: 48px;
+  --font-size-6xl: 60px;
+  --font-size-7xl: 72px;
+  --font-size-8xl: 96px;
+
+  /* Font Weights */
+  --font-weight-light: 300;
+  --font-weight-regular: 400;
+  --font-weight-medium: 500;
+  --font-weight-semibold: 600;
+  --font-weight-bold: 700;
+  --font-weight-extrabold: 800;
+
+  /* Line Heights */
+  --line-height-tight: 1.2;
+  --line-height-snug: 1.375;
+  --line-height-normal: 1.5;
+  --line-height-relaxed: 1.625;
+  --line-height-loose: 2;
+
+  /* Letter Spacing */
+  --letter-spacing-tight: -0.025em;
+  --letter-spacing-normal: 0;
+  --letter-spacing-wide: 0.025em;
+  --letter-spacing-wider: 0.05em;
+  --letter-spacing-widest: 0.1em;
+
+
+  /* ========================================
+     BORDER TOKENS
+     ======================================== */
+
+  /* Border Widths */
+  --border-width-0: 0;
+  --border-width-1: 1px;
+  --border-width-2: 2px;
+  --border-width-4: 4px;
+  --border-width-8: 8px;
+
+  /* Border Radius */
+  --radius-none: 0;
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+  --radius-xl: 16px;
+  --radius-2xl: 24px;
+  --radius-full: 9999px;
+
+
+  /* ========================================
+     SHADOW TOKENS
+     ======================================== */
+
+  --shadow-xs: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+  --shadow-sm: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px -1px rgba(0, 0, 0, 0.1);
+  --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -2px rgba(0, 0, 0, 0.1);
+  --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -4px rgba(0, 0, 0, 0.1);
+  --shadow-xl: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
+  --shadow-2xl: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+  --shadow-inner: inset 0 2px 4px 0 rgba(0, 0, 0, 0.05);
+  --shadow-none: none;
+
+  /* Focus Shadow */
+  --shadow-focus: 0 0 0 3px rgba(210, 193, 182, 0.3);  /* Beige focus ring */
+
+
+  /* ========================================
+     ANIMATION TOKENS
+     ======================================== */
+
+  /* Duration */
+  --duration-instant: 0ms;
+  --duration-fast: 150ms;
+  --duration-normal: 200ms;
+  --duration-slow: 300ms;
+  --duration-slower: 500ms;
+
+  /* Easing */
+  --ease-linear: linear;
+  --ease-in: cubic-bezier(0.4, 0, 1, 1);
+  --ease-out: cubic-bezier(0, 0, 0.2, 1);
+  --ease-in-out: cubic-bezier(0.4, 0, 0.2, 1);
+  --ease-bounce: cubic-bezier(0.68, -0.55, 0.265, 1.55);
+
+
+  /* ========================================
+     Z-INDEX TOKENS
+     ======================================== */
+
+  --z-index-dropdown: 1000;
+  --z-index-sticky: 1020;
+  --z-index-fixed: 1030;
+  --z-index-modal-backdrop: 1040;
+  --z-index-modal: 1050;
+  --z-index-popover: 1060;
+  --z-index-tooltip: 1070;
+
+
+  /* ========================================
+     BREAKPOINT TOKENS (for reference in JS)
+     ======================================== */
+
+  --breakpoint-xs: 0px;
+  --breakpoint-sm: 640px;
+  --breakpoint-md: 768px;
+  --breakpoint-lg: 1024px;
+  --breakpoint-xl: 1280px;
+  --breakpoint-2xl: 1536px;
+
+
+  /* ========================================
+     CONTAINER TOKENS
+     ======================================== */
+
+  --container-sm: 640px;
+  --container-md: 768px;
+  --container-lg: 1024px;
+  --container-xl: 1280px;
+  --container-full: 100%;
+
+
+  /* ========================================
+     OPACITY TOKENS
+     ======================================== */
+
+  --opacity-0: 0;
+  --opacity-10: 0.1;
+  --opacity-20: 0.2;
+  --opacity-30: 0.3;
+  --opacity-40: 0.4;
+  --opacity-50: 0.5;
+  --opacity-60: 0.6;
+  --opacity-70: 0.7;
+  --opacity-80: 0.8;
+  --opacity-90: 0.9;
+  --opacity-100: 1;
+}
+
+
+/* ========================================
+   LEGACY COMPATIBILITY
+   Map old tokens to new design system
+   ======================================== */
+
+:root {
+  /* Legacy color tokens (mapped to new system) */
+  --black: var(--color-black);
+  --white: var(--color-white);
+  --light-white: var(--color-gray-200);
+  --transparent: var(--color-transparent);
+  --light-black: var(--color-gray-900);
+  --border-color: var(--color-border-light);
+}
+
+
+/* ========================================
+   RESPONSIVE DESIGN TOKENS
+   ======================================== */
+
+@media (prefers-color-scheme: light) {
+  /* Light mode overrides (if needed in future) */
+  :root {
+    /* Currently optimized for dark mode only */
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  :root {
+    --duration-fast: 0.01ms;
+    --duration-normal: 0.01ms;
+    --duration-slow: 0.01ms;
+    --duration-slower: 0.01ms;
+  }
+}

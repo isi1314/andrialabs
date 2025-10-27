@@ -1,0 +1,38 @@
+# Andria Labs - Robots.txt
+# https://andrialabs.ai/robots.txt
+
+# Allow all crawlers
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://andrialabs.ai/sitemap.xml
+
+# Crawl delay (be nice to the server)
+Crawl-delay: 1
+
+# Disallow backup directory
+Disallow: /backup_*
+
+# Disallow any temporary or development files
+Disallow: /*.sh$
+Disallow: /*.md$
+Disallow: /README*
+
+# Allow CSS, JS, and images for rendering
+Allow: /css/
+Allow: /js/
+Allow: /images/
+
+# Popular crawler-specific settings
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /images/
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /

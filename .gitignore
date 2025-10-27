@@ -1,0 +1,4 @@
+.vercel
+backup_*/
+*.sh
+.DS_Store
