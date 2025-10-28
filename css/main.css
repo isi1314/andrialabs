@@ -151,12 +151,10 @@ body {
 
 /* Value Proposition */
 .value-prop {
-  max-width: 700px;
+  max-width: 800px;
   margin-bottom: 100px;
   margin-top: 0;
-  padding: 40px 0 40px 0;
-  border-top: 1px solid rgba(236, 223, 204, 0.1);
-  border-bottom: 1px solid rgba(236, 223, 204, 0.1);
+  padding: 0 0 40px 0;
 }
 
 .value-prop-text {
