@@ -1,0 +1,30 @@
+# Set up your consulting stack
+
+### 1. Set up business foundation[¶](https://jxnl.co/writing/2024/08/23/consulting-stack/#1-set-up-business-foundation)
+
+- [ ]  Form an LLC using [Doola](https://doola.com/?via=2N4Ho3yCSknlCC1ND4zwOYlOg6q)
+- [ ]  Open a business bank account with [Mercury](https://app.mercury.com/r/567)
+- [ ]  Set up QuickBooks, Accountant, for bookkeeping, [email me for referral](mailto:work+stack@jxnl.co)
+
+### 2. Implement essential software tools[¶](https://jxnl.co/writing/2024/08/23/consulting-stack/#2-implement-essential-software-tools)
+
+- [ ]  Set up [Stripe](https://stripe.com/) for invoicing
+- [ ]  Sign up for [Dropbox and Dropbox Sign](https://sign.dropbox.com/)
+- [ ]  Create a [Cal.com](https://cal.com/) account for scheduling
+- [ ]  Set up [Circleback](https://app.circleback.ai/login?ref=jason@jxnl.co) for meeting notes and follow-ups
+- [ ]  Get access to [Anthropic Claude](https://claude.ai/new) for AI assistance
+
+### 3. Prepare standardized documents[¶](https://jxnl.co/writing/2024/08/23/consulting-stack/#3-prepare-standardized-documents)
+
+- [ ]  Create a standard engagement letter template
+- [ ]  Develop a proposal process and template
+
+### 4. Plan for scaling the practice[¶](https://jxnl.co/writing/2024/08/23/consulting-stack/#4-plan-for-scaling-the-practice)
+
+- [ ]  Research hiring an EA, reach out to your personal network
+- [ ]  Develop a content generation strategy from calls
+
+### 5. Set up systems for ongoing growth[¶](https://jxnl.co/writing/2024/08/23/consulting-stack/#5-set-up-systems-for-ongoing-growth)
+
+- [ ]  Implement a process for turning client calls into blog posts
+- [ ]  Establish a routine for creating and sharing valuable content

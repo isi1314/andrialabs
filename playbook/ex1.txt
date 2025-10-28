@@ -1,0 +1,77 @@
+# Example Proposal 1
+
+The company is looking to enhance their product's next iteration to increase user engagement through time-saving automated interactions, such as drafting messages and emails. They seek support with data preprocessing, research, retrieval systems, productivity improvements, and developing feedback loops.
+
+**Objectives:**
+
+Enhance decision-making speed and focus on prioritizing key areas for improving retrieval, generation, and ranking:
+
+**Applied AI Objectives**
+
+1. **Search Capabilities:** Improve the search function to accurately retrieve relevant documents based on varied and complex user queries.
+2. **Utilization of AI Models:** Effectively integrate AI models for tasks like query understanding, indexing, ranking search results, summarization, and response.
+3. **Development of a Data Flywheel:** Establish a user feedback system to gather insights for ongoing improvement of the search and retrieval system.
+4. **Drafting Product:** Develop strategies and tactics for improving the pre-drafting features 
+
+**Product Objectives**
+
+This is all in service of the business’s 5/7 day metric discussed in the document shared with me. While we cannot game the metric the leading metrics are:
+
+1. Improve Volume of Interventions (N  number of notifications)
+    1. Notifications / Reminders 
+2. Improve the surface area of interventions (F number of features)
+    1. Slack / Email / Forms / etc / iOS / Events / etc 
+3. Improve the quality of interventions (Q quality / probability of engagement )
+    1. Better Prompts, aligned  with human preference, A/B Tests
+
+We can improve the quality of interventions through experimentation, improving the surface area by developing more features, and finding the right volume through UX research, design, and experimentation. Naively its really just `Sum_i (N_i * P_i) for all i in Features` 
+
+**Measures of Success:**
+
+In order to better define success we will need to:
+
+1. **Monitor User Feedback:** Continuously monitor the user feedback mechanism to better capture and respond to user experiences and needs to measure leading metrics
+2. **Developing Efficient Evaluation Metrics:** Crafting targeted metrics to speed up iterations and enhance the system's overall effectiveness in areas to drive intervention quality 
+3. **Developing new products:** Create positive net interventions that do not cannibalize 
+
+**Value:** 
+
+1. A reliable retrieval system will significantly reduce customer churn by maintaining user trust through minimized failure modes. 
+2. Regular weekly interventions and engagements strengthen user loyalty and satisfaction.
+3. The company's strong presence in the tech space, combined with the development of advanced features, will both enhance the product offering and help attract top talent through shared work.
+
+**Methodology:** 
+
+- Option 1) Serve on retainer for about 5 hours per week
+    - Work with the team to create a set of strategies and tactics
+        - Attend standups and planning meetings, provide technical strategy and planning guidance
+    - Provide additional ad-hoc support for recruiting, hiring, and staff development
+- Option 2) Serve on retainer for approximately 10 hours per week
+    - In addition to Option 1:
+        - Support research, prototyping, and implementation efforts that can be productionized with engineering team support
+- Option 3) Technical Writing and R&D
+    - In addition to Option 2:
+        - Conduct additional R&D and produce technical blog posts to support recruitment efforts
+
+**Timing**
+
+- I’m happy to commit to any amount of time for the next 6 months and flex up 10 → 20 when I have more availability.
+
+**Joint Accountabilities:**
+
+- Regular communication and status updates to ensure alignment on project goals and progress.
+- Adherence to confidentiality and data protection standards, with appropriate legal agreements in place.
+- Team access to my calendar for scheduling meetings.
+- 24-hour response time to inquiries via Slack, email, or calls.
+- Provision of documentation and code artifacts as needed.
+- Prompt notification of any circumstances that could significantly impact project outcomes and success.
+
+**Terms and conditions:**
+
+- Investment for Option 1 is 6000 per month:
+- Investment for Option 2 is 48000 over a 4 month period
+- Investment for Option 3 is 80000 over a 4 month period
+
+Fifty percent is due on acceptance, balance is due 30 days after. Afterwards billed at the beginning of every month.
+
+Your choice of an option below and your payment consitute acceptance of the terms and conditions herein. In lieu of your signature we will proceed solely on the basis of first payment.

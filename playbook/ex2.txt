@@ -1,0 +1,149 @@
+# Example Proposal 2
+
+## Situation Appraisal
+
+The company has begun a major initiative to integrate advanced AI capabilities into its CRM allow an automatically updating CRM based on customer interactions using LLMS, facing several key challenges:
+
+- Processing over 200,000 emails per minute requires robust, scalable AI solutions, While cost is not the biggest concern now, we still expect to run into scaling hurdles if we do not build systems that are conscious of these limitations.
+- Extracting valuable insights from both emails and call transcripts is needed to create a self-updating CRM, effectively building a memory system based on customer interactions.
+- Capitalizing on the company's ecosystem to deliver integrated AI solutions that outperform narrow, single-purpose AI tools in the market.
+- Balancing innovation with stringent legal and privacy requirements.
+- Leveraging existing infrastructure and llm training capabilities to accelerate development
+
+The current state of email signature extraction is functional but limited. The vision of a self-updating CRM that automatically enriches itself based on all communication data remains unrealized. This engagement aims to bridge that gap.
+
+## Objectives
+
+1. Develop a scalable prototype for processing call transcripts and automatically updating the CRM.
+2. Implement prototype features including structured extraction for sentiment analysis, intent detection, and identifying objections and other key elements of customer interactions.
+3. Create a framework for a self-updating CRM that minimizes manual data entry and provides superhuman recall for uncovering business insights and client opportunities.
+4. Establish a foundation and culture for ongoing AI integration and experimentation, staying ahead of point-solution competitors.
+    1. Implement synthetic data generation.
+    2. Create a tight evaluation loop using human preferences and LLMs as judges.
+    3. Identify UX improvements for better data collection.
+    4. Define objectives for a data flywheel to collect evaluations and fine-tuning data.
+
+## Metrics
+
+Success will be measured by:
+
+1. Delivery of a functional prototype in partnership with Colin, 
+2. Accuracy and relevance of extracted insights, benchmarked against human preference.
+3. Positive feedback from the the company team on knowledge transfer and usability.
+
+## Value
+
+Successful implementation of this project will:
+
+- Accelerate the company's AI Insights timeline by months, avoiding wasted time on researching best practices for implementation, experimentation, and design
+- Provide a competitive edge against AI-native point solutions, securing the company
+- 's market position.
+- Increase the value proposition of the company's CRM through automatic, intelligent updates, potentially driving significant revenue growth.
+
+## Methodology and Options
+
+### Option 1: Advisory
+
+This option provides high-level strategic guidance without hands-on implementation:
+
+- Monthly strategy sessions with leadership
+- Weekly 1:1 sync with Tech Lead and PM to address blockers and discuss potential experiments
+- Deliverables include written memos and small-scale prototypes on a weekly basis
+
+### Option 2: Comprehensive
+
+1. Rapidly prototype call transcript processing, leveraging my experience with Limitless AI and NaroHQ
+
+This option includes:
+
+- Availability on T, W, Th for ad-hoc meetings and collaborative work.
+- Bi-weekly strategy meetings to align on progress and tackle roadblocks.
+- Hands-on pair programming sessions to accelerate development and knowledge transfer.
+- Development of prototype systems using test data to ensure compliance.
+- Comprehensive research memos, training material, prototypes and documentation for knowledge transfer.
+
+### Option 3: Comprehensive + Expert Network
+
+This option includes everything in Option 1, plus:
+
+- Access to talks, sessions, and workshops for the company teams, led by top AI experts from my network
+- Help in setting up long-term partnerships or advisory roles between the company and these experts, if needed
+- ***Selected Expert Network (Click to Expand)***
+    
+    Jason can coordinate Experts can be invited to speak to the team, contribute to research memos to make recommendations. Other experts include core maintainers of llm training libraries and other related fields to help unblock and accelerate development.
+    
+    ## Hamel Husain
+    
+    [Hamel Husain](https://hamel.dev/) is a machine learning engineer with over 25 years of experience. He has worked with innovative companies such as Airbnb and GitHub, which included [early LLM research used by OpenAI](https://openai.com/index/introducing-text-and-code-embeddings#:~:text=models%20on%20the-,CodeSearchNet,),-evaluation%20suite%20where) for code understanding. He has also led and contributed to numerous popular [open-source machine-learning tools](https://hamel.dev/oss/opensource.html).
+    
+    ## Eugene Yan
+    
+    [Eugene Yan](https://eugeneyan.com/) designs, builds, and scales machine learning systems that serve millions of customers. With extensive experience at Amazon, he specializes in recommendation systems, machine learning infrastructure, and operationalizing AI at scale. Eugene is a thought leader in AI/ML, regularly sharing his knowledge through his [blog](http://eugeneyan.com) and public talks, while also advising executives on strategic ML initiatives.
+    
+    ## **Shreya Shankar**
+    
+    [Shreya](https://www.sh-reya.com/) is a leading researcher on applied ML and AI systems. She has led extensive research on human-computer interaction for low-code tools to program complex LLM workflows including evals, monitoring and fine-tuning. Her research has been adopted widely and is incorporated into many commercial LLM tools such as Langsmith, Autoblocks, Parea, and more.
+    
+    ## Madhav S.
+    
+    [Madhav S.](https://www.linkedin.com/in/ms337/) is an AI Engineer at Replit, where he fine-tunes code models, including those powering Replit's AI agent product. With a strong focus on large language models (LLMs) for software development, Madhav has played a pivotal role in optimizing code understanding for AI-driven development tools. His prior experience includes bootstrapping a startup during university, which has contributed to his expertise in bridging AI and software engineering.
+    
+    ## Benjamin Clavie
+    
+    [Ben](https://www.linkedin.com/in/benclavie/?locale=fr_FR) is a machine learning expert specializing in training re-ranker models using tools like ColBERT. He maintains popular re-ranking systems and is actively conducting research on new multimodal retrieval methods at [Answer.AI](http://Answer.AI) such as Copali
+    
+    Others include not only engineering leadership but also core maintainers of popular open-source libraries for training and inference. Additionally, I have access to a trusted vendor ecosystem through working relationships with other clients. This network can be leveraged to unblock technological issues and help evaluate tools and methodologies.
+    
+
+## Joint Accountabilities
+
+the company will:
+
+- Provide necessary test data and resources.
+- Allocate engineering resources for collaboration.
+- Facilitate meetings with key stakeholders.
+- Provide timely feedback on deliverables.
+- Ensure access to relevant documentation
+
+Consultant will:
+
+- Provide regular updates and be available for ad-hoc consultations.
+- Deliver all agreed-upon prototypes and documentation.
+- Maintain strict confidentiality of all the company data and information.
+- Work exclusively with provided test data to ensure compliance.
+
+## Terms and Conditions
+
+### Option 1: Advisory
+
+Fee: $55,000 for ~ 3 month engagement* 
+
+### Option 1: Comprehensive AI Integration
+
+Fee: $120,000 for ~ 3 month engagement*
+
+### Option 2: Comprehensive AI Integration + Expert Network
+
+Fee: $150,000 for ~ 3-month engagement*
+
+Payment terms:
+
+- 50% due upon acceptance of this proposal
+- 50% due 45 days after acceptance
+
+A courtesy discount of 10% is offered if the full fee is paid upon acceptance.
+
+- **Prices with 10% discount applied (Click to Expand)**
+    - **Option 1: Advisory**
+        - Total: $49,500
+        - Effective monthly rate: $16,500
+    - **Option 2: Comprehensive**
+        - Total: $108,000
+        - Effective monthly rate: $36,000
+    - **Option 3: Comprehensive + Expert Network**
+        - Total: $135,000
+        - Effective monthly rate: $45,000
+
+Note: The effective monthly rate is calculated based on a 3-month engagement period.
+
+*** Engagements account for some time off in December. After agreeing on deliverables, we anticipate the project possibly extending into late January. I won't charge for any additional time and will consider the engagement complete upon delivering the prioritized results.**

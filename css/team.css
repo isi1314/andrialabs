@@ -23,6 +23,28 @@
   margin-bottom: 80px;
 }
 
+.member-header {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-bottom: 32px;
+}
+
+.member-header-text {
+  flex: 0 1 auto;
+}
+
+.member-photo {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 8px;
+  border: 1px solid rgba(236, 223, 204, 0.2);
+  flex-shrink: 0;
+  margin-left: auto;
+  margin-right: 20px;
+}
+
 .member-info h2 {
   font-size: 2rem;
   font-weight: 600;
@@ -34,7 +56,7 @@
 .member-title {
   font-size: 1.15rem;
   color: #697565;
-  margin-bottom: 32px;
+  margin-bottom: 0;
 }
 
 .member-bio {
@@ -118,6 +140,18 @@
   .team-content h1 {
     font-size: 2rem;
     margin-bottom: 40px;
+  }
+
+  .member-header {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .member-photo {
+    width: 100px;
+    height: 100px;
+    order: -1;
   }
 
   .member-info h2 {

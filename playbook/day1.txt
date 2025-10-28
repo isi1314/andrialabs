@@ -1,0 +1,3437 @@
+WEBVTT
+
+1
+00:00:27.230 --> 00:00:32.640
+Jason Liu: All right. Thank you, Marin, for organizing some notes, those saving my life.
+
+2
+00:01:05.580 --> 00:01:10.910
+Jason Liu: I'm just like instant admit all a thousand times in a row.
+
+3
+00:01:12.670 --> 00:01:14.460
+âš¡ Marian Noble (she/her): Make me a co-host. I'll do it.
+
+4
+00:01:14.970 --> 00:01:15.540
+Jason Liu: Bye.
+
+5
+00:01:18.130 --> 00:01:18.900
+âš¡ Marian Noble (she/her): Thank you.
+
+6
+00:01:19.600 --> 00:01:20.140
+Jason Liu: Sweet.
+
+7
+00:01:25.930 --> 00:01:31.070
+Jason Liu: This is automatically recording. So let's just yeah. Let's wait. One more minute, and then I'll we'll jump in
+
+8
+00:01:31.300 --> 00:01:34.599
+Jason Liu: and then can everyone see the raise hand, button.
+
+9
+00:01:36.140 --> 00:01:36.990
+âš¡ Marian Noble (she/her): Yes.
+
+10
+00:01:37.690 --> 00:01:38.740
+Jason Liu: Perfect cool.
+
+11
+00:01:39.150 --> 00:01:44.800
+Jason Liu: so I will be answering some of the questions that Marion sent me first, st and then we can jump into just like a
+
+12
+00:01:44.830 --> 00:01:51.269
+Jason Liu: regular conversation is a there are plenty of questions to go over
+
+13
+00:01:55.640 --> 00:01:58.070
+Jason Liu: alright together.
+
+14
+00:02:05.890 --> 00:02:09.110
+Jason Liu: Yeah, I'll definitely answer the question about cold outreach in a little bit.
+
+15
+00:02:26.170 --> 00:02:29.250
+Jason Liu: Alright. Let's jump in. I'm super excited to actually
+
+16
+00:02:29.420 --> 00:02:33.819
+Jason Liu: have a conversation with everybody. I think most of the conversations I've had had to be on like
+
+17
+00:02:33.890 --> 00:02:37.730
+Jason Liu: Twitter Dms and emails. So it's nice to see everyone's faces for the 1st time.
+
+18
+00:02:39.297 --> 00:02:46.840
+Jason Liu: Cool. Let's I'm gonna just jump in straight to Marion's questions that we shared, and then we will do
+
+19
+00:02:47.560 --> 00:02:51.540
+Jason Liu: anything notable from slack, and then we'll go into hand raising.
+
+20
+00:02:52.960 --> 00:03:02.960
+Jason Liu: So this 1st question is very important to me, which is, is there a reason to not use medium or its AI publishers to publish layer and get more exposure?
+
+21
+00:03:03.810 --> 00:03:08.719
+Jason Liu: The fundamental issue is, if you start posting on medium or posting on. You know. Tds.
+
+22
+00:03:09.570 --> 00:03:12.069
+Jason Liu: when an engineer shares the article.
+
+23
+00:03:12.180 --> 00:03:15.220
+Jason Liu: it is often in the position of
+
+24
+00:03:15.380 --> 00:03:18.460
+Jason Liu: oh, I saw something on medium. There's a bunch of stuff on medium.
+
+25
+00:03:18.650 --> 00:03:24.229
+Jason Liu: And your brand, as the author is kind of diminished by the the intensity of like Tds.
+
+26
+00:03:24.760 --> 00:03:27.589
+Jason Liu: And it's really hard to have 2 things.
+
+27
+00:03:27.880 --> 00:03:31.720
+Jason Liu: It's really hard to have a C. It's really hard to have a Cta that says like, Call me.
+
+28
+00:03:31.790 --> 00:03:33.780
+Jason Liu: And it's really hard to change that
+
+29
+00:03:33.850 --> 00:03:36.790
+Jason Liu: to a Cta of like pay me to call me
+
+30
+00:03:37.190 --> 00:03:40.490
+Jason Liu: so that that transition is going to be a bit of a challenge.
+
+31
+00:03:42.240 --> 00:03:43.830
+Jason Liu: The second thing is.
+
+32
+00:03:43.950 --> 00:03:47.960
+Jason Liu: if you have your own website, then what you can do is you can. You can publish a blog
+
+33
+00:03:48.270 --> 00:03:52.719
+Jason Liu: as well as having email capture as well as having a services page.
+
+34
+00:03:53.460 --> 00:04:01.469
+Jason Liu: And there's there's been many times when people will read my blog post. They'll kind of like, see the blog, maybe over the course of 5 months, 6 months.
+
+35
+00:04:01.690 --> 00:04:07.339
+Jason Liu: and then they're finally ready to click services and see what that's about, and see what makes sense for them.
+
+36
+00:04:07.890 --> 00:04:11.240
+Jason Liu: And so there's a lot of value in capturing the wrong audience.
+
+37
+00:04:11.450 --> 00:04:13.020
+Jason Liu: The second thing is.
+
+38
+00:04:14.210 --> 00:04:20.060
+Jason Liu: even though there are more readers for something like that. The tam is a very like low intent, Tam.
+
+39
+00:04:20.670 --> 00:04:22.849
+Jason Liu: The content is like how to use Langchain.
+
+40
+00:04:23.270 --> 00:04:30.160
+Jason Liu: but really the content that matters for the people who are actually going to be paying for consulting is going to be. How do I run my team more effectively?
+
+41
+00:04:30.440 --> 00:04:37.079
+Jason Liu: And the question is, is that content on Tds, or is that a content that should just be written on your own blog.
+
+42
+00:04:37.140 --> 00:04:40.919
+Jason Liu: Try to get that on Hacker news around Twitter, and then, you know, go from there.
+
+43
+00:04:41.460 --> 00:04:55.819
+Jason Liu: I'm just an aside for the best tools to publish. I use just markdown Docs, Mkdocs material. It's a very simple framework. It's all in Markdown. I use cursor to edit some code. I'll make sure to have an example of that
+
+44
+00:04:56.730 --> 00:04:59.639
+Jason Liu: when I, when I share some of the resources from today.
+
+45
+00:05:03.000 --> 00:05:06.679
+Jason Liu: can you touch on how you find your audience in the 1st place? Yeah.
+
+46
+00:05:06.800 --> 00:05:13.590
+Jason Liu: I would 1st say, like, I would 1st ask the question of like, what is the dream of that audience. And what is the message I have?
+
+47
+00:05:14.240 --> 00:05:19.480
+Jason Liu: Because once I know what the dream is and what the message is, I can figure out if the audience makes sense
+
+48
+00:05:19.550 --> 00:05:24.189
+Jason Liu: like. When I did write instructor, it really was this case where man, I really think that
+
+49
+00:05:24.560 --> 00:05:26.670
+Jason Liu: all these like Vc. By frameworks.
+
+50
+00:05:27.270 --> 00:05:28.900
+Jason Liu: I don't know how much I can trust them.
+
+51
+00:05:29.090 --> 00:05:34.479
+Jason Liu: And oftentimes they're gonna they're gonna keep growing. And I don't know if I want something to keep growing. I want a simple tool.
+
+52
+00:05:35.030 --> 00:05:43.160
+Jason Liu: And so if you, if you approach your marketing that way, the marketing, just this is a simple tool that does one thing well, and this is something that could work for you.
+
+53
+00:05:43.270 --> 00:05:47.150
+Jason Liu: Then the audience will come secondary, right
+
+54
+00:05:47.470 --> 00:05:54.240
+Jason Liu: with the rad course. It was. Well, I'm getting to a point where I'm really tired of saying the same thing over and over again.
+
+55
+00:05:54.810 --> 00:05:55.590
+Jason Liu: But
+
+56
+00:05:56.060 --> 00:06:01.360
+Jason Liu: I can't really get that many of an interesting testimonial, because it takes a long time to improve your rag applications.
+
+57
+00:06:01.490 --> 00:06:09.880
+Jason Liu: But if I build this course, then, as my consulting prices go up, I can fill in some space in the bottom and distribute that way
+
+58
+00:06:10.400 --> 00:06:14.350
+Jason Liu: right? But a lot of it is, what is your message, and what is the dream first? st
+
+59
+00:06:15.020 --> 00:06:18.999
+Jason Liu: And then how do you get to the audience. Afterwards
+
+60
+00:06:22.940 --> 00:06:26.710
+Jason Liu: a meeting hit the Max capacity. I thought I paid extra for for zoom.
+
+61
+00:06:27.780 --> 00:06:28.880
+Jason Liu: Oh, my gosh,
+
+62
+00:06:31.770 --> 00:06:35.100
+Jason Liu: How do you explore and identify the keywords around the tam.
+
+63
+00:06:37.790 --> 00:06:40.790
+Jason Liu: The general idea here is that once you.
+
+64
+00:06:40.970 --> 00:06:46.049
+Jason Liu: it's it's almost harder to figure out the tam before you write something.
+
+65
+00:06:46.240 --> 00:06:54.160
+Jason Liu: But what ends up happening is as you write it. You kind of you have a feel for what's going on. I'll give the common example that, like Mr. Beast gives, which is.
+
+66
+00:06:54.250 --> 00:06:55.949
+Jason Liu: you know, if if your title was
+
+67
+00:06:56.020 --> 00:07:01.930
+Jason Liu: today, I went to New York and had a great chicken sandwich, a great chicken sandwich
+
+68
+00:07:01.940 --> 00:07:10.670
+Jason Liu: today, I want is basically has, like just Tam, of who the people who know me once you add the word New York. It's like, Okay, the people who know me, but also care about New York.
+
+69
+00:07:10.680 --> 00:07:22.659
+Jason Liu: And at some point you're starting at to add words like fried chicken and whatnot. But then what you had to earn was, you had to earn them reading the 1st 7 words of your blog post, which already is very hard. Right?
+
+70
+00:07:23.430 --> 00:07:26.280
+Jason Liu: But if I say, if you want to have the best chick fed chicken in New York.
+
+71
+00:07:26.920 --> 00:07:28.949
+Jason Liu: This is the restaurant you should go to.
+
+72
+00:07:29.530 --> 00:07:41.460
+Jason Liu: and then you can start talking about. Well, last week, my best friend and I met up in New York for the 1st time in 10 years, and we thought about where to go, and and it seemed to be the best place based on the review that we saw. And we went. We tried 3 different places.
+
+73
+00:07:41.560 --> 00:07:43.259
+Jason Liu: If you want to learn more about like.
+
+74
+00:07:43.710 --> 00:07:49.519
+Jason Liu: you know, other places we checked out. Here's a newsletter, if you want to, like, you know, go to the restaurant. Here's the resi link.
+
+75
+00:07:50.520 --> 00:07:53.879
+Jason Liu: Now you can create desire and action once you can provide information.
+
+76
+00:07:53.930 --> 00:07:56.419
+Jason Liu: But the reward is like fully in the title.
+
+77
+00:07:56.630 --> 00:08:00.030
+Jason Liu: right? That's how I think about something like this.
+
+78
+00:08:02.050 --> 00:08:08.126
+Jason Liu: are you able to share, which blog posts are the ones that got the most views? The one that led to the most conversion is
+
+79
+00:08:08.700 --> 00:08:10.589
+Jason Liu: rag is more than embeddings.
+
+80
+00:08:11.780 --> 00:08:17.959
+Jason Liu: And I wrote it basically in the beginning of last year, where everyone was thinking about embedding. So the tam for Embeddings was massive.
+
+81
+00:08:17.970 --> 00:08:20.060
+Jason Liu: The tam for rag was massive.
+
+82
+00:08:20.410 --> 00:08:25.209
+Jason Liu: And not only that, the emotional reaction was basically
+
+83
+00:08:25.910 --> 00:08:31.130
+Jason Liu: every person trying to figure it out had the feeling of like I knew that was the case.
+
+84
+00:08:31.660 --> 00:08:33.499
+Jason Liu: like, I need to read this thing.
+
+85
+00:08:33.659 --> 00:08:36.799
+Jason Liu: And then every like researcher in Ir was like.
+
+86
+00:08:37.190 --> 00:08:43.249
+Jason Liu: I can't believe these like new software engineers like don't understand like anything about information retrieval.
+
+87
+00:08:43.539 --> 00:08:48.129
+Jason Liu: right? And that immediately got like 30,000 views on Hacker news. And that kind of was like
+
+88
+00:08:48.670 --> 00:08:58.929
+Jason Liu: the one of the first, st like 2 or 3 big breaks that we had in in this session. Marion, do you know, how can we like incrementally upgrade zoom? I thought I had paid.
+
+89
+00:08:58.930 --> 00:09:05.499
+âš¡ Marian Noble (she/her): Yeah, absolutely. I don't know, do you? Is it Karina or Maria, that I should talk to about that? Because I don't have your zoom.
+
+90
+00:09:05.900 --> 00:09:07.931
+Jason Liu: Oh, shoot! Okay, let let me
+
+91
+00:09:08.990 --> 00:09:10.229
+Jason Liu: let me figure this out. How many.
+
+92
+00:09:10.230 --> 00:09:16.930
+âš¡ Marian Noble (she/her): But it is, it is recording, and it will be uploaded to Maven, and we will fix this on Wednesday.
+
+93
+00:09:17.510 --> 00:09:18.620
+Jason Liu: Okay. Okay.
+
+94
+00:09:18.620 --> 00:09:18.970
+âš¡ Marian Noble (she/her): Yeah.
+
+95
+00:09:19.930 --> 00:09:20.820
+Jason Liu: Toma, also.
+
+96
+00:09:20.820 --> 00:09:24.280
+âš¡ Marian Noble (she/her): Probably get the Slido so we can
+
+97
+00:09:24.470 --> 00:09:27.450
+âš¡ Marian Noble (she/her): navigate all these hundreds of questions y'all are sending in.
+
+98
+00:09:27.450 --> 00:09:28.265
+Jason Liu: Yeah,
+
+99
+00:09:30.150 --> 00:09:42.280
+Jason Liu: while we share. Alpha. Okay, while sharing Alpha is recommended. Should we also share the Github links and code? I don't think so, because again, most people don't want to be taught how to fish.
+
+100
+00:09:43.340 --> 00:09:45.640
+Jason Liu: I think most people just want the fish.
+
+101
+00:09:46.050 --> 00:09:58.169
+Jason Liu: and unless that code is something that can be used. You could use it as proof right? Like, if you build a lightweight like eval framework. And then someone can come to you and say, oh, that's basically what I want.
+
+102
+00:09:58.250 --> 00:10:00.819
+Jason Liu: Can you just come on board and help us figure this out?
+
+103
+00:10:01.250 --> 00:10:02.989
+Jason Liu: There's definitely value in that.
+
+104
+00:10:03.150 --> 00:10:08.169
+Jason Liu: But I would almost ask, like how many people would actually read the blog post and even run the code.
+
+105
+00:10:08.950 --> 00:10:10.660
+Jason Liu: because I would say that
+
+106
+00:10:12.020 --> 00:10:17.099
+Jason Liu: the person who has enough time to then run. The code is probably not the person who
+
+107
+00:10:17.290 --> 00:10:19.809
+Jason Liu: is trying to spend money to buy their time back
+
+108
+00:10:20.760 --> 00:10:28.750
+Jason Liu: right? And so, like the tam of someone who would run. The code is already someone who's inherently like less valuable from a customer perspective.
+
+109
+00:10:29.110 --> 00:10:34.220
+Jason Liu: Right? That's how I think about it's like, does the person with money, actually
+
+110
+00:10:34.540 --> 00:10:37.879
+Jason Liu: do this thing. And like, can we? Can we can we fish?
+
+111
+00:10:38.150 --> 00:10:42.609
+Jason Liu: Yeah, most people want to play fish, you know, the the busier I get the more it's like, Okay, well, I don't even
+
+112
+00:10:43.040 --> 00:10:48.370
+Jason Liu: like I have to, you know, only spend money to get my time back. And that's kind of
+
+113
+00:10:48.400 --> 00:10:50.709
+Jason Liu: the ideal customer right?
+
+114
+00:10:50.840 --> 00:10:59.220
+Jason Liu: Like the Hacker news person who's like, Oh, I could re I could rebuild Dropbox from scratch is not someone who values their time very much and so inherently a bad customer.
+
+115
+00:11:00.671 --> 00:11:05.649
+Jason Liu: What is your view on technical? How to versus a general non-technical case? Study content.
+
+116
+00:11:06.450 --> 00:11:10.949
+Jason Liu: How do you show your expertise without talking about technical details and including coach snippets.
+
+117
+00:11:11.430 --> 00:11:18.370
+Jason Liu: Well, I think that's that's 1 of the big things we'll talk about to Wednesday, which is
+
+118
+00:11:19.320 --> 00:11:23.079
+Jason Liu: technical details are kind of the lowest pole of value.
+
+119
+00:11:23.870 --> 00:11:31.609
+Jason Liu: Right? Technical details is like a bricklayer saying, they're like, Oh, like, I lay bricks like, really fast. And I'm really good at like laying the bricks.
+
+120
+00:11:31.920 --> 00:11:35.439
+Jason Liu: But as you go up the value hierarchy, the real question is.
+
+121
+00:11:35.510 --> 00:11:38.679
+Jason Liu: how much is it going to cost you if this building is delayed
+
+122
+00:11:39.410 --> 00:11:45.339
+Jason Liu: right like, how are you gonna feel when people can't move in to the condo? Right?
+
+123
+00:11:45.480 --> 00:11:51.929
+Jason Liu: How? How's it gonna feel? If like. We can't get this done before the winter and project is delayed until January.
+
+124
+00:11:52.360 --> 00:11:57.150
+Jason Liu: How much is that like? How much is that insurance worth to you that
+
+125
+00:11:57.870 --> 00:12:02.049
+Jason Liu: the implementation might be, yeah, well, I will get it done because I lay the bricks really fast.
+
+126
+00:12:03.290 --> 00:12:08.689
+Jason Liu: But the question should really be like, What is the cost of not getting this done before the winter
+
+127
+00:12:08.820 --> 00:12:13.449
+Jason Liu: like, if this prototype is not finished by the summer and the Vcs. Go on their holidays.
+
+128
+00:12:15.010 --> 00:12:21.299
+Jason Liu: you know you might miss out on like a 2 million dollar raise and like it looks opt. And on the optics is you just delay a raise.
+
+129
+00:12:22.380 --> 00:12:29.149
+Jason Liu: but then you can ask, like, how many employees do you have? How much burn do you have left? It sounds like you really need to get this thing up and running to show that you can.
+
+130
+00:12:29.180 --> 00:12:31.900
+Jason Liu: you know, have a demo, so you can find these investors.
+
+131
+00:12:32.310 --> 00:12:39.519
+Jason Liu: And now, all of a sudden, like your job could be like, can I invite these 2 to dinner? Right? You can really creatively go up and down this
+
+132
+00:12:39.580 --> 00:12:45.049
+Jason Liu: this time versus value spectrum. And that's something we're going to talk a lot about on on Wednesday.
+
+133
+00:12:46.010 --> 00:12:51.010
+Jason Liu: Would you modify anything if you talk to less technical people as the audience or not?
+
+134
+00:12:51.060 --> 00:13:09.060
+Jason Liu: I would say so, because being technical really is just a part of being proof like, if you use jargon, what you're saying is, I look like a certain kind of character, right? And so if you use jargon, what's going to happen is the engineering team might be reading this blog post, sharing it on on slack, and then the Vp of engineering clicks it up
+
+135
+00:13:09.570 --> 00:13:10.380
+Jason Liu: right?
+
+136
+00:13:11.077 --> 00:13:16.249
+Jason Liu: Whereas if it's not technical again, we should be focusing on the outputs
+
+137
+00:13:16.410 --> 00:13:18.149
+Jason Liu: of the the work that you're doing.
+
+138
+00:13:18.820 --> 00:13:22.250
+Jason Liu: Let me let me jump through a couple more that I think are gonna be really interesting.
+
+139
+00:13:23.820 --> 00:13:31.439
+Jason Liu: How do you identify and validate your initial target audience. Did you start broad or narrow over time? Or did you focus on specific services from the beginning?
+
+140
+00:13:32.340 --> 00:13:36.020
+Jason Liu: I think you generally will go for a broader audience. But.
+
+141
+00:13:36.490 --> 00:13:46.579
+Jason Liu: like my, my plan is pretty pretty crazy. I basically say, if I have a single idea, I want to have multiple ways of positioning it, and I'll just write the same tweet
+
+142
+00:13:47.410 --> 00:13:49.690
+Jason Liu: like once a day.
+
+143
+00:13:50.120 --> 00:13:55.060
+Jason Liu: and it's never the case that the tweets get the same amount of views. It's always going to be the case where?
+
+144
+00:13:55.290 --> 00:14:00.276
+Jason Liu: Because I changed the title somehow, it's going to be 10 times more views, right? Like
+
+145
+00:14:01.330 --> 00:14:04.940
+Jason Liu: for example, a lot of people I noticed were making hiring mistakes.
+
+146
+00:14:05.510 --> 00:14:09.079
+Jason Liu: So the 1st piece was, it was, gonna be like like how to hire AI engineers.
+
+147
+00:14:09.450 --> 00:14:11.360
+Jason Liu: So that's not very useful right?
+
+148
+00:14:11.510 --> 00:14:16.570
+Jason Liu: But it became like, Okay, if you hire an AI engineer too early, they're just going. They're gonna just join Openai
+
+149
+00:14:16.890 --> 00:14:20.970
+Jason Liu: or like a pre-seed company to not be hiring machine learning engineers.
+
+150
+00:14:21.390 --> 00:14:27.820
+Jason Liu: It's the same idea of just like if you hire someone too soon, they're gonna like leave and join something else. But as you just play around with the Tweets.
+
+151
+00:14:28.380 --> 00:14:30.499
+Jason Liu: you end up finding the Tweet that is
+
+152
+00:14:30.870 --> 00:14:33.790
+Jason Liu: like a hundred times more engagement.
+
+153
+00:14:34.090 --> 00:14:36.470
+Jason Liu: and they go great. Oh, that's the that's the thing.
+
+154
+00:14:37.190 --> 00:14:42.020
+Jason Liu: The number one mistake I see in hiring is hiring an mle too soon.
+
+155
+00:14:42.740 --> 00:14:50.949
+Jason Liu: Right? If they hire too soon, they're going to hate writing Javascript. They're going to quit and join Openai, and you know they're going to be waiting on you to collect data
+
+156
+00:14:51.590 --> 00:14:53.030
+Jason Liu: da-da-da-da-da-da-da
+
+157
+00:14:53.170 --> 00:15:04.450
+Jason Liu: right? And then in the in the middle. You can say, Well, I I know this because I'm a consultant, and you can like have a hot link right? That's a post that goes viral on hacker news. Now you can start building momentum on.
+
+158
+00:15:04.500 --> 00:15:05.949
+Jason Liu: you know, getting intent.
+
+159
+00:15:05.970 --> 00:15:07.430
+Jason Liu: And, more importantly.
+
+160
+00:15:07.930 --> 00:15:14.130
+Jason Liu: the person who is hiring people is definitely a customer that has money that's willing to pay pay money to to save time.
+
+161
+00:15:14.400 --> 00:15:15.160
+Jason Liu: Right?
+
+162
+00:15:15.460 --> 00:15:18.029
+Jason Liu: And so there's a lot of different angles that can go there.
+
+163
+00:15:18.120 --> 00:15:21.869
+Jason Liu: So the hiring example, what I ended up doing was making a job board.
+
+164
+00:15:22.190 --> 00:15:27.140
+Jason Liu: And it's okay. If you're reading this blog post on hiring, he's a job board for everyone else who's talking about machine learning?
+
+165
+00:15:28.611 --> 00:15:37.679
+Jason Liu: Cool. I think those are some of the the questions that I would say. I'll answer this one last question before I jump onto the zoom, and then we can just like raise our hands.
+
+166
+00:15:39.270 --> 00:15:43.719
+Jason Liu: Which is, how do you know when a piece of content or article idea is good enough.
+
+167
+00:15:43.780 --> 00:15:47.410
+Jason Liu: I would always just write too early. I would always ship too early.
+
+168
+00:15:47.740 --> 00:15:53.190
+Jason Liu: because the if it's bad content, it just won't be seen by anybody. So you're safe
+
+169
+00:15:53.400 --> 00:15:58.309
+Jason Liu: like, you're not gonna write a bad plot post that embarrasses you. That also gets like a million views
+
+170
+00:15:58.580 --> 00:16:03.159
+Jason Liu: and like the tweets that aren't like the jokes that aren't funny are just like not being shown on the newsfeed.
+
+171
+00:16:03.360 --> 00:16:08.180
+Jason Liu: And I really want you guys to push that because
+
+172
+00:16:08.680 --> 00:16:18.259
+Jason Liu: the experiment is also not just the quality of the article. But it's like, Am I actually able to command attention? And am I able to say something that people will listen to.
+
+173
+00:16:18.550 --> 00:16:21.460
+Jason Liu: and that's how I can become the expert right?
+
+174
+00:16:21.530 --> 00:16:24.629
+Jason Liu: Like I will write the same blog twice and post it twice.
+
+175
+00:16:24.940 --> 00:16:28.590
+Jason Liu: and then it's like, Oh, really, the people thing that people care about isn't actually
+
+176
+00:16:29.020 --> 00:16:33.730
+Jason Liu: like. If I'm twice as fast, people don't want to do twice as much work. They want to go home sooner.
+
+177
+00:16:33.930 --> 00:16:37.450
+Jason Liu: because that blog post, like, you know, did a lot better in terms of engagement.
+
+178
+00:16:38.846 --> 00:16:43.899
+Jason Liu: And then again, you sort of like you start learning like, what is the thing that draws people together?
+
+179
+00:16:44.250 --> 00:16:46.320
+Jason Liu: Because again, the the goal is
+
+180
+00:16:46.460 --> 00:16:51.439
+Jason Liu: once you know what resonates in the blogs. This is what you say during a sales call
+
+181
+00:16:52.600 --> 00:16:55.760
+Jason Liu: right? And that is like the the hack. It's like, I don't wanna
+
+182
+00:16:55.970 --> 00:17:01.800
+Jason Liu: practiced sales 50 times. So that's that's like, if I had 50 sales calls, that's actually a ton of work.
+
+183
+00:17:02.220 --> 00:17:03.970
+Jason Liu: But I'm not gonna be able to practice that.
+
+184
+00:17:04.170 --> 00:17:05.720
+Jason Liu: But I can practice
+
+185
+00:17:05.740 --> 00:17:10.800
+Jason Liu: like writing a blog post and getting a tent like a hundred 1,000 views and knowing, oh, this is something people care about
+
+186
+00:17:11.140 --> 00:17:15.940
+Jason Liu: like. Very quickly I learned that every AI startup that's consumer.
+
+187
+00:17:16.359 --> 00:17:18.190
+Jason Liu: What happens is they go viral.
+
+188
+00:17:18.609 --> 00:17:21.710
+Jason Liu: and then they have a ton and of churn
+
+189
+00:17:22.940 --> 00:17:27.869
+Jason Liu: right? So every every consumer app goes viral has a ton of churn, and the thing they lose is trust.
+
+190
+00:17:28.760 --> 00:17:44.080
+Jason Liu: And I know that because I wrote a blog post on like, you know, the number one issue with consumer products is like, you know, turn and trust. Here's 3 things you can do to like. Improve citations, have better evaluations and communicate expectations to the customer in order to not to set expectations well.
+
+191
+00:17:44.280 --> 00:17:53.139
+Jason Liu: right, and they go. Oh, this is something that resonates with a lot of people. I can either double down on this content, do my own research, and figure out how to do citations better.
+
+192
+00:17:53.790 --> 00:18:00.890
+Jason Liu: But like better citations, is an implementation detail of not losing the trust of a business.
+
+193
+00:18:01.410 --> 00:18:07.320
+Jason Liu: and if you can communicate with, look, if you work with me, you will stop losing money.
+
+194
+00:18:07.560 --> 00:18:09.070
+Jason Liu: How much is that worth to you.
+
+195
+00:18:09.360 --> 00:18:14.250
+Jason Liu: It's not going to be a function of like your hourly rate. It should be a function of the reduced churn.
+
+196
+00:18:14.300 --> 00:18:19.250
+Jason Liu: And obviously that conversation is gonna be is a difficult conversation to have. But
+
+197
+00:18:20.020 --> 00:18:26.180
+Jason Liu: you want you want to have at least skip to that part rather than like in during the call. Learn that. Oh, people are having churn, and
+
+198
+00:18:26.320 --> 00:18:28.650
+Jason Liu: and I wish I could have communicated a little bit sooner.
+
+199
+00:18:29.570 --> 00:18:35.970
+Jason Liu: And then, lastly, if if you do, a sales call, and you find out that they are facing churn.
+
+200
+00:18:36.400 --> 00:18:38.179
+Jason Liu: You can now just send them a blog post
+
+201
+00:18:39.150 --> 00:18:45.559
+Jason Liu: right instead of saying like, Oh, Jason had a good idea. He he did mention something to. Oh, Jason wrote about this 6 months ago.
+
+202
+00:18:46.130 --> 00:18:48.570
+Jason Liu: sit okay. What is he thinking about now?
+
+203
+00:18:48.650 --> 00:18:50.680
+Jason Liu: And like cause. I should have read this 6 months ago.
+
+204
+00:18:51.090 --> 00:18:56.460
+Jason Liu: right? And now you can change a little bit about sort of your positioning, and how you communicate during the sales process
+
+205
+00:18:57.330 --> 00:18:58.170
+Jason Liu: cool?
+
+206
+00:19:00.050 --> 00:19:06.039
+Jason Liu: Should I just be going through the comments, or are people going to raise their hands? And then we can go over some more questions. Martin, what do you think.
+
+207
+00:19:07.530 --> 00:19:10.809
+âš¡ Marian Noble (she/her): Yeah, let's do some hand raise, get some interaction. I want to hear their voices.
+
+208
+00:19:11.150 --> 00:19:12.150
+Jason Liu: Let's do it. Let's do it.
+
+209
+00:19:12.910 --> 00:19:14.140
+âš¡ Marian Noble (she/her): Alright, amar!
+
+210
+00:19:18.280 --> 00:19:21.389
+Jason Liu: Oh, I think you're muted, or I don't hear sound.
+
+211
+00:19:21.390 --> 00:19:24.429
+âš¡ Marian Noble (she/her): I don't think his mic's plugged in, or something like that.
+
+212
+00:19:25.770 --> 00:19:26.410
+âš¡ Marian Noble (she/her): I've been there.
+
+213
+00:19:26.410 --> 00:19:32.360
+âš¡ Marian Noble (she/her): Your hand by going to the react down at the bottom of the zoom, and then you can click, raise hand. If you have a question.
+
+214
+00:19:32.960 --> 00:19:36.669
+âš¡ Marian Noble (she/her): we'll go to Tahoe. While Amar's figuring out his technical issue.
+
+215
+00:19:39.470 --> 00:19:40.850
+Taha: Hey, Jason, can you hear me?
+
+216
+00:19:40.850 --> 00:19:42.679
+Jason Liu: Yeah, I can hear you.
+
+217
+00:19:42.730 --> 00:19:46.060
+Taha: Yeah, thank you so much. So my question is.
+
+218
+00:19:46.693 --> 00:19:49.600
+Taha: I work for a consulting company. So I do
+
+219
+00:19:49.740 --> 00:20:08.600
+Taha: see, like various people coming from different industries. And then, I guess, like the thing with the AI is that you can apply to a whole bunch of different industries. And that's a little bit of a, you know, kind of an Adhd problem of who actually focus on working. If you don't have any kind of like strict preference in terms of like
+
+220
+00:20:08.930 --> 00:20:11.489
+Taha: previous kind of industry. Experience things like that.
+
+221
+00:20:12.910 --> 00:20:34.595
+Taha: and then kind of the part. 2 of that question which kind of connects with part one is that? Let's say you're writing a blog post for these industries. And you said something along the lines of Don't share like a lang chain snippet that is, gonna connect to the technical person for the decision maker who's gonna actually have money.
+
+222
+00:20:34.940 --> 00:20:35.410
+Jason Liu: Yeah.
+
+223
+00:20:35.410 --> 00:20:39.480
+Taha: And be the decision maker if you don't have the narrow context of.
+
+224
+00:20:39.770 --> 00:20:49.420
+Taha: you know, like being on a call with that person of what they exactly need in that moment in their business. Are you gonna kind of like, do the guessing game of
+
+225
+00:20:49.820 --> 00:20:58.449
+Taha: you know me sitting here and saying, okay, I'm gonna go in the hedge fund vertical. And I'm gonna write about back office automation of Xyz.
+
+226
+00:21:00.160 --> 00:21:01.549
+Taha: Does that kind of make sense.
+
+227
+00:21:03.060 --> 00:21:04.270
+Jason Liu: Yeah, I mean.
+
+228
+00:21:05.430 --> 00:21:09.970
+Jason Liu: I don't know if you would have to write like the article about like this is how hedge funds can do it.
+
+229
+00:21:10.140 --> 00:21:12.310
+Jason Liu: But like, I think there's an article of just like
+
+230
+00:21:14.140 --> 00:21:20.230
+Jason Liu: our back office. Automation is similar across different domains, right? Like, if I think about the rag content that I wrote. It really is.
+
+231
+00:21:21.250 --> 00:21:27.840
+Jason Liu: The real thing is sort of. We need to have some kind of behavioral change as software engineers transition to AI engineering
+
+232
+00:21:28.160 --> 00:21:31.820
+Jason Liu: right? It's it's a little bit more abstract just to capture more. Tim.
+
+233
+00:21:31.960 --> 00:21:38.679
+Jason Liu: like I could write an article of like how to do real estate document processing right? But that book
+
+234
+00:21:38.740 --> 00:21:42.860
+Jason Liu: that is probably not where I would excel at today.
+
+235
+00:21:43.400 --> 00:21:44.200
+Jason Liu: Right?
+
+236
+00:21:46.470 --> 00:21:52.320
+Jason Liu: so yeah, I think it could be an angle of like if you really want to go after the hedge fund, it might make sense to buy that kind of content.
+
+237
+00:21:52.600 --> 00:21:58.180
+Jason Liu: But I think what would make more sense is saying, Okay, you know what? Like, I'm doing a lot of like automation work for many industries.
+
+238
+00:21:58.210 --> 00:22:06.889
+Jason Liu: Here's a case study in in this industry, in that industry. Here's maybe a portfolio blogs, and how they're similar in many ways and different in many ways.
+
+239
+00:22:07.850 --> 00:22:08.670
+Jason Liu: right?
+
+240
+00:22:09.370 --> 00:22:11.530
+Jason Liu: And what I do in sales would be okay
+
+241
+00:22:11.810 --> 00:22:20.090
+Jason Liu: if if it sounds like one of these industries, I would might say, Okay, here's 2 blog posts that I wrote about this kind of content, like, if this resonates to you. Let's like, bring this up on the next call.
+
+242
+00:22:20.100 --> 00:22:23.520
+Jason Liu: Right? We can go a little bit deeper like, how can I prepare more and like, what?
+
+243
+00:22:23.680 --> 00:22:27.149
+Jason Liu: What is the basis that we can work with.
+
+244
+00:22:27.160 --> 00:22:29.319
+Jason Liu: and have some kind of like share language around that.
+
+245
+00:22:30.100 --> 00:22:52.519
+Taha: Mostly understood to kind of like make a little bit more concrete. So let's say something like Nl, 2. Sequel. So nl. 2 SQL. You can apply in like many, many different ways. So would it be like the right layer of abstraction to say something like, Hey, like, here's how hedge funds use. Nl, 2, sequel. Here's how like businesses even use analytics or something like that.
+
+246
+00:22:52.860 --> 00:22:57.990
+Jason Liu: Yeah, exactly. And like, maybe figure out like, are there commonalities across many of these industries? You know.
+
+247
+00:22:59.310 --> 00:23:00.839
+Taha: Got it all right.
+
+248
+00:23:01.740 --> 00:23:02.260
+Jason Liu: Wolf.
+
+249
+00:23:02.900 --> 00:23:05.190
+Jason Liu: Hi, mark! Is is the mic working now.
+
+250
+00:23:05.190 --> 00:23:06.240
+Ammar Mohanna: Can you hear me now?
+
+251
+00:23:06.240 --> 00:23:08.079
+Jason Liu: Yes, yes, success.
+
+252
+00:23:08.080 --> 00:23:11.640
+Ammar Mohanna: Perfect. Hi, everyone! You've been there right, Jason.
+
+253
+00:23:11.830 --> 00:23:12.640
+Jason Liu: Yep. Yep.
+
+254
+00:23:12.640 --> 00:23:39.670
+Ammar Mohanna: Yeah. So basically, I, I have a question less related to marketing, more related to specialization on like a longer term. So today's word. We are AI, like consultants. Everyone wants to have our services. That's perfect. But like in in like, in 5 years, and like 2 years would we be still asking for a generic AI consultant, or would we be looking for an AI consultant that is specialized in education
+
+255
+00:23:39.690 --> 00:23:49.029
+Ammar Mohanna: or an AI consultant that is specialized into a certain industry. Would it be beneficial at the moment to start going that way? So to go like you specialized in a tech
+
+256
+00:23:49.070 --> 00:23:59.479
+Ammar Mohanna: side like rags. You especially you. You went there like. But there's another another dimension that we can go through going into a certain industry, medicine or education or whatnot.
+
+257
+00:23:59.660 --> 00:24:03.720
+Ammar Mohanna: and I just want to emphasize on like one question that was asked in the chat.
+
+258
+00:24:03.740 --> 00:24:09.369
+Ammar Mohanna: how about AI consulting in markets outside of Silicon Valley? That would be really interesting to talk about.
+
+259
+00:24:10.110 --> 00:24:12.410
+Jason Liu: Yeah. So I've worked with some
+
+260
+00:24:12.960 --> 00:24:24.439
+Jason Liu: hedge funds in the past, not hedge funds, private equity firms, but they're just like very slow moving a lot of the work I've noticed has been just like in the integration of the software engineering stack, less on the AI stack.
+
+261
+00:24:24.640 --> 00:24:26.680
+Jason Liu: So a lot of the work there ends up being like
+
+262
+00:24:26.730 --> 00:24:32.110
+Jason Liu: either it's full advisory or they want some kind of white glove service that does all the implementation.
+
+263
+00:24:32.170 --> 00:24:38.109
+Jason Liu: So I think the agency route is going to be very successful for a long time. As for specialization.
+
+264
+00:24:38.760 --> 00:24:40.080
+Jason Liu: I would just
+
+265
+00:24:41.340 --> 00:24:46.789
+Jason Liu: personally, I would just treat that as like, okay, what industry am I good at and like? What industry do, I think will grow very well?
+
+266
+00:24:47.332 --> 00:24:54.290
+Jason Liu: So, because I have not done that kind of specialization in in the industry, and I've only done it on the technology side.
+
+267
+00:24:54.310 --> 00:24:59.160
+Jason Liu: I'm pretty hesitant to sort of make a statement there. But
+
+268
+00:25:00.230 --> 00:25:05.759
+Jason Liu: I don't think there's anything wrong with specialization. It's only easier to figure out what the Icp is
+
+269
+00:25:06.100 --> 00:25:18.729
+Jason Liu: right. It's only easier to figure out what those pain points are. So you can write the content that resonates. It's only going to be easier to figure out. How can I have case studies and and figure out like, how would you do? Outbound? Because you know exactly what you're looking for?
+
+270
+00:25:18.920 --> 00:25:20.210
+Jason Liu: Right for me? It's
+
+271
+00:25:20.560 --> 00:25:32.180
+Jason Liu: right before and right after series A, or it's a larger company who has a lot of competitors that are startups. Those are like just 2 customers that I've I've really, I have been very, very valuable.
+
+272
+00:25:32.280 --> 00:25:36.299
+Jason Liu: but that specialization will just only make content and sells easier. I imagine.
+
+273
+00:25:39.100 --> 00:25:40.620
+Ammar Mohanna: Sounds good. Thanks a lot.
+
+274
+00:25:40.810 --> 00:25:41.370
+Jason Liu: Okay.
+
+275
+00:25:41.560 --> 00:25:42.320
+Jason Liu: Sid.
+
+276
+00:25:44.300 --> 00:26:10.309
+Sid: Hey, Jason? Question is going to come across a little bit rude, but it's not rude. It's just honest. Which is you've identified 2 customer as as you said, like Vc back startups. And then, like maybe bigger enterprise companies. And they all have a bigger budgets to to solve these things. In that space you also establish a lot of credibility because you come from a school you've worked at Meta stitch, fix, and all that kind of stuff.
+
+277
+00:26:10.310 --> 00:26:25.450
+Sid: Now I live in Florida. I did not go to amazing school. I don't have a degree. I've been in this space for about 4 or 5 years haven't worked at Meta Stitch fix so big big companies like that. How do I? How would I go about starting? By the way, I'm I'm just starting out. So I'm just like.
+
+278
+00:26:25.960 --> 00:26:37.110
+Sid: Process like. Is it necessary for me like, should I feel handicapped by that, or like, how how would you advise people who are just starting out and basically don't have a big brand.
+
+279
+00:26:37.340 --> 00:26:41.550
+Jason Liu: Okay. So all those big name brands end up just being proof.
+
+280
+00:26:41.630 --> 00:26:50.280
+Jason Liu: Right? So we're really saying is like, Okay, like, the proof of the blog post is helpful, but the proof of having gone to like a like Waterloo is like also helpful
+
+281
+00:26:50.320 --> 00:26:55.659
+Jason Liu: right? So I would mostly focus on like, what is the portfolio of proof that you can build up?
+
+282
+00:26:55.960 --> 00:27:01.239
+Jason Liu: For example? When I started most of the consulting, it was just
+
+283
+00:27:01.680 --> 00:27:06.329
+Jason Liu: I had built an application like, I built like an AI journaling app and a transcription app.
+
+284
+00:27:06.700 --> 00:27:11.440
+Jason Liu: And my 1st client was like new computer where they were building a personal agent.
+
+285
+00:27:12.430 --> 00:27:17.270
+Jason Liu: And so that contract happened primarily because I had just built something that they were building.
+
+286
+00:27:17.580 --> 00:27:23.450
+Jason Liu: And they're like, okay, maybe we can hire him because he clearly already solved, like 30% of the problems, right?
+
+287
+00:27:23.770 --> 00:27:27.280
+Jason Liu: And then the second, like big company I worked with was limitless.
+
+288
+00:27:27.410 --> 00:27:32.269
+Jason Liu: And again, it's because I was generating like meeting notes for myself and and doing that. So
+
+289
+00:27:32.640 --> 00:27:36.800
+Jason Liu: I think the 1st thing is like, yeah, like, what is the proof? And what is the testimonial that we can drive
+
+290
+00:27:37.110 --> 00:27:44.589
+Jason Liu: right. If there's an industry or a set of tools you think you could build well, just like working on building that and like sharing the lessons
+
+291
+00:27:45.040 --> 00:27:46.510
+Jason Liu: right? Cause, I think.
+
+292
+00:27:47.180 --> 00:27:53.530
+Jason Liu: like with with new computer. What happened was, Oh, I built this journaling app. But here are the 3 big problems I ran into.
+
+293
+00:27:53.800 --> 00:27:58.810
+Jason Liu: And then and like, Did you run into those problems like, Oh, yeah, we're we just started thinking about them.
+
+294
+00:27:59.190 --> 00:28:01.920
+Jason Liu: It's like great. I can just come on board, and just tell you the answer right now.
+
+295
+00:28:02.900 --> 00:28:03.450
+Sid: Right.
+
+296
+00:28:03.700 --> 00:28:07.290
+Jason Liu: Right, and and you can try the app, and that be. That became the proof.
+
+297
+00:28:08.000 --> 00:28:08.510
+Sid: Gotcha.
+
+298
+00:28:09.130 --> 00:28:10.720
+Jason Liu: So, yeah, it's just a matter of like.
+
+299
+00:28:10.930 --> 00:28:15.479
+Jason Liu: in what ways can I prove that? I understand? Like those pain points?
+
+300
+00:28:17.370 --> 00:28:27.239
+Jason Liu: yeah, I mean? What's I just asked a question, too like, what do you think would be a piece of proof that you think you would want to develop in the near future. Is it going to be like blog posts and be building something.
+
+301
+00:28:27.240 --> 00:28:50.959
+Sid: Well, I'm actually building. So it's funny. I've been building a Bootstrap product, and I have like about 3,000, Mrr, right now. So not huge, at least not 0 and it's a text to video Api for man and videos. If you've seen this, so you can ask, the math concept will generate a video for you, and and I am. I don't know. I accidentally found a person in my professional network who's like, Hey, would you be
+
+302
+00:28:50.960 --> 00:29:04.430
+Sid: open to being on a detainer as our like lead. AI whatever. And he's he's paying me like $10,000 a month just to like, be the guy on a call once in a while. I'm like this is great, you know. I've been.
+
+303
+00:29:04.430 --> 00:29:05.230
+Jason Liu: Yeah, yeah.
+
+304
+00:29:05.230 --> 00:29:11.790
+Sid: Building this product, and it's like it's like, Pkmr over 6 months of hard work. And I'm making easy money this way. So I'm like.
+
+305
+00:29:11.790 --> 00:29:14.900
+Jason Liu: The 6 months of hard work got to the 10 Kmr. You know, like, I mean, that's.
+
+306
+00:29:15.266 --> 00:29:26.993
+Sid: In some ways. Yeah. So I I'm I'm kind of thinking of. Maybe I should like focus a little bit more on service biz side of things. I don't know.
+
+307
+00:29:27.360 --> 00:29:32.100
+Jason Liu: So right there, I would just say, like, one thing I would focus on is like, Okay, how can you make sure
+
+308
+00:29:32.280 --> 00:29:37.129
+Jason Liu: you can get a good testimonial and a good referral out of out of them.
+
+309
+00:29:37.540 --> 00:29:37.940
+Sid: Like.
+
+310
+00:29:37.940 --> 00:29:45.240
+Jason Liu: If you just DM me, I can help you like get more scripts on that. And then really reflecting on like, what is the actual thing they're trying to pay you for
+
+311
+00:29:45.530 --> 00:29:55.190
+Jason Liu: right like in that example. If they were to introduce you at a party a year from now, they're not gonna be like, man. I just pay this guy 10 grand a month to jump on. Zoom, that's not what you want. That's not.
+
+312
+00:29:55.536 --> 00:29:59.689
+Sid: I'm just being honest, like telling you what it is. But yeah.
+
+313
+00:29:59.690 --> 00:30:00.070
+Jason Liu: Right.
+
+314
+00:30:01.410 --> 00:30:05.729
+Jason Liu: know what that is. Then you can start thinking about and writing about it. It's like, Oh, like, you know.
+
+315
+00:30:05.890 --> 00:30:08.300
+Jason Liu: yeah, he got me to the series. A like, that's yeah.
+
+316
+00:30:08.300 --> 00:30:16.779
+Sid: Yeah. Small business. 50 years. It's just it's not in the Vc space at all. Built a voice assistant for them. That's the biggest thing.
+
+317
+00:30:16.780 --> 00:30:17.200
+Jason Liu: Got it.
+
+318
+00:30:17.200 --> 00:30:18.650
+Sid: Precislitary content.
+
+319
+00:30:18.920 --> 00:30:20.170
+Jason Liu: Yeah, cool.
+
+320
+00:30:20.170 --> 00:30:21.400
+Sid: Cool. Thank you.
+
+321
+00:30:21.400 --> 00:30:25.330
+Jason Liu: Awesome. Thank you. Man, yeah. Nick.
+
+322
+00:30:27.940 --> 00:30:28.710
+Nik McFly â€” Hybrain.ai: Me!
+
+323
+00:30:28.930 --> 00:30:29.640
+Jason Liu: Yes.
+
+324
+00:30:30.185 --> 00:30:31.550
+Nik McFly â€” Hybrain.ai: Hello, definitely.
+
+325
+00:30:33.290 --> 00:30:41.789
+Nik McFly â€” Hybrain.ai: nice to meet you. So right? The question is right. Now in our agency, we're trying to focus on the AI strategy and.
+
+326
+00:30:42.240 --> 00:30:44.809
+Nik McFly â€” Hybrain.ai: Transformation for enterprise.
+
+327
+00:30:45.480 --> 00:30:54.500
+Nik McFly â€” Hybrain.ai: And at the moment we're trying to get a huge leads, you know, with companies like from 500 people.
+
+328
+00:30:55.180 --> 00:30:59.069
+Nik McFly â€” Hybrain.ai: And yeah, do.
+
+329
+00:30:59.460 --> 00:31:00.580
+Nik McFly â€” Hybrain.ai: Hmm.
+
+330
+00:31:01.480 --> 00:31:07.849
+Nik McFly â€” Hybrain.ai: Do you have any advice on working with large enterprise?
+
+331
+00:31:08.160 --> 00:31:19.629
+Nik McFly â€” Hybrain.ai: And and do you have anything to say about this? The whole concept of AI transformation as a service like.
+
+332
+00:31:20.320 --> 00:31:21.600
+Jason Liu: Yeah, I would.
+
+333
+00:31:22.680 --> 00:31:25.860
+Jason Liu: The the biggest company I've worked for is like Hubspot.
+
+334
+00:31:25.930 --> 00:31:29.300
+Jason Liu: and most of that is like figuring out legal.
+
+335
+00:31:29.730 --> 00:31:35.679
+Jason Liu: Unfortunately, the sales process, like most of the conversations there for me are just okay.
+
+336
+00:31:36.420 --> 00:31:39.100
+Jason Liu: How quickly can we identify
+
+337
+00:31:39.670 --> 00:31:47.849
+Jason Liu: the product requirements and the success criteria? How quickly can we identify who is the qualified purchaser of
+
+338
+00:31:48.400 --> 00:31:49.620
+Jason Liu: the agency?
+
+339
+00:31:49.910 --> 00:31:55.579
+Jason Liu: Right? Like, the worst thing you want to do is you want to have like 7 conversations with someone who's like, actually not the person.
+
+340
+00:31:55.740 --> 00:31:59.960
+Jason Liu: And then you send them a proposal. Great! We'll share this back with the team, and like 6 months goes by.
+
+341
+00:32:00.130 --> 00:32:05.020
+Jason Liu: So most of that would, I would, I would imagine, is going to be on the sales side of things.
+
+342
+00:32:05.410 --> 00:32:08.509
+Jason Liu: And then the other hand of that is going to be.
+
+343
+00:32:08.910 --> 00:32:12.480
+Jason Liu: I would bet, like 40% of those conversations
+
+344
+00:32:12.890 --> 00:32:17.820
+Jason Liu: on the job for strategy is gonna be like so facilitation and therapy.
+
+345
+00:32:18.780 --> 00:32:20.090
+Jason Liu: And
+
+346
+00:32:20.690 --> 00:32:25.059
+Jason Liu: like one of the things I'm doing is I'm trying to take like some more like facilitation courses. So I can
+
+347
+00:32:25.440 --> 00:32:29.110
+Jason Liu: be better at that. But a lot of it will just be
+
+348
+00:32:29.260 --> 00:32:32.339
+Jason Liu: sort of the legal and the politics of the big organization.
+
+349
+00:32:33.390 --> 00:32:34.110
+Jason Liu: Oh.
+
+350
+00:32:34.460 --> 00:32:41.429
+Jason Liu: yeah, I, in terms of like the actual strategic stuff, I think it's just like if you have the. If you believe you have the knowledge, you have the knowledge, and that's totally fine. But
+
+351
+00:32:42.210 --> 00:32:47.349
+Jason Liu: I've I've the legal has been the most challenging part for me, cause I'm just like
+
+352
+00:32:47.720 --> 00:32:49.390
+Jason Liu: one person with a 1 lawyer.
+
+353
+00:32:52.210 --> 00:32:52.840
+Nik McFly â€” Hybrain.ai: Thank you.
+
+354
+00:32:52.840 --> 00:32:55.590
+Jason Liu: So Sebastian.
+
+355
+00:32:56.370 --> 00:33:06.150
+sebastian: Hey? I'm new at this. But just terminology, what's the difference between a consultancy and an agency? Is it just like the number of people you have.
+
+356
+00:33:06.760 --> 00:33:11.670
+Jason Liu: Oh, man, I don't know if I have a good definition, mostly because
+
+357
+00:33:11.840 --> 00:33:14.160
+Jason Liu: I know I'm not an agency.
+
+358
+00:33:15.420 --> 00:33:19.800
+Jason Liu: because the so like in any business. There's like the real problem you're solving.
+
+359
+00:33:20.270 --> 00:33:23.340
+Jason Liu: And I think if I'm an agency, the real problem solving is
+
+360
+00:33:23.370 --> 00:33:25.549
+Jason Liu: hiring and managing my own talent.
+
+361
+00:33:25.630 --> 00:33:28.880
+Jason Liu: So I can like sell their time differently.
+
+362
+00:33:31.270 --> 00:33:36.309
+Jason Liu: And I think that's that's the only decision. Like, I, I want to solve a marketing problem.
+
+363
+00:33:37.180 --> 00:33:42.980
+Jason Liu: I don't want to solve a hiring problem, because the reason AI consulting is working is because it's hard to hire.
+
+364
+00:33:43.180 --> 00:33:47.599
+Jason Liu: So I want to. I don't want to save solve the same problem. Everyone else is trying to solve
+
+365
+00:33:47.920 --> 00:33:53.390
+Jason Liu: right like the joke is like, I barely want to work for myself, like I gotta really figure out how I can convince other people that work with me.
+
+366
+00:33:55.850 --> 00:34:01.309
+Jason Liu: yeah, yeah, Mary says, like agencies get most of the work done for them where the consultancies are more advisory.
+
+367
+00:34:03.600 --> 00:34:05.470
+sebastian: Okay, but yeah.
+
+368
+00:34:07.860 --> 00:34:08.670
+Jason Liu: Gabriel.
+
+369
+00:34:11.570 --> 00:34:13.479
+Gabriel Garrett: Hey? Can you hear me, Jason?
+
+370
+00:34:13.489 --> 00:34:14.389
+Jason Liu: Yep. Yep.
+
+371
+00:34:14.670 --> 00:34:34.959
+Gabriel Garrett: Cool. Yeah. So my question is, how would you navigate trying to branch out and marketing yourself as a consultant like on on Linkedin with your content when you're still at your job, and it'd be like obvious to your employer what you're trying to do if you're putting calls to action in your your content, or if you put it in your bio that you're a consultant.
+
+372
+00:34:36.460 --> 00:34:45.459
+Jason Liu: I think there it would just be figuring. So I guess the best question to rephrase is like, if I'm W. 2. How do I like invest now.
+
+373
+00:34:48.110 --> 00:34:51.600
+Jason Liu: I would probably purely just write for a technical audience.
+
+374
+00:34:52.880 --> 00:34:55.860
+Jason Liu: and then the Cta should just be to build an audience
+
+375
+00:34:56.449 --> 00:35:09.349
+Jason Liu: right? It's like if you're if you're doing some like prompting like, okay, here's like 3 things I learned this week. Here's like a mistake that wasted like a month of my time. Here's like, here's some technical content. And then maybe the goal is just like, Get more followers.
+
+376
+00:35:09.470 --> 00:35:13.600
+Jason Liu: And and then the proof is the fact that you work at this company
+
+377
+00:35:14.540 --> 00:35:22.710
+Jason Liu: right? So it's like, Oh, like, I'm like the a engineer at this business, you know. I want to write about the stuff I've learned, and the stuff that the mistakes we've had, you know.
+
+378
+00:35:23.250 --> 00:35:27.360
+Jason Liu: before you transition, the Cta could literally be like, we're also hiring
+
+379
+00:35:27.830 --> 00:35:31.530
+Jason Liu: right like you could align it to be the same incentive right.
+
+380
+00:35:31.740 --> 00:35:32.560
+Gabriel Garrett: Hmm.
+
+381
+00:35:33.120 --> 00:35:36.109
+Jason Liu: And then, if you leave, you can just like change the Ctas.
+
+382
+00:35:37.090 --> 00:35:37.470
+Gabriel Garrett: True.
+
+383
+00:35:37.470 --> 00:35:44.699
+Jason Liu: Right, because because your goal is to figure out what resonates with the audience and sort of the Cta doesn't have to book a call today right?
+
+384
+00:35:45.120 --> 00:35:49.250
+Gabriel Garrett: Yeah, it's like my blog posts for the 1st 7 months was like, Follow Twitter.
+
+385
+00:35:50.150 --> 00:35:53.449
+Jason Liu: But now the I just like edit all the Ctas to be like go on the newsletter
+
+386
+00:35:54.200 --> 00:35:59.120
+Jason Liu: right? Because now I have more value that I can deliver over the newsletter than on Twitter, but.
+
+387
+00:35:59.880 --> 00:36:06.070
+Gabriel Garrett: Cool. And if we have all of our stuff like on substack, do you think that's like a good post for blogs?
+
+388
+00:36:06.310 --> 00:36:07.590
+Gabriel Garrett: This kind of thing.
+
+389
+00:36:08.260 --> 00:36:17.979
+Gabriel Garrett: Yeah, I don't think the platform matters. I think it's mostly the brand and the linking like, I don't know if you like, if you go on your bio. You can ever have like a check out my services. Page.
+
+390
+00:36:18.350 --> 00:36:24.089
+Jason Liu: Type relationship with the content. Right? Like, that's the thing I value the most.
+
+391
+00:36:25.590 --> 00:36:32.568
+Jason Liu: But you know, you could always just like, say, okay. Every once in a while I'll send a substack message. I conclude the link to book a call. If the content is relevant.
+
+392
+00:36:33.187 --> 00:36:37.630
+Jason Liu: I just. I'm much newer at the Newsletter game than the blog game, but.
+
+393
+00:36:38.380 --> 00:36:44.369
+Gabriel Garrett: I think newsletters are better. Yeah, I've I've realized, yeah, cool, cool. Thanks.
+
+394
+00:36:44.960 --> 00:36:45.960
+Jason Liu: Hey! John!
+
+395
+00:36:46.810 --> 00:36:52.679
+John Berryman: Hey, Jason? Thanks for everything so far. Question is about how to play the Twitter game
+
+396
+00:36:52.930 --> 00:37:06.889
+John Berryman: so I can. I can put a blog post together and post on Twitter, and I've got a small following that'll check it out if I get you to retweet it. I I hit a lot much larger audience. But I think there's a lot not said there in.
+
+397
+00:37:06.890 --> 00:37:07.400
+Jason Liu: Yeah.
+
+398
+00:37:07.785 --> 00:37:12.790
+John Berryman: About about how you interact with people and actually build that following.
+
+399
+00:37:15.420 --> 00:37:18.020
+Jason Liu: So you just want, like the general alpha of how I got.
+
+400
+00:37:18.820 --> 00:37:19.140
+John Berryman: Tell me.
+
+401
+00:37:19.140 --> 00:37:19.950
+Jason Liu: 10,000.
+
+402
+00:37:20.220 --> 00:37:32.200
+Jason Liu: Okay, it's really bad. I have a blog post on anatomy of a good tweet. My money is on most people here. The the follower to Tweet. Ratio is between 0 point 5 and 4,
+
+403
+00:37:32.950 --> 00:37:39.710
+Jason Liu: and so if you want 10,000 followers, you gotta just tweet like between, you know, tend to
+
+404
+00:37:40.000 --> 00:37:47.180
+Jason Liu: 10 to like 5,000 times. That's my actual answer. Like, you just have to like practice like it's just reps in the gym.
+
+405
+00:37:47.540 --> 00:37:49.679
+Jason Liu: I'll talk about the writing in a bit, too. But
+
+406
+00:37:50.910 --> 00:38:01.309
+John Berryman: Well, maybe to see on the question a little bit more. Do you do anything like outside of directly tweeting to pull other authors into it, collaborate with others something that's gonna
+
+407
+00:38:01.380 --> 00:38:04.770
+John Berryman: create some sort of a extra effect.
+
+408
+00:38:07.170 --> 00:38:11.470
+Jason Liu: I used to quote Tweet more people. But Beckham.
+
+409
+00:38:11.660 --> 00:38:18.230
+Jason Liu: most of it. Like most of the practice I want to be in having better skills and writing better tweets?
+
+410
+00:38:19.338 --> 00:38:21.730
+Jason Liu: Because I think the other question is like.
+
+411
+00:38:21.890 --> 00:38:25.920
+Jason Liu: Do you are you getting more followers? And are you actually getting more engagement from the retweet.
+
+412
+00:38:25.990 --> 00:38:27.559
+Jason Liu: or you get more views.
+
+413
+00:38:28.200 --> 00:38:33.719
+Jason Liu: But, like, you know, we, we really want to be paying for engagement enough for impressions.
+
+414
+00:38:34.430 --> 00:38:35.430
+Jason Liu: Yeah. But
+
+415
+00:38:35.470 --> 00:38:40.940
+Jason Liu: yeah, I mean, just like, yeah, replying to people is always helpful and like getting their attention. But
+
+416
+00:38:41.370 --> 00:38:48.250
+Jason Liu: the bulk of the work has just been in like volume to get practice.
+
+417
+00:38:48.680 --> 00:38:50.559
+Jason Liu: and then you get to a point where, like.
+
+418
+00:38:50.570 --> 00:38:54.279
+Jason Liu: if you have a blog post, you want to promote, you know how to write a tweet that promotes that blog. Well.
+
+419
+00:38:54.360 --> 00:39:04.330
+Jason Liu: and a lot of that again, is just like having a good hook and really promising a good reward in the blog post, because to click away from Twitter is a very big potential energy.
+
+420
+00:39:05.460 --> 00:39:07.120
+Jason Liu: And so it's like it can't just be.
+
+421
+00:39:08.080 --> 00:39:13.909
+Jason Liu: Here's something I played around like. It can't be like I play. I spent the past weekend playing around with like Chat Gbt.
+
+422
+00:39:14.260 --> 00:39:18.230
+Jason Liu: like, unless you have a hundred 1,000 followers like that's basically going to do very little.
+
+423
+00:39:18.810 --> 00:39:22.579
+Jason Liu: But if it's like, here's like some things I learned about prompting. o 1
+
+424
+00:39:22.910 --> 00:39:26.250
+Jason Liu: that had gotten me like much better results. That's probably a little bit better.
+
+425
+00:39:26.520 --> 00:39:31.749
+Jason Liu: Right versus like. Here are 3 things you can like put into your system, prompt right now to make o 1 better.
+
+426
+00:39:32.580 --> 00:39:39.050
+Jason Liu: Right now you're addressing those like value variables while also foreshadowing the reward.
+
+427
+00:39:39.720 --> 00:39:42.540
+Jason Liu: But yeah, I have. I have a blog post on that.
+
+428
+00:39:44.490 --> 00:39:45.660
+John Berryman: I'll I'll look forward.
+
+429
+00:39:45.660 --> 00:39:46.170
+Jason Liu: Yeah.
+
+430
+00:39:46.170 --> 00:39:46.989
+John Berryman: Cool. Thank you.
+
+431
+00:39:47.250 --> 00:39:50.200
+Jason Liu: No problem, no problem. Man, boxman.
+
+432
+00:39:51.830 --> 00:39:52.950
+Jason Liu: That's right.
+
+433
+00:39:52.950 --> 00:40:03.659
+Lakshman Nataraj: Thanks for everything so far. And and and just to add, like I did have a blog post on prompting. Oh, one. So it got a lot of hits.
+
+434
+00:40:05.810 --> 00:40:06.440
+Lakshman Nataraj: So
+
+435
+00:40:06.680 --> 00:40:16.706
+Lakshman Nataraj: yeah, I just wanted to ask if you have suggestion on like medium versus Linkedin versus like sub stack, or or towards data science. Any of these
+
+436
+00:40:17.530 --> 00:40:24.409
+Jason Liu: Yeah, I mean, I like I mentioned before, I think it's really valuable to own the content and own your distribution.
+
+437
+00:40:24.810 --> 00:40:29.329
+Jason Liu: So I think for me. It was easiest to get on Twitter first, st if it's Linkedin. That's totally fine.
+
+438
+00:40:29.450 --> 00:40:40.440
+Jason Liu: But I think once you get some critical mass on Linkedin, it should be going to a block like a your own website, because your own website can have services links. You have, like different places to sell different products.
+
+439
+00:40:41.030 --> 00:40:47.549
+Jason Liu: And then, once you have a enough of that, I'm very convinced that
+
+440
+00:40:47.600 --> 00:40:51.729
+Jason Liu: having a newsletter is kind of like the best way forward, because then you can just directly target people
+
+441
+00:40:52.140 --> 00:40:57.999
+Jason Liu: like, and and on top of that the the number of followers does not matter
+
+442
+00:40:58.400 --> 00:41:02.290
+Jason Liu: like if you offered me a hundred 1,000
+
+443
+00:41:02.660 --> 00:41:07.490
+Jason Liu: new like newsletter off of like like AI news
+
+444
+00:41:07.720 --> 00:41:12.779
+Jason Liu: versus a 200 new person newsletter of all the Ctos in Silicon Valley.
+
+445
+00:41:13.300 --> 00:41:18.979
+Jason Liu: I would probably pay like $80,000 for that email list. You know, there's no way I couldn't make one sale
+
+446
+00:41:20.980 --> 00:41:21.610
+Jason Liu: right?
+
+447
+00:41:23.190 --> 00:41:31.420
+Jason Liu: So so like it doesn't even matter like the volume. You have to figure out what the tam is, and the tam is defined by like the top of funnel content that you write.
+
+448
+00:41:31.870 --> 00:41:32.660
+Jason Liu: you know.
+
+449
+00:41:32.840 --> 00:41:42.489
+Jason Liu: if all your if all your blog posts are like how to use lane chain and like how to like, you know, build an agent. You're probably gonna get a hundred 1,000 page, like page views of people who are learning things.
+
+450
+00:41:44.540 --> 00:41:49.799
+Jason Liu: but versus like how to write a job description for AI engineers is going to be like very few views.
+
+451
+00:41:50.480 --> 00:41:56.769
+Jason Liu: but you can probably write that blog post and get like a 5,000 MRI draw board, spun up afterwards as a business.
+
+452
+00:41:56.970 --> 00:41:58.580
+Jason Liu: It's a very different.
+
+453
+00:41:59.720 --> 00:42:05.930
+Jason Liu: but I would really try to own your distribution as quickly as possible. Like my regret, basically is not using email sooner.
+
+454
+00:42:07.720 --> 00:42:08.330
+Jason Liu: Yeah.
+
+455
+00:42:09.350 --> 00:42:10.690
+Lakshman Nataraj: Thanks. Yeah. Thanks.
+
+456
+00:42:11.070 --> 00:42:12.560
+Jason Liu: Yeah. Seth.
+
+457
+00:42:15.120 --> 00:42:25.809
+Stef Druga: Thanks, Jason, a quick question about how you have conversations with companies that are trying to recruit you for full time, position, and convince them that you could contribute more as a consultant.
+
+458
+00:42:27.090 --> 00:42:32.671
+Jason Liu: So earlier I could not. But now I can.
+
+459
+00:42:33.670 --> 00:42:42.410
+Jason Liu: One thing is just like, look, you know, for 2 million dollars I'll join. I'm totally happy to join. I just want like a multiple of my current revenue. Right? But
+
+460
+00:42:42.740 --> 00:42:49.150
+Jason Liu: I think also, I'm gonna give the answer. Given my current position, which is like
+
+461
+00:42:49.220 --> 00:42:56.399
+Jason Liu: a little bit of like, you know, Internet fame and a little bit of like recruiting, which is, I have a lot of value by just
+
+462
+00:42:56.920 --> 00:43:00.669
+Jason Liu: meeting everyone else in the in the space. Technically.
+
+463
+00:43:00.780 --> 00:43:09.700
+Jason Liu: the fact that I know all the founders and the vendors, and I know all a bunch of different researchers that allows me to step outside of the business to create opportunities that
+
+464
+00:43:09.730 --> 00:43:20.839
+Jason Liu: as an IC I'm not incentivized to create, you know, like I can probably add more value because I also just, you know, know, the founders of like the land chains and the Brain Trust. I can like make these instructions.
+
+465
+00:43:20.990 --> 00:43:23.839
+Jason Liu: and that's a different kind of value than the inputs of my work.
+
+466
+00:43:25.250 --> 00:43:27.010
+Jason Liu: That's kind of the short answer.
+
+467
+00:43:27.260 --> 00:43:32.160
+Jason Liu: The the other answer, which I is like a lot more aggressive is
+
+468
+00:43:32.990 --> 00:43:37.859
+Jason Liu: I also have, like my work is guaranteed. I'll give you the money back if I don't believe in what you're doing
+
+469
+00:43:38.420 --> 00:43:41.099
+Jason Liu: and like that trump card to me is also very valuable.
+
+470
+00:43:41.170 --> 00:43:46.879
+Jason Liu: It's like, look like the fact that I can. Just if if you don't do what I say, I'll just give you the money back.
+
+471
+00:43:47.240 --> 00:43:57.080
+Jason Liu: you know, like I'm not scared of like being fired, because, like my goal is like, Be right like, I don't need these other incentives of like my visa to to push back on these things.
+
+472
+00:43:57.390 --> 00:44:05.710
+Jason Liu: and you know I'm going to be able to say things to you as the external advisor, that I would not be able to say or feel comfortable, saying, as your employees
+
+473
+00:44:06.150 --> 00:44:11.899
+Jason Liu: right, and one of the things I also do is I talk to your employees. And if I think something's wrong, I'm just gonna tell you
+
+474
+00:44:12.300 --> 00:44:17.920
+Jason Liu: right, there's a different, you know, variables that you can pull that are, to me at least, going to be very valuable. Right?
+
+475
+00:44:18.840 --> 00:44:19.600
+Jason Liu: It's like.
+
+476
+00:44:19.970 --> 00:44:27.470
+Jason Liu: look, look! I don't think you should making this bet on this project, and I'm so serious about you making not making this back. I'll just give you the $40,000 back, like.
+
+477
+00:44:27.640 --> 00:44:29.329
+Jason Liu: I really don't think this is the right path
+
+478
+00:44:30.310 --> 00:44:35.370
+Jason Liu: right? It's very different than like feedback during your like 360. Review.
+
+479
+00:44:35.710 --> 00:44:36.460
+Jason Liu: Right?
+
+480
+00:44:36.820 --> 00:44:38.460
+Jason Liu: I take a vote of confidence.
+
+481
+00:44:39.640 --> 00:44:43.390
+Jason Liu: Does that make sense. I don't know if that's like not specific enough. But oh.
+
+482
+00:44:43.390 --> 00:44:44.719
+Stef Druga: That's great. Thanks.
+
+483
+00:44:44.860 --> 00:44:47.020
+Jason Liu: Great. Thank you, Pablo.
+
+484
+00:44:48.480 --> 00:44:52.574
+Pablo Unzueta: Hey, Jason, thanks so much for putting this together. I guess my my question is,
+
+485
+00:44:52.870 --> 00:44:55.480
+Pablo Unzueta: I'm currently in Academia, specifically a postdoc
+
+486
+00:44:56.630 --> 00:45:15.259
+Pablo Unzueta: combining Ml and chemistry, I guess. Do you have any tips on AI for science? Consulting? It seems like the type of writing I would do would be more for a technical audience which isn't really the money makers, or I guess in general, for everyone in this call, if you have any tips, please network with me. Shoot me a DM. I would love to hear your feedback.
+
+487
+00:45:17.140 --> 00:45:18.489
+Jason Liu: Yeah, I mean.
+
+488
+00:45:20.790 --> 00:45:27.520
+Jason Liu: it really depends on what you're trying to solve. Like, do you want to be applying like literally, the science that you've been learning like one of like.
+
+489
+00:45:27.900 --> 00:45:40.929
+Jason Liu: I don't have the consulting. I do. I feel like I'm somebody else's high school science teacher. It's like, do you know what a hypothesis is. Let's do some AV tests. Let's add some error bars on these plots, and really think if your system is improving it right
+
+490
+00:45:41.400 --> 00:45:44.800
+Jason Liu: like. I don't know if you want to be like a high school science teacher, but
+
+491
+00:45:46.030 --> 00:45:51.170
+Jason Liu: that's kind of one angle you would take. The second angle is like is your goal to
+
+492
+00:45:52.430 --> 00:45:56.420
+Jason Liu: be like an AI engineer at like Moderna, or
+
+493
+00:45:56.930 --> 00:45:59.409
+Jason Liu: but yeah, like, like, what is what like, what.
+
+494
+00:45:59.410 --> 00:45:59.960
+Pablo Unzueta: Yeah.
+
+495
+00:45:59.960 --> 00:46:01.790
+Jason Liu: Actually look like for you. I would love to know.
+
+496
+00:46:02.380 --> 00:46:20.570
+Pablo Unzueta: Yeah, I I guess I would love to be able to apply what I know. But I guess at the end of the day, right. I just kind of want to be my own boss and make my own schedule. So if it ends up being, you know, helping people with basic science principles. That also would work. But I I guess you know priority one is, you know, being my own boss priority. 2 would be.
+
+497
+00:46:20.570 --> 00:46:21.130
+Jason Liu: Got it.
+
+498
+00:46:21.130 --> 00:46:22.809
+Pablo Unzueta: Being able to apply what I've learned.
+
+499
+00:46:24.410 --> 00:46:25.499
+Jason Liu: Yeah, I mean.
+
+500
+00:46:25.730 --> 00:46:31.390
+Jason Liu: I feel like, if you just had even a handful of technical content that was aligned with the stuff you're doing.
+
+501
+00:46:32.550 --> 00:46:36.679
+Jason Liu: I think it's hard for anyone to sort of click a very technical piece of research.
+
+502
+00:46:36.830 --> 00:46:39.530
+Jason Liu: and if you offer to speak to them or speak to their team
+
+503
+00:46:40.740 --> 00:46:45.279
+Jason Liu: like. I don't know why someone will get to the end of like a technical report and be like, no, I don't want this guy.
+
+504
+00:46:45.480 --> 00:46:50.219
+Jason Liu: If I if I had the option right? And just like start talking to people
+
+505
+00:46:50.670 --> 00:46:54.140
+Jason Liu: and really understand like what what their pains are.
+
+506
+00:46:54.550 --> 00:46:57.660
+Jason Liu: cause I don't think I can. I don't know if I know what they are right now.
+
+507
+00:46:57.940 --> 00:46:58.700
+Jason Liu: Alright!
+
+508
+00:46:58.950 --> 00:47:02.370
+Jason Liu: Might be super specific of like, oh, we need to be able to like search
+
+509
+00:47:02.600 --> 00:47:09.359
+Jason Liu: like gene sequences in large databases like we saw your blog post about this topic, and you know
+
+510
+00:47:09.880 --> 00:47:14.999
+Jason Liu: I'll have to figure out what the content looks like, but I find it very hard to be unwilling to talk to
+
+511
+00:47:15.190 --> 00:47:16.240
+Jason Liu: an expert.
+
+512
+00:47:17.410 --> 00:47:18.010
+Jason Liu: Yeah.
+
+513
+00:47:18.010 --> 00:47:19.510
+Pablo Unzueta: Gotcha. Okay? Well, thank you.
+
+514
+00:47:20.160 --> 00:47:20.890
+Jason Liu: Bum.
+
+515
+00:47:21.080 --> 00:47:21.440
+Andrew Chaffin: Sir.
+
+516
+00:47:21.440 --> 00:47:21.960
+Jason Liu: Lucas.
+
+517
+00:47:21.960 --> 00:47:23.540
+Andrew Chaffin: The host of this? Can I insert
+
+518
+00:47:23.700 --> 00:47:25.610
+Andrew Chaffin: a random idea there real quick?
+
+519
+00:47:27.380 --> 00:47:30.500
+Andrew Chaffin: I mean, I made a couple 1 million dollars on just like
+
+520
+00:47:30.530 --> 00:47:34.590
+Andrew Chaffin: taking an hour and writing down like, what are the
+
+521
+00:47:34.850 --> 00:47:37.029
+Andrew Chaffin: why is nobody doing these things?
+
+522
+00:47:37.150 --> 00:47:39.950
+Andrew Chaffin: And then thinking, who are the people that should probably be doing that.
+
+523
+00:47:40.050 --> 00:47:43.459
+Andrew Chaffin: and then just sending them an email and saying, Hey, why aren't you doing this?
+
+524
+00:47:44.302 --> 00:47:46.930
+Andrew Chaffin: So that might be worth an hour? Sorry to interrupt.
+
+525
+00:47:47.220 --> 00:47:51.920
+Jason Liu: No worries, no cold outbound is super super valuable. Yeah, this is. This is always very helpful.
+
+526
+00:47:54.167 --> 00:47:55.949
+Jason Liu: Wait, I think someone, I think.
+
+527
+00:47:55.950 --> 00:47:57.200
+Jason Liu: Yes, Lucas.
+
+528
+00:47:57.200 --> 00:47:57.950
+Jason Liu: Yes, yes.
+
+529
+00:47:57.950 --> 00:47:59.560
+Lucas Soares: Yeah, can you guys hear me?
+
+530
+00:48:00.870 --> 00:48:17.910
+Lucas Soares: All right, perfect. So I'm going to try to be quick because I wrote it down. So I actually found it very useful this 1st webinar, because I actually started reading the Alex or Mosey book. It was cool to see it there. So I've been doing content on medium and Youtube for a while now.
+
+531
+00:48:18.080 --> 00:48:28.449
+Lucas Soares: and that the thing I'm struggling with is kind of niching down like. For example, you mentioned the red course in the in the AI consulting course, which I think I follow both.
+
+532
+00:48:28.700 --> 00:48:38.219
+Lucas Soares: And what I thought it was cool is kind of like the way that you created that little tunnel with the news, out with the the system of like the Tweets, and then the newsletter to like kind of see.
+
+533
+00:48:38.220 --> 00:48:39.080
+Jason Liu: Yeah.
+
+534
+00:48:39.750 --> 00:48:57.600
+Lucas Soares: And I feel like my challenge is exactly that I feel like on medium and Youtube. I have both like, I have content that it's way, too, spread on like very simple to deeply, deeply technical. And I also struggle with the incentives like in on Youtube. There's a lot of incentive towards like talking about basic you know how to do.
+
+535
+00:48:57.600 --> 00:48:57.960
+Jason Liu: Yes.
+
+536
+00:48:57.960 --> 00:49:14.829
+Lucas Soares: With Hpt and Claude, and then on writing, the deeper the technical article is, the more reward that I get, and then I feel like, if you had some inputs on how to systematically, systematically start to experiment with those to get to more focused niching down. That's my question.
+
+537
+00:49:14.830 --> 00:49:22.619
+Jason Liu: I would honestly just take all the Youtube videos you have right now, and just put them in the cloud and turn them into like tiny blog posts
+
+538
+00:49:23.600 --> 00:49:24.829
+Jason Liu: and just like.
+
+539
+00:49:25.310 --> 00:49:29.850
+Jason Liu: throw them into the Internet. And the Internet will just vote on what is important. And then you.
+
+540
+00:49:29.850 --> 00:49:36.309
+Lucas Soares: I have like somewhat of an automation that does something like that. But like I never actually get to publish those, I just kind of use them as like.
+
+541
+00:49:36.310 --> 00:49:37.150
+Jason Liu: Yeah.
+
+542
+00:49:37.430 --> 00:49:52.659
+Lucas Soares: I like what you said about the what you do to convert the tweets like circle back, and then like extract the insights, and that that's Tweet. Then experiment with the Tweets to get to blog post, because I usually just go on thoughts. And I kind of end up.
+
+543
+00:49:52.770 --> 00:49:53.620
+Lucas Soares: you know. Do.
+
+544
+00:49:53.620 --> 00:50:02.740
+Jason Liu: Yeah, I I have an automation that is like a massive prompt, where every call, every call I have with every customer gets extracted into like
+
+545
+00:50:03.420 --> 00:50:05.410
+Jason Liu: like 2 blog post ideas.
+
+546
+00:50:05.740 --> 00:50:11.979
+Jason Liu: So every Friday, I'll just basically review like 17 blog post ideas. And like, I think this one could be interesting.
+
+547
+00:50:12.170 --> 00:50:13.700
+Jason Liu: and I'll write a tweet.
+
+548
+00:50:14.230 --> 00:50:17.929
+Jason Liu: and then I'll get like, 700 views. And okay, this is not that interesting. Never mind.
+
+549
+00:50:17.970 --> 00:50:26.679
+Jason Liu: And I run another tweet, and it would be like 200,000 views like, Oh, I should write a blog post on like how report generation is much more valuable than like generic Q. And a.
+
+550
+00:50:27.110 --> 00:50:28.319
+Lucas Soares: Nice, and I've.
+
+551
+00:50:28.320 --> 00:50:35.340
+Jason Liu: And I could have going down this thread. And now it's like, Oh, I'm going to go talk to like an investor whose thesis is going to be on like report generation.
+
+552
+00:50:35.480 --> 00:50:37.490
+Jason Liu: Right? You can go like way high.
+
+553
+00:50:38.350 --> 00:50:50.109
+Lucas Soares: No, no, that's that's perfect. The the last thing I was gonna say is that the the way that you do it? What what I thought was interesting. I did some of those stuff. But, for example, I found a lot of people wanted to know about rag locally
+
+554
+00:50:50.720 --> 00:51:02.609
+Lucas Soares: through the system, but I didn't have this kind of like funnel like you're doing with the extracting, the insights, analyzing, seeing which works. And then tweet etc. So I'm definitely gonna try that out. Thanks. Thanks. A lot.
+
+555
+00:51:02.610 --> 00:51:04.729
+Jason Liu: Yeah. Oh, yeah. Misha.
+
+556
+00:51:06.710 --> 00:51:12.573
+Misha Granin: Yeah. Actually, I wanted to ask about the same thing general details of how you
+
+557
+00:51:13.060 --> 00:51:23.420
+Misha Granin: exactly what you you told. Now that, as I understand you just not just give Tweet ideas. You 1st read all the drafts of the blog posts
+
+558
+00:51:23.740 --> 00:51:35.769
+Misha Granin: that are generated calls. So you have a lot, because this is conflicting with what you said before, that generally Internet will digest and throw out all the garbage anyway. So for us.
+
+559
+00:51:36.220 --> 00:51:41.090
+Misha Granin: as we are starting. It's better to just flood with all the content we have.
+
+560
+00:51:41.260 --> 00:51:52.390
+Misha Granin: Then the second question is this your expertise? The trust was built with a specific tool. I was tinkering for like 2 and a half years. I have a lot of projects.
+
+561
+00:51:52.460 --> 00:51:59.069
+Misha Granin: never published anything as open source. I know that marketing appropriate, properly marketing. An open source project is a big thing.
+
+562
+00:51:59.200 --> 00:52:05.310
+Misha Granin: so like if my goal is to work on the Tam, which is Ctos of
+
+563
+00:52:05.520 --> 00:52:12.899
+Misha Granin: like this series, a companies. What you think now at this moment is a good niche
+
+564
+00:52:13.130 --> 00:52:18.700
+Misha Granin: to try to build something which will be valuable to build my
+
+565
+00:52:19.310 --> 00:52:25.720
+Misha Granin: credibility. The trust? What kind of tools are needed now, because I've done everything from like
+
+566
+00:52:25.880 --> 00:52:30.440
+Misha Granin: simple processing to, you know, developers, tools, and so on.
+
+567
+00:52:32.250 --> 00:52:36.810
+Jason Liu: I think it's hard, because I don't really know what kind of conversations happen with those folks.
+
+568
+00:52:38.510 --> 00:52:50.609
+Jason Liu: I feel. Yeah, I feel like you might have to give me more information on this, because, again, like the framework, is just like for me, the one I always use is like, you know, dream peace, success, time, value. It's like, what are things that are like? Too difficult, too slow.
+
+569
+00:52:50.630 --> 00:52:54.019
+Jason Liu: too high risk and just sort of like
+
+570
+00:52:54.870 --> 00:53:00.149
+Jason Liu: just brainstorm, like, I'm sorry. I don't really think I have, an I have the ability to give an answer right away. But
+
+571
+00:53:01.270 --> 00:53:13.659
+Jason Liu: I would mostly just apply that framework and just see. Okay, how can I? How can I come with contacts? Context, give set up calls, and just kind of like spin this flywheel. And eventually a a useful thing came out right, like
+
+572
+00:53:13.980 --> 00:53:18.989
+Jason Liu: the rag course took basically a year of the flywheel spinning to go. Okay.
+
+573
+00:53:19.290 --> 00:53:22.820
+Jason Liu: I'm saying the same thing over and over again. I think I'm ready.
+
+574
+00:53:23.290 --> 00:53:26.859
+Misha Granin: Was this course a goal because it was an amazing match.
+
+575
+00:53:28.640 --> 00:53:32.809
+Misha Granin: You just understand that there is a demand for this product. Yeah.
+
+576
+00:53:33.050 --> 00:53:37.815
+Jason Liu: Yeah, I just kept. I was like, I can't keep saying the same thing over and over again.
+
+577
+00:53:38.647 --> 00:53:40.350
+Misha Granin: Right in sales.
+
+578
+00:53:40.350 --> 00:53:46.694
+Jason Liu: And the blog is not enough. Right? The blog is not enough. I'll say one thing that has been very enlightening, which is
+
+579
+00:53:48.440 --> 00:53:52.930
+Jason Liu: whatever you're doing and whatever you're selling, there's a version that costs 5 times more.
+
+580
+00:53:52.980 --> 00:53:54.689
+Jason Liu: and if you can figure out
+
+581
+00:53:54.820 --> 00:54:01.290
+Jason Liu: what that looks like and what you could deliver if you were able to take in 5 times more to figure out what the product looks like.
+
+582
+00:54:02.160 --> 00:54:08.110
+Jason Liu: And so at that time, for, like 4Â HI was charging like $10,000.
+
+583
+00:54:08.490 --> 00:54:11.629
+Jason Liu: So okay, so what's something that's like, 5 times the last that takes a month.
+
+584
+00:54:11.810 --> 00:54:14.200
+Jason Liu: It's okay. So it's not like $2,000 like.
+
+585
+00:54:14.280 --> 00:54:16.880
+Jason Liu: what can I deliver for $2,000 a month?
+
+586
+00:54:18.440 --> 00:54:21.639
+Jason Liu: Okay? Like, it's not a book like, I'm not selling a book for $2,000.
+
+587
+00:54:23.100 --> 00:54:30.030
+Jason Liu: But if I did like a 3 day workshop, I don't think that's worth $2,000 unless it was in person. But an online course, if you do like, that's just where the price fits.
+
+588
+00:54:30.220 --> 00:54:31.100
+Jason Liu: Right?
+
+589
+00:54:31.390 --> 00:54:32.160
+Jason Liu: Like.
+
+590
+00:54:32.320 --> 00:54:42.900
+Jason Liu: if I ask, like, okay, if this course was 5 times cheaper, what would that look like, okay, maybe that's just a community. And maybe like, that's a weekly office hours where I don't have to prepare material. Maybe someone would be willing to pay
+
+591
+00:54:43.370 --> 00:54:45.040
+Jason Liu: a hundred dollars a month for that.
+
+592
+00:54:45.310 --> 00:54:52.500
+Jason Liu: So now you're trying to just figure out like what the what the portfolio looks like. That's how I usually, that's how I basically came to the course.
+
+593
+00:54:54.130 --> 00:55:00.409
+Jason Liu: It's like, I want to double my consulting fee. So now there's like nothing here. There's a vacuum. Let me fill it in with something else.
+
+594
+00:55:05.370 --> 00:55:08.929
+âš¡ Marian Noble (she/her): Jason. We wanna do announcements and wrap things up.
+
+595
+00:55:09.300 --> 00:55:13.059
+Jason Liu: Yeah, we can do announcements first.st I'm happy to stay on a little bit. I know there's like a couple more questions.
+
+596
+00:55:13.060 --> 00:55:35.960
+âš¡ Marian Noble (she/her): Okay, sweet, yeah. I just wanna let you all know that we will answer any questions that you guys still have lingering, or that come up after this in the questions channel. I know, because of all of the technical staff stuff that happened Jason will answer all those questions, so make sure that'll happen. And then on Wednesday we'll have the zoom capacity increased, and we'll have Slido in place, and everything will be great.
+
+597
+00:55:36.020 --> 00:56:00.509
+âš¡ Marian Noble (she/her): We have a survey anonymous survey to answer all sorts of questions. You guys might be curious about yourselves in terms of where you are in the consulting and how you're doing things and all the sales process. And this will just be really good research to have anyways. So if you have questions that you would want us to include in that anonymous survey. Before we put it out you can find that survey channel in the slack.
+
+598
+00:56:00.920 --> 00:56:14.349
+âš¡ Marian Noble (she/her): and then we also have one on one chat. So you guys can chat with each other if you'd like to take part in that, just join the Peer Chats Channel, and we'll be matching people up at 5 Pm. Tomorrow, Eastern.
+
+599
+00:56:15.720 --> 00:56:18.139
+âš¡ Marian Noble (she/her): All right, go ahead and take it away. Jason.
+
+600
+00:56:18.420 --> 00:56:26.220
+Jason Liu: Awesome cool. Who is next I love?
+
+601
+00:56:31.860 --> 00:56:33.009
+Jason Liu: I think you're muted.
+
+602
+00:56:33.670 --> 00:56:39.336
+Shalev: Sorry, enabling both. I was just wondering about. I actually just posted this in the slack.
+
+603
+00:56:39.730 --> 00:56:57.139
+Shalev: I am curious about getting clients and making connections and such outside of the tech hotspots like Silicon Valley, where you said you kind of know everybody, and you've connected with founders and tech people all the time. If you live in a another portion of the world, is perhaps slower, paced, and not as intense.
+
+604
+00:56:57.140 --> 00:56:57.640
+Jason Liu: Yep.
+
+605
+00:56:58.025 --> 00:57:07.274
+Shalev: And maybe you're also trying to target you know what's available. Smaller businesses, not necessarily large enterprise shops or huge fast moving startups.
+
+606
+00:57:08.180 --> 00:57:13.780
+Shalev: how can you still build a consultancy and get connections? And still, you know, find the right clients and those kinds of places.
+
+607
+00:57:14.460 --> 00:57:22.469
+Jason Liu: Yeah. So when I started Twitter, I was actually just like stuck in Toronto waiting for my visa. It's kind of like a okay. Well, I'm actually super far away from everyone I know.
+
+608
+00:57:22.670 --> 00:57:27.729
+Jason Liu: Let me do the Twitter thing versus like go to hackathons and whatnot. I do just think that
+
+609
+00:57:29.090 --> 00:57:34.589
+Jason Liu: Twitter above. Linkedin is just a great place to meet people, because, like in the Tech hotspot, like everyone's already there.
+
+610
+00:57:34.840 --> 00:57:39.009
+Jason Liu: like half the people I know. I don't even know their real names or what they look like.
+
+611
+00:57:39.700 --> 00:57:44.039
+Jason Liu: And so there's a great opportunity to sort of build friendships that way. And then
+
+612
+00:57:44.060 --> 00:57:47.249
+Jason Liu: the reason I know all these people is actually because of Twitter. Right?
+
+613
+00:57:47.650 --> 00:57:52.590
+Jason Liu: So I had Rsi in 2020. And I basically stopped thinking about tech for like
+
+614
+00:57:52.600 --> 00:57:57.729
+Jason Liu: 3 years until chattivity came out and I was able to write again, and I was able to use dictation.
+
+615
+00:57:58.500 --> 00:57:59.560
+Jason Liu: And so
+
+616
+00:58:00.300 --> 00:58:11.490
+Jason Liu: I think it's definitely possible you just have to figure out like what people want. You know what I mean like, I think if the way of getting more followers is just figuring out like, how can you help someone else accomplish their dreams? And you know.
+
+617
+00:58:12.420 --> 00:58:16.360
+Jason Liu: if you can figure that out, everything else will follow.
+
+618
+00:58:17.453 --> 00:58:23.226
+Shalev: Twitter or blues. I know a lot of folks are moving to blue sky now, do you work with that at all, or is it
+
+619
+00:58:23.684 --> 00:58:30.540
+Jason Liu: No, I just do. I have enough of an audience where it's like not worth to do the platform change like I would rather go directly to email.
+
+620
+00:58:31.770 --> 00:58:32.580
+Shalev: Like a Newsletter.
+
+621
+00:58:32.900 --> 00:58:38.249
+Jason Liu: Yeah, exactly. Exactly. Cause. Then I own that list forever. And like, there's no platform risk.
+
+622
+00:58:39.010 --> 00:58:40.599
+Jason Liu: Got it? Yeah, okay, thank you.
+
+623
+00:58:40.910 --> 00:58:48.050
+Jason Liu: Yeah. But I would really figure out, yeah, like, what is the what are like? What is a portfolio of dreams? I can help people accomplish on the Internet.
+
+624
+00:58:48.170 --> 00:58:51.110
+Jason Liu: And if I just write about those that content
+
+625
+00:58:51.200 --> 00:58:53.490
+Jason Liu: match the value. But the the value equation.
+
+626
+00:58:53.570 --> 00:59:04.849
+Jason Liu: You end up doing quite well, and if you want to make sure they follow you. You have to make sure the Cta is to follow you. I will say, if you say, Follow me afterwards, it's like 7 times more conversion.
+
+627
+00:59:05.310 --> 00:59:05.960
+Shalev: Yeah.
+
+628
+00:59:06.290 --> 00:59:12.579
+Shalev: Okay. But you had to bootstrap from from start, though. Right? So you had some Twitter followers, even in Toronto.
+
+629
+00:59:13.290 --> 00:59:17.260
+Jason Liu: Yeah, from like 2,008 to 2023, I had 500 followers, I think.
+
+630
+00:59:17.880 --> 00:59:18.589
+Shalev: And it worked for Matt.
+
+631
+00:59:19.090 --> 00:59:20.290
+Jason Liu: Yeah, yeah.
+
+632
+00:59:20.290 --> 00:59:20.850
+Shalev: Okay.
+
+633
+00:59:21.170 --> 00:59:34.949
+Jason Liu: Yeah. But at that point I was like making a tweet every day of like, here's like a new like pytantic model you can use for like a structured extraction. Here's how you do it for receipts. And here's how you do it for, like photo, the receipts. And here's how you do it for like 15 different things. And I wrote like.
+
+634
+00:59:35.020 --> 00:59:39.790
+Jason Liu: like a hundred pages of docs on instructor, and just like promoted every single one on like a circle.
+
+635
+00:59:40.390 --> 00:59:42.420
+Jason Liu: Yeah, that's all.
+
+636
+00:59:43.710 --> 00:59:52.377
+Vishal Patel: Yeah. Hi, my question is about the kind of optimal time allocation between content creation and doing actual client work.
+
+637
+00:59:53.520 --> 00:59:57.099
+Vishal Patel: And let me kind of give you a little bit more context on where I'm coming from.
+
+638
+00:59:57.444 --> 00:59:57.790
+Vishal Patel: So
+
+639
+00:59:57.790 --> 01:00:20.990
+Vishal Patel: I'm a data science. AI consultant. And I've been running my own practice for the last 8 years. And I already have kind of more work than I can handle right now. I don't do content right now, but I would like to. I used to blog for personal hobby back in the day, so I'd like to get into content creation. But the thing I'm because of the opportunity cost of creating blogs and creating content.
+
+640
+01:00:21.180 --> 01:00:23.980
+Vishal Patel: I'm trying to kind of think about how much time
+
+641
+01:00:24.220 --> 01:00:30.989
+Vishal Patel: should I? And perhaps there's no one right answer to that. So maybe you can talk about at the beginning when you started this journey.
+
+642
+01:00:31.010 --> 01:00:35.489
+Vishal Patel: How much time were you allocating to content creation, and how that has changed over time.
+
+643
+01:00:36.930 --> 01:00:38.620
+Jason Liu: I would say, maybe like
+
+644
+01:00:38.980 --> 01:00:53.830
+Jason Liu: 10 to 15% of my time was spent doing content creation, and most of the time was like building the libraries. For example, once I found out about like Circle Back and cal.com all that kind of stuff, I started more of a process, and I started hiring a writer
+
+645
+01:00:53.910 --> 01:00:55.250
+Jason Liu: that's 1 angle of it.
+
+646
+01:00:55.490 --> 01:00:58.499
+Jason Liu: Once I had proof that I was good at content creation
+
+647
+01:01:00.190 --> 01:01:07.149
+Jason Liu: During the conversations with the startups I was working with. I realized that they kind of always are lacking this ability to be seen.
+
+648
+01:01:07.460 --> 01:01:11.069
+Jason Liu: So I'm actually slowly rolling content creation into the business
+
+649
+01:01:11.430 --> 01:01:19.040
+Jason Liu: right? And so now it's like, Oh, what are your goals like? What does success look like for you? So we're gonna raise our series? A, we're gonna hire a little bit more.
+
+650
+01:01:19.200 --> 01:01:27.087
+Jason Liu: Okay? Do you think like writing about your technical work could attract more more people to apply for your job? Maybe cool. Cool.
+
+651
+01:01:27.450 --> 01:01:38.359
+Jason Liu: What else would you need? Oh, you want more users cool like, are these technical users? Yes, great! What if we also, as through our consulting and figuring out what you want to build. Let's also write content on how to use the software.
+
+652
+01:01:38.650 --> 01:01:45.100
+Jason Liu: And so I've been naturally and slowly biscuit like building up this like Dev Braille Agency on the side
+
+653
+01:01:45.200 --> 01:01:48.240
+Jason Liu: which is actually safer for me to hire, for.
+
+654
+01:01:48.430 --> 01:01:50.720
+Jason Liu: like I can hire like a
+
+655
+01:01:51.740 --> 01:01:58.520
+Jason Liu: I can hire a writer much easier if I can hire like a AI consultant that I feel I'm comfortable, like delegating client work to.
+
+656
+01:01:59.220 --> 01:02:03.190
+Jason Liu: But now I'm able to scale by just. You know, I just have 2 writers now.
+
+657
+01:02:03.830 --> 01:02:09.269
+Jason Liu: and their job is sort of like, take my meeting notes and my loom videos and like, turn them into a blog post.
+
+658
+01:02:09.420 --> 01:02:14.099
+Jason Liu: but I've actually been able to roll that into the business and and scale that a little bit better.
+
+659
+01:02:15.000 --> 01:02:16.100
+Vishal Patel: Gotcha. Okay.
+
+660
+01:02:16.100 --> 01:02:21.030
+Jason Liu: And I think maybe the angle is like, can you figure out a way to like
+
+661
+01:02:21.400 --> 01:02:24.980
+Jason Liu: like? Add the option of writing as part of the engagement.
+
+662
+01:02:25.560 --> 01:02:26.100
+Vishal Patel: Yeah.
+
+663
+01:02:26.100 --> 01:02:31.100
+Jason Liu: And then you can like synchronously convert that content into to writing like now, during my calls.
+
+664
+01:02:31.260 --> 01:02:36.169
+Jason Liu: If I think there's a blog idea, I'll just say the blog idea out loud during the call.
+
+665
+01:02:36.640 --> 01:02:39.810
+Jason Liu: because the blog extractor will just catch it on the back end.
+
+666
+01:02:40.790 --> 01:02:41.450
+Vishal Patel: Yep.
+
+667
+01:02:41.860 --> 01:02:47.519
+Jason Liu: And then, if I like it, I'll just go. Hey? I think there was a good idea in the conversation we had last week.
+
+668
+01:02:47.720 --> 01:02:50.970
+Jason Liu: Do you want to spend some time this week to write like spin that up instead?
+
+669
+01:02:51.820 --> 01:02:54.099
+Jason Liu: I was like great cool. Let's cancel the meeting.
+
+670
+01:02:54.110 --> 01:03:01.240
+Jason Liu: Spin this up. I'll send it to my writer. And then, like, here's a loom video that happened like interviewed me for an hour and a half, and then let's like come up with a blog post.
+
+671
+01:03:02.170 --> 01:03:02.970
+Jason Liu: Yeah.
+
+672
+01:03:03.150 --> 01:03:04.659
+Vishal Patel: Gotcha makes sense. Yep, thank you.
+
+673
+01:03:04.660 --> 01:03:06.120
+Jason Liu: Yeah. Joe.
+
+674
+01:03:10.770 --> 01:03:12.500
+Joe Kariuki: Hi! Can you guys hear me?
+
+675
+01:03:13.140 --> 01:03:13.790
+Jason Liu: Yep.
+
+676
+01:03:15.170 --> 01:03:31.050
+Joe Kariuki: Great good. Yeah, I think, 1st of all, I just want to just thank you for just putting these workshops together. I really appreciate. You know, you bringing in the value equation by Homozy, really big fan. So that was like really awesome to see. So my question is really just around.
+
+677
+01:03:31.420 --> 01:03:40.389
+Joe Kariuki: you know how you just talked about like, you know, niche and like choosing the right like target market. So just to give a bit of more context. Earlier this year, I started a dev shop.
+
+678
+01:03:40.400 --> 01:03:45.710
+Joe Kariuki: and we've been getting a like clients based off referrals. So like people who know me as I see
+
+679
+01:03:45.710 --> 01:03:48.170
+Joe Kariuki: engineer then just refer work to us.
+
+680
+01:03:48.230 --> 01:04:09.005
+Joe Kariuki: So I want to specialize more in just building AI powered applications. But so like the kind of people we've been getting as referrals have been primarily just like early stage entrepreneurs or founders who are looking to like build an Mvp. So my question really is around like, you know, what advice? Do you have around like working with those type of
+
+681
+01:04:09.598 --> 01:04:19.630
+Joe Kariuki: individuals like those those specific type of entrepreneurs who want to like build an Mvp. And like sort of what are like the pros and cons of just like working with that specific type of market.
+
+682
+01:04:19.630 --> 01:04:23.589
+Jason Liu: Okay, I can talk about this because I that was like the biggest lesson I learned
+
+683
+01:04:24.215 --> 01:04:32.790
+Jason Liu: the most aggressive thing I would say is, people with Mvps have no pains like it's hard to figure what the pain is you're like a nice to have.
+
+684
+01:04:32.950 --> 01:04:35.600
+Jason Liu: And so it was really good when I was charging like
+
+685
+01:04:35.740 --> 01:04:40.880
+Jason Liu: $5,000 a month for like a like 4Â h of meetings, plus like asynchronous access.
+
+686
+01:04:40.940 --> 01:04:48.810
+Jason Liu: and then something would get busy, and then I'd be like, Hey, you still there like, do you still want to talk like it's like, Oh, we're we're busy with like hiring and fundraising.
+
+687
+01:04:48.960 --> 01:04:56.500
+Jason Liu: So one thing I would say is, if you can figure it out how to do like multi-month engagements.
+
+688
+01:04:56.970 --> 01:04:58.960
+Jason Liu: It's gonna make your life much easier.
+
+689
+01:04:59.240 --> 01:05:10.340
+Jason Liu: So here's here's a failure mode. If you do something where you charge 5 or $10,000 a month, and then all of a sudden, they have a fire, or they're having some like founder arguments, or they're like, you know, fundraising.
+
+690
+01:05:10.360 --> 01:05:14.039
+Jason Liu: You get a slow month, and then the question becomes, will they churn or not?
+
+691
+01:05:14.260 --> 01:05:14.765
+Jason Liu: Right?
+
+692
+01:05:15.470 --> 01:05:22.230
+Jason Liu: Or it's like, Oh, we have some tech issues. And now you like, do you pause it? Do you refund this month? And then it's very annoying.
+
+693
+01:05:22.480 --> 01:05:27.599
+Jason Liu: But if you can figure out some way of figuring it, okay, sure, I'm gonna charge you $5,000 a month. But
+
+694
+01:05:27.920 --> 01:05:31.739
+Jason Liu: if you just raised money and you think we're going to work together for about 5 months?
+
+695
+01:05:31.990 --> 01:05:38.839
+Jason Liu: Let's do a $25,000 engagement where we do 50 upfront, and then 50 in 60 days, or something like that.
+
+696
+01:05:38.950 --> 01:05:43.430
+Jason Liu: or you can pay upfront for 15% off right?
+
+697
+01:05:43.660 --> 01:05:46.329
+Jason Liu: And then what happens is, if there's any drama
+
+698
+01:05:46.590 --> 01:05:51.130
+Jason Liu: you can say, Hey, it looks like you 2 are really busy. I'm happy to extend the engagement for a month.
+
+699
+01:05:52.870 --> 01:05:55.830
+Jason Liu: and then they thank you right.
+
+700
+01:05:56.260 --> 01:05:57.030
+Joe Kariuki: Yeah.
+
+701
+01:05:57.030 --> 01:06:00.920
+Jason Liu: Whereas before it's like, Hey, we haven't talked because you're like super busy. Should I like like
+
+702
+01:06:01.530 --> 01:06:06.310
+Jason Liu: like? Is it? So? I refund you for the $7,000 we didn't do anything and like, I don't wanna like.
+
+703
+01:06:06.760 --> 01:06:20.479
+Jason Liu: be this like very extractive. And you just have a bunch of different feelings that are like, not needed, at least for me. So that's the 1st thing right fixed engagement time. And then, if something good happens, you can renegotiate a new engagement
+
+704
+01:06:20.510 --> 01:06:22.330
+Jason Liu: because the 5 months ended.
+
+705
+01:06:22.960 --> 01:06:28.360
+Jason Liu: So, good. Crit, you raise your series a let like, does it make sense to continue this and and do something else
+
+706
+01:06:29.270 --> 01:06:35.500
+Jason Liu: right? And then you can like raise prices, decrease prices, change the engagement. It's much more natural than just having a subscription that runs
+
+707
+01:06:37.300 --> 01:06:42.720
+Jason Liu: and then, lastly, depending on how confident you are, there is a world where you ask to be paid on success.
+
+708
+01:06:43.400 --> 01:06:44.420
+Jason Liu: Right?
+
+709
+01:06:44.450 --> 01:06:52.419
+Jason Liu: Do you want, like like $25,000 to build a prototype, or you say, Oh, I want a hundred $1,000, but like if you raise, then you pay me the 80
+
+710
+01:06:52.820 --> 01:06:53.340
+Jason Liu: right.
+
+711
+01:06:54.290 --> 01:07:01.780
+Jason Liu: But now I know what you want is to raise. If you need me to talk to customers, I'm willing to do that, and if you need me to do something else. I'm willing to do that, too.
+
+712
+01:07:02.500 --> 01:07:06.186
+Jason Liu: But there's there's there's a there's a spectrum that you can play around with.
+
+713
+01:07:06.500 --> 01:07:08.660
+Jason Liu: It really depends on where where people are.
+
+714
+01:07:09.800 --> 01:07:13.739
+Jason Liu: Yeah. But those are. Do those 3 things make sense.
+
+715
+01:07:14.590 --> 01:07:17.129
+Joe Kariuki: Yeah, it does. Makes it very clear. Thank you.
+
+716
+01:07:17.130 --> 01:07:18.283
+Jason Liu: Yeah, like,
+
+717
+01:07:20.200 --> 01:07:26.130
+Jason Liu: yeah. Like, I think if you're doing a monthly retainer, it's no different than charging hourly, like, it has to be
+
+718
+01:07:26.700 --> 01:07:29.920
+Jason Liu: $40,000 over 5 months, right?
+
+719
+01:07:30.030 --> 01:07:35.319
+Jason Liu: Because it takes 5 months to get there. It's not because my time is worth dollar over hour amount.
+
+720
+01:07:36.080 --> 01:07:36.720
+Joe Kariuki: Right?
+
+721
+01:07:37.170 --> 01:07:50.870
+Joe Kariuki: Yeah. So like, right now, I, I do charge based on the project. So like, sort of what you basically said like a fixed price, and then you also offer like support on a monthly fee as well. So like post project, offer support on a monthly fee, as well.
+
+722
+01:07:52.430 --> 01:07:56.750
+Jason Liu: Yeah, maybe the next level is, can we figure out some kind of like engagement where it's
+
+723
+01:07:57.230 --> 01:07:59.049
+Jason Liu: on success, or something like that?
+
+724
+01:07:59.830 --> 01:08:01.729
+Joe Kariuki: Right, right.
+
+725
+01:08:03.040 --> 01:08:03.560
+Jason Liu: Christy.
+
+726
+01:08:04.510 --> 01:08:27.609
+Cristi Vicas: Yes, thank you for this course. And hopefully, I'm not in the wrong chat. Yeah, because I think it's a bit of a noob question we signed a client. And what's the difference between what we do? And what an individual contributor or technical lead, or even a manager does. Are there any red lines areas where we don't go into
+
+727
+01:08:28.090 --> 01:08:31.150
+Cristi Vicas: keep our hands off some things?
+
+728
+01:08:32.130 --> 01:08:33.250
+Cristi Vicas: So basically.
+
+729
+01:08:33.250 --> 01:08:34.010
+Jason Liu: One walking.
+
+730
+01:08:34.010 --> 01:08:37.129
+Cristi Vicas: Be our day job in interaction with the client.
+
+731
+01:08:37.810 --> 01:08:40.130
+Jason Liu: One thing that I was like the
+
+732
+01:08:40.740 --> 01:08:47.200
+Jason Liu: like a generic red flag is like I try not to join their slack channel, and I don't.
+
+733
+01:08:47.640 --> 01:08:52.290
+Jason Liu: I don't participate in the stand up. If I am, I am running the stand up.
+
+734
+01:08:53.390 --> 01:08:59.299
+Jason Liu: Yeah, because he had to preserve some optics of not being an employee right and like
+
+735
+01:08:59.350 --> 01:09:03.519
+Jason Liu: like the the communication with me, has to go through like a much more narrow path.
+
+736
+01:09:04.010 --> 01:09:10.959
+Jason Liu: and if you do that, then it becomes a lot easier like, because if you're on the slack and you see a question like, should I answer this question right now, like, what's going on
+
+737
+01:09:10.970 --> 01:09:16.679
+Jason Liu: right, if you're like on, stand up. It's like an hour a week of just you not saying anything listening to them.
+
+738
+01:09:17.300 --> 01:09:22.939
+Jason Liu: And then you start looking like a an employee that's like, though that's like the one core thing that I've sort of realized
+
+739
+01:09:23.040 --> 01:09:27.389
+Jason Liu: is always a slack connect or be invited in separate groups
+
+740
+01:09:27.520 --> 01:09:30.800
+Jason Liu: and make sure you have like a key contact.
+
+741
+01:09:30.920 --> 01:09:36.070
+Jason Liu: and that you are not sort of in the same position as as a as a employee
+
+742
+01:09:36.359 --> 01:09:42.196
+Jason Liu: like for one Comp. Company. I was part of like the 3 60, like Quarterly Review, and I was like, Wait a minute like
+
+743
+01:09:42.750 --> 01:09:45.529
+Jason Liu: I messed up right.
+
+744
+01:09:45.779 --> 01:09:51.679
+Cristi Vicas: Okay, thank you. So absolutely no problem. Getting hands dirty with code and tweaking things around.
+
+745
+01:09:52.250 --> 01:09:56.500
+Jason Liu: Yeah, I think there depends on how big your company is. For example.
+
+746
+01:09:57.370 --> 01:09:59.920
+Jason Liu: like, when I work with one like
+
+747
+01:10:00.240 --> 01:10:08.940
+Jason Liu: 1 billion dollar company, they're like, okay, like, you need to install all this like security software on your laptop. We're not gonna send you a new laptop. Here's like sign all this paperwork
+
+748
+01:10:09.369 --> 01:10:12.330
+Jason Liu: but also, you have to like, contribute to the code base.
+
+749
+01:10:12.380 --> 01:10:29.740
+Jason Liu: But you can't get access to like the vercel environment variables like email me once a week to get the new rotated keys. That kind of stuff gets really tricky. What I do now is, I just say I will build prototypes, and I'll deliver them over the wall. But I will not be contributing to the core code base, because I don't want to. One waste time
+
+750
+01:10:29.850 --> 01:10:33.510
+Jason Liu: onboarding the complexity of the code base. And then 2
+
+751
+01:10:34.540 --> 01:10:38.870
+Jason Liu: because I'm not working a full full time role with you.
+
+752
+01:10:39.120 --> 01:10:45.749
+Jason Liu: like if I'm missing an Api key and I message somebody, and they're busy with 3Â h like the cycles get way way longer than they ought to be.
+
+753
+01:10:46.170 --> 01:10:49.620
+Jason Liu: whereas prototyping and handing it over is, I think, a better quote
+
+754
+01:10:49.650 --> 01:10:52.460
+Jason Liu: program for for me at least, as as an individual.
+
+755
+01:10:54.330 --> 01:10:55.040
+Jason Liu: Oh.
+
+756
+01:10:58.800 --> 01:10:59.770
+Jason Liu: does that make sense.
+
+757
+01:11:00.140 --> 01:11:01.250
+Cristi Vicas: Yes, thank you. Awesome.
+
+758
+01:11:01.250 --> 01:11:01.880
+Jason Liu: Awesome.
+
+759
+01:11:02.220 --> 01:11:03.010
+Jason Liu: Done.
+
+760
+01:11:05.140 --> 01:11:29.200
+Ben: Yeah. My question. Similar vein. It's managing implementation versus advisory. And how to manage that trade off. So obviously, I think the stuff that you talked about. Content? Can be a big difference in what you attract? And the less business you have, the more you're gonna go towards implementation. But the more time you spend on implementation, the less time you have to
+
+761
+01:11:29.290 --> 01:11:48.010
+Ben: write, better content and get more advisory, higher leverage things. So could you just talk in some more detail about how you've navigated that and how you transition like, yeah, I don't know if it's really possible to transition an implementation client to an advisory one. You probably just have to find new ones, but.
+
+762
+01:11:49.520 --> 01:11:53.820
+Jason Liu: It depends. So I'll say 3 things. The 1st one is.
+
+763
+01:11:54.600 --> 01:11:58.509
+Jason Liu: implementation is very good in the beginning, because it actually is
+
+764
+01:11:59.010 --> 01:12:02.130
+Jason Liu: like the work like it actually gets you content to write about.
+
+765
+01:12:02.420 --> 01:12:07.420
+Jason Liu: So if you think about the rad course, most of the anecdotes of the Rad course came from the implementation work
+
+766
+01:12:08.020 --> 01:12:11.649
+Jason Liu: right? And so like, you need to actually
+
+767
+01:12:12.020 --> 01:12:23.530
+Jason Liu: have been right to write content where you are right. If you just start with advisory work, there's actually no proof that you you've you've had any regrets, or you can minimize any regrets. So implementation is a very good way to start out.
+
+768
+01:12:23.840 --> 01:12:25.189
+Jason Liu: The second thing is
+
+769
+01:12:25.260 --> 01:12:29.890
+Jason Liu: depending on how you scope the projects. If it is implementation work, I scope it as
+
+770
+01:12:29.960 --> 01:12:38.810
+Jason Liu: you guys need a prototype very soon. Hiring is very difficult. I'm going to step in to help you get to this prototype in order to raise raise money. For example.
+
+771
+01:12:40.510 --> 01:12:44.559
+Jason Liu: benefit 2 is, I will help you interview and hire my replacement.
+
+772
+01:12:45.100 --> 01:12:48.980
+Jason Liu: and then I will step back and act as an advisory for the role.
+
+773
+01:12:49.170 --> 01:13:03.900
+Jason Liu: So as my proposal, because I know what you want is not a prototype. What you want is to have some bigger outcome. You can add options in to upsell hiring, interviewing selection and then transitioning to an advisory role later on in some in the timeline
+
+774
+01:13:05.860 --> 01:13:18.339
+Jason Liu: But that's only because you know what they actually want. You know that what they actually want is not just a prototype, but something much bigger, and you can add options as part of that, and we'll talk a little bit more about that. In Day 3, we go over proposals where?
+
+775
+01:13:18.600 --> 01:13:28.729
+Jason Liu: Yeah, almost every company I work with has an option where it's like, Hey, I'm going to help you write. But it's gonna push towards hiring. We're gonna head ahead of AI. And then the ultimate goal is, I get you a roadmap. Get to series a
+
+776
+01:13:29.070 --> 01:13:29.820
+Jason Liu: right?
+
+777
+01:13:30.760 --> 01:13:36.459
+Jason Liu: And because the vision is so big, everything else can is just the implementation detail of whether you're implementing or advising.
+
+778
+01:13:39.270 --> 01:13:40.110
+Jason Liu: Evan.
+
+779
+01:13:40.680 --> 01:13:47.879
+evan david: Hi, Jason, thanks so much for this is amazing. I'm leaving a corporate job as a head of AI after
+
+780
+01:13:48.520 --> 01:13:51.130
+evan david: very long time, and I already won my 1st
+
+781
+01:13:51.270 --> 01:14:03.352
+evan david: big consulting client like a large tech media company. They want me to come in and help them amplify their usage of AI for their developers and build proof of concepts and kind of show people best practices.
+
+782
+01:14:03.670 --> 01:14:04.160
+Jason Liu: Yeah.
+
+783
+01:14:04.160 --> 01:14:16.070
+evan david: But they were very loose on the proposal, like they wanted it to be less specific, and they kept kind of dodging, like what success looks like. So I'm just. I'm I'm kind of scared because I.
+
+784
+01:14:16.430 --> 01:14:17.010
+Jason Liu: Yeah.
+
+785
+01:14:17.010 --> 01:14:30.440
+evan david: Stuff to develop content. I want to own the content. I think it's gonna get tricky from an IP standpoint. But I'm just wondering, like, what would you look out for, or what would you? How would you think about it? Going into this in like 2 to 3 weeks?
+
+786
+01:14:32.500 --> 01:14:36.870
+evan david: And it's a high hourly rate for 6 months, that they've locked me in.
+
+787
+01:14:37.760 --> 01:14:39.370
+Jason Liu: And it is hourly still.
+
+788
+01:14:39.370 --> 01:14:42.039
+evan david: It is hourly, and they're pushing for like
+
+789
+01:14:42.070 --> 01:14:48.260
+evan david: pretty much full time, like they want me full time at this hourly rate, which I'm cool with, because I want their name.
+
+790
+01:14:48.670 --> 01:14:49.310
+Jason Liu: Right.
+
+791
+01:14:49.520 --> 01:14:51.049
+evan david: And I want the experience.
+
+792
+01:14:51.860 --> 01:14:59.590
+Jason Liu: Yeah, the IP stuff is tricky, like, my loophole is basically for a lot of the prompt engineering work. It's a part of instructor.
+
+793
+01:15:00.380 --> 01:15:08.880
+Jason Liu: And then in my contract, it says, like, I will use like open source tooling. And I'll reference documentation of open source tooling and the blogs go into the documentation.
+
+794
+01:15:10.010 --> 01:15:18.830
+Jason Liu: So it's like all of it is like pre-existing IP, because I'm going everything through instructors like a loophole. There. The second thing is like, yeah. Just hire a lawyer. I I'm gonna invite Luke
+
+795
+01:15:19.280 --> 01:15:23.780
+Jason Liu: who is like my new lawyer to come in and maybe talk to people. But.
+
+796
+01:15:25.020 --> 01:15:26.250
+evan david: I need a lawyer.
+
+797
+01:15:26.480 --> 01:15:29.570
+Jason Liu: The IP stuff is really tricky and like that was
+
+798
+01:15:29.670 --> 01:15:32.735
+Jason Liu: that was basically like $1,600 for me to just figure out that like.
+
+799
+01:15:33.490 --> 01:15:35.869
+Jason Liu: if it's in the instructor, Vlog, it's okay.
+
+800
+01:15:36.370 --> 01:15:36.870
+evan david: Okay.
+
+801
+01:15:36.870 --> 01:15:40.230
+Jason Liu: As long as it's not like super unrelated.
+
+802
+01:15:41.370 --> 01:15:44.460
+Jason Liu: But I'll say, if if it is an hourly rate.
+
+803
+01:15:44.970 --> 01:15:47.550
+Jason Liu: it's less risky, I would say.
+
+804
+01:15:48.530 --> 01:15:49.380
+Jason Liu: But
+
+805
+01:15:49.820 --> 01:15:55.259
+Jason Liu: but again, the question I would always ask is like, Okay, what's at stake in the business? What are we celebrating a year from now?
+
+806
+01:15:55.990 --> 01:15:59.640
+Jason Liu: Do you? Can you have any answer? And if you they don't have any answer.
+
+807
+01:16:02.380 --> 01:16:07.039
+Jason Liu: it's still a little bit of a red flag. I think the only question is like. Do you want the logo and like.
+
+808
+01:16:07.140 --> 01:16:11.250
+Jason Liu: do you want like, be given hourly? You're you're kind of de-risked in some ways.
+
+809
+01:16:11.630 --> 01:16:15.900
+evan david: Got it. Well, what sold them was that I basically talked to them about
+
+810
+01:16:16.335 --> 01:16:25.470
+evan david: Turbo charging innovation, utilizing AI, and with, you know, cause the even though they're large, they still have a limited budget. Everybody's cutting back
+
+811
+01:16:25.610 --> 01:16:28.838
+evan david: so amplifying the power of research and.
+
+812
+01:16:29.680 --> 01:16:30.760
+Jason Liu: So, yeah.
+
+813
+01:16:31.400 --> 01:16:38.700
+Jason Liu: yeah. And Wednesday, I'll talk a little bit more about how to have the value conversation. But even that feels very, very challenging. Right?
+
+814
+01:16:38.700 --> 01:16:39.150
+Jason Liu: Okay,
+
+815
+01:16:39.650 --> 01:16:42.150
+evan david: Alright. Well, thank you. This is awesome.
+
+816
+01:16:42.150 --> 01:16:45.850
+Jason Liu: Maybe message me on site. Maybe we can brainstorm and figure out how to that makes sense
+
+817
+01:16:45.850 --> 01:16:47.222
+Jason Liu: bit better. But
+
+818
+01:16:47.890 --> 01:16:48.430
+evan david: Appreciate it.
+
+819
+01:16:48.430 --> 01:16:49.840
+Jason Liu: Yeah, ours is always tricky.
+
+820
+01:16:50.900 --> 01:16:51.440
+evan david: Okay.
+
+821
+01:16:51.440 --> 01:16:59.679
+Jason Liu: Yeah, because the trick for me is like, Hey, look, you know, I wanna be talking to your team. I don't want your team to be making some investment decision every time they message me on slack. So let's just do
+
+822
+01:16:59.930 --> 01:17:04.760
+Jason Liu: like a project with based plan. And let's really figure out like, what does success look like?
+
+823
+01:17:04.950 --> 01:17:06.410
+Jason Liu: That's kind of like. How I.
+
+824
+01:17:06.720 --> 01:17:07.110
+evan david: Got it.
+
+825
+01:17:07.110 --> 01:17:09.569
+Jason Liu: Wordsmith, my way into the value, conversation.
+
+826
+01:17:09.570 --> 01:17:11.510
+evan david: Okay. Alright, that's helpful.
+
+827
+01:17:12.220 --> 01:17:13.160
+evan david: And I.
+
+828
+01:17:14.570 --> 01:17:26.389
+Nik McFly â€” Hybrain.ai: Yeah, one more question is, so we have very good tech specialists team. And we have some experience in our products along with
+
+829
+01:17:26.630 --> 01:17:34.070
+Nik McFly â€” Hybrain.ai: local rags and stuff, very different things from avatars and marketing campaigns to industrial applications and.
+
+830
+01:17:34.070 --> 01:17:34.780
+Jason Liu: Hmm.
+
+831
+01:17:34.780 --> 01:17:40.410
+Nik McFly â€” Hybrain.ai: Business process automation. So if you were in our position.
+
+832
+01:17:40.520 --> 01:17:59.870
+Nik McFly â€” Hybrain.ai: which product would you recommend focusing on as an agency what would be the one that delivers the greatest value to clients makes them eager to pay, and is realistically achievable. Any ideas, or maybe trends you've spotted, or
+
+833
+01:18:00.410 --> 01:18:01.320
+Nik McFly â€” Hybrain.ai: any answer.
+
+834
+01:18:01.820 --> 01:18:06.866
+Jason Liu: Yeah, I feel like my answer. There would mostly be like using the Internet as a sensor.
+
+835
+01:18:08.030 --> 01:18:08.950
+Jason Liu: Right?
+
+836
+01:18:09.700 --> 01:18:10.670
+Jason Liu: That's like.
+
+837
+01:18:11.470 --> 01:18:19.949
+Jason Liu: because I now have, like the rag audience and the consulting audience. There is a world where I can just like, send everyone an email, do a survey and figure out, oh, wow like
+
+838
+01:18:20.110 --> 01:18:24.780
+Jason Liu: software that turns meeting in a blog post could be like a thing that we're willing to pay for
+
+839
+01:18:25.060 --> 01:18:27.329
+Jason Liu: right? But
+
+840
+01:18:29.380 --> 01:18:35.899
+Jason Liu: I don't know if I have. I could like, put a bet on any of these, any of these things I would just figure out like.
+
+841
+01:18:38.130 --> 01:18:48.909
+Jason Liu: and I mean another way to think about. It's like, Okay, well, how if I go down any of these paths like, what does my life look like in a year from now? What is the thing we celebrate. And then how easy is it to actually get that audience
+
+842
+01:18:48.930 --> 01:18:51.210
+Jason Liu: top of funnel right?
+
+843
+01:18:51.320 --> 01:18:56.849
+Jason Liu: It's like, Can you? If you can write the marketing line better for one of these products. I think that's something that would be
+
+844
+01:18:56.960 --> 01:18:59.119
+Jason Liu: very interesting to to note.
+
+845
+01:19:00.830 --> 01:19:05.947
+Jason Liu: yeah, in in the past, like 10 years I've been doing like physics and like deep learning. And the marketing brain has,
+
+846
+01:19:06.760 --> 01:19:08.249
+Jason Liu: has been very enlightening.
+
+847
+01:19:10.140 --> 01:19:13.989
+Jason Liu: Yes, what is the biggest outcome that you can feel accountable for with the tool that you built.
+
+848
+01:19:14.200 --> 01:19:20.190
+Jason Liu: and then for that audience, is there a way that you can build a campaign to get that? Get that right? Attention.
+
+849
+01:19:20.600 --> 01:19:21.340
+Jason Liu: Yeah.
+
+850
+01:19:21.690 --> 01:19:24.230
+Jason Liu: But just yeah. Message me on slack. We can brainstorm this as well.
+
+851
+01:19:25.140 --> 01:19:26.140
+Jason Liu: Okay.
+
+852
+01:19:26.480 --> 01:19:31.894
+Jason Liu: it is 1230 on my end. I think we're gonna let's just wrap this up now and then.
+
+853
+01:19:32.430 --> 01:19:38.549
+Jason Liu: yeah. So I'll send a letter of apology to the the other 70 people I missed out on office hours.
+
+854
+01:19:41.160 --> 01:19:43.280
+âš¡ Marian Noble (she/her): Thank you so much, Jason.
+
+855
+01:19:44.860 --> 01:19:45.550
+Jason Liu: Awesome.
+
+856
+01:19:45.790 --> 01:19:47.019
+Sid: Take care, everyone.
+
+857
+01:19:47.020 --> 01:19:47.549
+Sid: Thank you. Guys.
+
+858
+01:19:47.550 --> 01:19:48.000
+Jason Liu: Bye, bye.
+
+859
+01:19:48.920 --> 01:19:49.680
+Evan Simpson: Thanks, everybody.

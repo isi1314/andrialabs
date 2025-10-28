@@ -1,0 +1,56 @@
+# Example Proposal 3
+
+## Situation Appraisal
+
+A private equity firm, specializing in software company acquisitions, seeks to accelerate its AI efforts across various aspects of its business. The company aims to improve internal processes and enhance customer-facing products through AI.
+
+The key focus areas include structured data expertise, RAG (Retrieval-Augmented Generation) implementation, and AI-driven analysis of internal documentation and contracts.
+
+## Objectives
+
+1. Improve retrieval, generation, and ranking of information from complex documents
+2. Develop efficient strategies for preprocessing and post-processing document data
+3. Implement targeted AI solutions for specific business needs across the portfolio
+4. Up skill internal teams on AI best practices and implementation strategies
+
+Weekly engagement including:
+
+- One 60-minute strategy session per week (can be flexible w/ more or less 1:1 based on your needs)
+- Follow-up memo with specific recommendations and action items
+- Asynchronous communication via Slack, email, or voice memos from time to time
+- Code sharing and guidance for implementation teams
+
+## Joint Accountabilities
+
+- Regular communication to ensure alignment of project goals and progress
+- Adherence to confidentiality and data protection standards
+- Company to designate internal point of contact
+- Both parties to inform each other of any situations that could materially affect project outcomes
+
+## Fees and Commitment Options
+
+### Monthly Rates
+
+- AI Advisory - $14,750 per month
+
+### 3-Month Commitment (15% discount if paid upfront)
+
+- Option 1: AI Advisory Services
+    - Total: $44,250 (Save $7,867.50)
+
+For 3-month commitments, we offer a 15% discount if paid upfront. 
+
+Just as a notice, I plan to take most of December out of office and plan to change the structure of my consulting in the new year.
+
+### Guarantee.
+
+If the engagement does not meet your expectations, we offer a full refund of service.
+
+## Terms and Conditions
+
+- Initial engagement period: 1 month or 3 months (depending on chosen commitment)
+- For monthly engagements:
+    - Payment terms: 50% due upon acceptance, balance due within 30 days
+    - Subsequent months billed at the beginning of each month
+- For the 3 month commitments:
+    - Full payment due upfront to receive the 15% discount

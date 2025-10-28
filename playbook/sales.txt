@@ -1,0 +1,182 @@
+# Sales Playbook
+
+**I. Qualify the Buyer (Assess What’s at Stake)**
+
+Prioritize uncovering a problem that’s tangible and time-sensitive. If they can’t articulate impact, they’re window shopping. Quickly test urgency, cost, and consequences:
+
+- **“What’s at stake if this problem remains unsolved?”**
+    
+    **Strong Answer Example:** “If we don’t fix this, we’ll bleed $20k/month in manual rework and risk missing our Q3 revenue target.”
+    
+    **Interpretation:** Concrete stakes (lost money, missed targets) show this is a pressing, quantifiable issue. You’re dealing with someone who recognizes value—good sign.
+    
+- **“If this doesn’t get fixed, what’s the cost in time, money, or opportunities?”**
+    
+    **Strong Answer Example:** “Competitors are pulling ahead while we waste internal resources. Every month of delay costs us $15k and erodes market share.”
+    
+    **Interpretation:** They see not just a lump sum loss, but also competitive pressure and strategic downside—perfect conditions for high-value consulting.
+    
+- **“Why address this now instead of waiting?”**
+    
+    **Strong Answer Example:** “We have a product launch next quarter, and if we’re not ready, customers will churn, and we’ll damage our brand.”
+    
+    **Interpretation:** Clear urgency and timeline. Immediate action needed means a higher likelihood of them investing meaningfully.
+    
+
+**If they say something vague like, “We thought it might help,” or “We’re just exploring,” they don’t recognize the problem’s value. Offer a smaller monthly retainer or direct them to free resources (like your blog posts) so they can educate themselves before re-engaging.**
+
+**II. Probe for the Decision-Maker (Identify Authority and Budget)**
+
+You must confirm you’re dealing with someone who can pull the trigger. If not, insist on bringing in the person who can.
+
+- **“Who else is involved in making this decision?”**
+    
+    **Strong Answer Example:** “Our COO signs off on any investment over $50k.”
+    
+    **Interpretation:** Great. You know the real decision-maker and the investment threshold. Aim to involve the COO early.
+    
+- **“Is the budget approved or does someone need to secure buy-in?”**
+    
+    **Strong Answer Example:** “We have a provisional $60k set aside, but we need to justify it by showing potential ROI.”
+    
+    **Interpretation:** Budget is earmarked but not guaranteed. Frame your approach around ROI to unlock it.
+    
+
+**III. Clarify Desired Outcomes (Define Success Criteria)**
+
+Once you confirm stakes and authority, shift focus to what “winning” looks like. If they can’t define success, they’ll struggle to see your value.
+
+- **“What does success look like if we nail this?”**
+    
+    **Strong Answer Example:** “A 20% increase in upsells and a 30% reduction in support tickets within six months.”
+    
+    **Interpretation:** Specific metrics—they know how to measure impact. That’s a buyer who thinks in outcomes, not just deliverables.
+    
+- **“What went wrong with previous attempts, and what’s different now?”**
+    
+    **Strong Answer Example:** “Last vendor hit deadlines but didn’t move the needle on churn. We need measurable results, not just code shipped.”
+    
+    **Interpretation:** They’ve been burned by superficial fixes. Emphasize how your approach targets measurable KPIs.
+    
+- **“If we achieve these outcomes, how does this impact broader goals?”**
+    
+    **Strong Answer Example:** “Reducing churn lets us reinvest in product development and strengthen our pitch to investors.”
+    
+    **Interpretation:** They tie success to strategic initiatives—investor confidence, product acceleration—so they’ll value a solution that drives overall business health.
+    
+
+**IV. Establish ROI and Investment (Quantify Value)**
+
+Connect your fee to their upside. You’re a strategic partner securing future gains, not a cost center.
+
+- **“If we achieve these results, what ROI do you expect?”**
+    
+    **Strong Answer Example:** “We’d save $200k annually and gain $500k in new revenue.”
+    
+    **Interpretation:** Perfect. You have their numbers. Use them as the foundation for your fee structure—if you deliver $700k in net benefit, a $70k investment is easily justified.
+    
+- **“How much of that ROI are you comfortable investing to ensure success?”**
+    
+    **Strong Answer Example:** “We’d put 10–15% of those gains back into making sure we get results.”
+    
+    **Interpretation:** They just gave you a pricing anchor. If they’re okay investing $70k–$105k to secure $700k in gains, you know where to pitch your offer.
+    
+- **“If we cut down your team’s effort and deliver faster outcomes, does that increase the value?”**
+    
+    **Strong Answer Example:** “Absolutely. Freeing our team saves time that can go into a new product line, adding even more revenue potential.”
+    
+    **Interpretation:** Less internal effort is a multiplier. They value speed and internal resource allocation—reinforce these advantages in your pitch.
+    
+
+**V. Commit to Next Steps (Move Toward a Deal)**
+
+You’ve identified the problem, the value, and the decision-maker. Now push for a commitment. No vague promises—get dates and names.
+
+- **“If we align on outcomes and investment, is there any reason we can’t move forward now?”**
+    
+    **Strong Answer Example:** “We just need the COO’s nod. Let’s bring them into a meeting next Tuesday.”
+    
+    **Interpretation:** Identify and resolve that final gate. Once the COO is on board, you’re set.
+    
+- **“What’s the timeline, and who else needs to be involved?”**
+    
+    **Strong Answer Example:** “We aim to start next month, and our Head of Product will handle day-to-day collaboration.”
+    
+    **Interpretation:** You now have a launch date and a point person. Your path to kickoff is clear.
+    
+
+**VI. Understanding the Partnership Criteria (Elevate Your Role)**
+
+Before finalizing terms, confirm how they view a true partner. This intel lets you frame yourself as their long-term ally.
+
+- **“What do you look for in a strategic partner?”**
+    
+    **Strong Answer Example:** “We want someone who proactively identifies issues and opportunities before we even ask.”
+    
+    **Interpretation:** They hate reactive vendors. Position yourself as a proactive advisor who anticipates needs.
+    
+- **“How do we differentiate ourselves from just another vendor?”**
+    
+    **Strong Answer Example:** “A great partner ties their work directly to business results, not just outputs.”
+    
+    **Interpretation:** Perfect. You’ve already been doing this—emphasize ROI and outcomes relentlessly.
+    
+- **“Is proactive communication, adaptability, or ongoing support critical?”**
+    
+    **Strong Answer Example:** “Absolutely, we need frequent check-ins and flexible responses to changing conditions.”
+    
+    **Interpretation:** Prioritize regular updates, pivots, and iterative improvement. This lets them feel heard and supported.
+    
+
+**VII. Lock in Momentum (Prevent Ghosting)**
+
+Prevent deal stall-outs. Set firm deadlines and schedule the next meeting before the current call ends.
+
+- **Set a Proposal Deadline:** “I’ll have a detailed proposal in your inbox by Friday at 2pm.”
+    
+    **Meaning:** Hard date equals accountability. They expect something concrete—keeps the deal moving.
+    
+- **Book the Next Meeting Now:** “Let’s schedule 30 minutes same time next week to review the proposal together.”
+    
+    **Meaning:** Avoid the dreaded silent period. A pre-booked call ensures they engage with the proposal promptly.
+    
+
+**VIII. Follow-Up Strategies Using Your Own Examples**
+
+When following up, never “just check in.” Always tie back to their goals and next steps. If unqualified, move them to lower-effort options.
+
+- **Action-Oriented Follow-Up:**
+    
+    “Does it make sense to move forward with the proposal we discussed, or should we loop in your COO first?”
+    
+    **Meaning:** Forces a decision. If they hesitate, you know what’s missing—maybe bring in the COO immediately.
+    
+- **Outcome-Based Follow-Up:**
+    
+    “Are you still set on hitting that Q3 target and increasing upsells by 20%? If so, let’s finalize the proposal and lock in resources.”
+    
+    **Meaning:** Reminds them why we started. If they’re serious about Q3, they must re-engage.
+    
+- **If They Go Cold:**
+    
+    “I’ve reached out a few times. Does it still make sense to solve this now, or should we pause? Where does this leave us now?”
+    
+    **Meaning:** You give them a polite out. If they’re not serious, direct them to your blog or a small retainer—no more wasted energy.
+    
+
+In Practice:
+
+1. Start by identifying the prospect's pain points and what's truly at stake for their business and stakeholders.
+2. Get clarity on who makes decisions and ensure you can get them involved in the conversation.
+3. Establish concrete success metrics that matter to their business objectives.
+4. Connect their desired outcomes to potential ROI, then align your pricing accordingly.
+5. Secure commitment by demonstrating how you'll achieve their specific goals within their timeline.
+6. Understand their communication preferences and set clear expectations for ongoing updates.
+7. Always end meetings with concrete next steps and scheduled follow-ups.
+8. If communication drops off, remind them of the value at stake. If still unresponsive, offer lighter engagement options to maintain the relationship.
+
+**Ongoing Improvement:**
+
+After every call, document what questions resonated, which metrics they latched onto, and where you lost them. Did they have trouble articulating value? Adjust your lead qualification questions. Did they love your ROI framing? Double down on that in future calls and content.
+
+Each interaction refines your approach. Over time, you attract better buyers, lock in deals faster, and consistently anchor your fees to measurable business results.

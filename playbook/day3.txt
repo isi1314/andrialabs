@@ -1,0 +1,1021 @@
+WEBVTT
+
+1
+00:00:02.800 --> 00:00:11.200
+Jason Liu: Present, everyone can just see just fine, perfect, awesome.
+
+2
+00:00:11.760 --> 00:00:13.220
+Jason Liu: So
+
+3
+00:00:13.590 --> 00:00:27.379
+Jason Liu: yeah, the past 2 days was mostly around learning how to talk about these things right, learning to talk about like value and like what that means, and really having sort of the right way of phrasing and framing ideas. And then yesterday, not yesterday, Tuesday.
+
+4
+00:00:27.530 --> 00:00:38.350
+Jason Liu: Wednesday. Sorry we mostly talked about how to start changing our mind around, how we present the value of the work that we do right? We talk all these questions and and whatnot.
+
+5
+00:00:38.680 --> 00:00:57.030
+Jason Liu: And today, the goal is to bring in both the the writing skills that we've talked about, how we've changed our mindset on day 2, and start thinking about the actual deals and proposals, and really being able to present something to your customer that says, Hey, I know what you want. I want to get rewarded fairly for that, and then we can jump in from there.
+
+6
+00:00:57.570 --> 00:01:07.629
+Jason Liu: And so this will be a very short day relative to the others. I think it should be like 45Â min, and then we're gonna take a break. Let everyone like submit their proposals, and then we can jump right in.
+
+7
+00:01:10.060 --> 00:01:19.279
+Jason Liu: I think I saw this question a lot on slack and in the Q. And A, and the question was, basically, should I be doing hourly based pricing with? I'm a beginner.
+
+8
+00:01:19.360 --> 00:01:26.750
+Jason Liu: right? Should I do something else? And and honestly, I think if you're actually a beginner, you're you're almost better off either doing something for free
+
+9
+00:01:26.770 --> 00:01:32.550
+Jason Liu: or thinking about doing something that is all value based and paid on success.
+
+10
+00:01:32.770 --> 00:01:36.569
+Jason Liu: Right? I have a lot of people in my messages often to saying like, Okay, like
+
+11
+00:01:37.240 --> 00:02:01.690
+Jason Liu: I would love to work for you. It's just like an hourly rate, and that ends up being actually scarier than you think, because I don't really know how long something's gonna take. Maybe the costs are going to balloon out of control. But usually when someone says, Oh, I would love to help you solve this problem, for maybe like a couple $1,000, is that something I'm very willing to to take on. And so that's again, I don't think necessarily the hourly rate is actually a safer bet for many people.
+
+12
+00:02:01.950 --> 00:02:12.350
+Jason Liu: and the goal really is, you know you do this for free. You do this on success, because really what you want is you want to build testimonials and references and build out your portfolio of proof and content.
+
+13
+00:02:12.830 --> 00:02:18.229
+Jason Liu: And once you do that, you can start asking questions like, how have I helped you? Do you know anyone else that needs that kind of help.
+
+14
+00:02:20.440 --> 00:02:42.340
+Jason Liu: And again, like this is the one question that kind of changed everything for me, which is just like what is at stake. Right? What are we celebrating? And if you can figure that out, you're going to be able to write better, you're going to feel more confident in asking for for a higher fee, right? Because you know how big their problem is. Now, you don't feel so bad asking for like $10,000 or $50,000. Because you know what that stake is.
+
+15
+00:02:42.460 --> 00:02:45.820
+Jason Liu: the entire company. It's a couple 1 million dollars. And
+
+16
+00:02:46.260 --> 00:02:54.439
+Jason Liu: understanding that question just generally is going to help you figure out what your core customers are. How do you price things and give you the confidence to ask for more?
+
+17
+00:02:54.760 --> 00:02:59.980
+Jason Liu: And on the flip side of that really is also about what we should be celebrating right
+
+18
+00:02:59.990 --> 00:03:19.039
+Jason Liu: like we talked about how you know ideally. When you introduce me or you meet me at a party somewhere. You're not going to say wow! Jason answered so many questions on a zoom call. Really it should be. You know I now have the confidence to do consulting, or I've been able to increase how much I make. And now I have more free time, and those are the kind of things I hope everyone here celebrates.
+
+19
+00:03:20.100 --> 00:03:23.899
+Jason Liu: And so to cover what we've talked about before.
+
+20
+00:03:24.280 --> 00:03:33.810
+Jason Liu: you know. Really, it's this idea that if you have nothing going on right now, spitting up the content. Flywheel is going to be very useful because it is something that is in your control.
+
+21
+00:03:33.950 --> 00:03:42.110
+Jason Liu: Right? You can create your own proof. You can build your own audience, and you can start collecting leads regardless of any kind of external factors.
+
+22
+00:03:42.660 --> 00:03:48.659
+Jason Liu: And the trick really is to think about the value equation as a way of thinking about how you build offers and how you do messaging.
+
+23
+00:03:48.860 --> 00:03:57.489
+Jason Liu: And once you figure that out, you just have to figure out what the market is what the message is for that customer, and what kind of medium and platform you're gonna use.
+
+24
+00:03:58.420 --> 00:04:11.140
+Jason Liu: And once you have an understanding or some comfort in talking about what you do, then your goal is to go from asking for money in exchange for time to being rewarded fairly for the work that you create and the value that you create.
+
+25
+00:04:11.450 --> 00:04:19.859
+Jason Liu: And ideally, as you start talking to more people who are sort of any level of capital allocator or resource allocator. You can get that practice as well.
+
+26
+00:04:20.480 --> 00:04:28.560
+Jason Liu: and and ultimately start focusing on conversations around. What is the investment you're trying to make, how you're trying to fund these projects and not just cost.
+
+27
+00:04:29.180 --> 00:04:46.829
+Jason Liu: And today we're going to take these questions that we ask and use them to write situational assessments. These are the kinds of proposals that I use to get my customers to understand the benefits of working together and give them options to pay me more. And then, lastly, we'll review some of your proposals.
+
+28
+00:04:48.060 --> 00:05:07.730
+Jason Liu: And again, most of this is going to be sort of repetition, because I really want you to sort of internalize this and sort of change your mind and change your brain chemistry around this, which is that your ability to get paid is directly proportional to how well you understand what their outcomes are, how well you can control that value equation and how well you can demonstrate accountability for success.
+
+29
+00:05:07.850 --> 00:05:11.570
+Jason Liu: right? Whether it's content, whether it's referrals or case studies or anything else.
+
+30
+00:05:12.390 --> 00:05:17.830
+Jason Liu: And the examples I gave last class was around sort of thinking about guarantees that could communicate that understanding
+
+31
+00:05:18.210 --> 00:05:33.320
+Jason Liu: right. Maybe you only pay after you hit your goals. Maybe I'll actually take on some risk to make sure you still get what you want, or there are some conditions like a recruiter where they just take a cut of some, you know, reward based on some other conditions.
+
+32
+00:05:34.940 --> 00:05:43.489
+Jason Liu: And so the goal for this 1st half is really to go over some of the most important questions we should be asking and the questions we should learn how to ask and learn how to write about, too.
+
+33
+00:05:44.670 --> 00:05:49.430
+Jason Liu: And again, if you have any proposals, feel free to leave them in the question channel.
+
+34
+00:05:49.860 --> 00:05:57.809
+Jason Liu: and I'll either review them during the office hours. If there's many, or I'll review them as loom videos and then share them with everybody afterwards.
+
+35
+00:05:58.160 --> 00:06:03.289
+Jason Liu: And if you don't want it to be shared like, you know, just let me know, but I think it would benefit many people to see sort of
+
+36
+00:06:03.360 --> 00:06:12.040
+Jason Liu: how diverse proposals tend to be, and how much tighter and how much more concise and and high converting they could be with a little bit of feedback.
+
+37
+00:06:13.060 --> 00:06:17.009
+Jason Liu: So these are effectively the 4 questions I try to answer at any given time.
+
+38
+00:06:17.660 --> 00:06:20.209
+Jason Liu: Am I talking to the qualified buyer?
+
+39
+00:06:20.380 --> 00:06:28.869
+Jason Liu: What is that stake in the business? What are they looking for in a partner? And what does success actually look like? What is the thing that we celebrate?
+
+40
+00:06:30.070 --> 00:06:32.419
+Jason Liu: So first, st let's talk about the qualified buyer.
+
+41
+00:06:33.250 --> 00:06:41.529
+Jason Liu: The qualified buyer is the one that has real purchasing power. Right? They actually know what the values are, what the metrics are and what the business impact is.
+
+42
+00:06:41.820 --> 00:06:57.010
+Jason Liu: And more broadly, they understand the broader impact of the work that they're doing. They control the resource allocation. And, unlike the qualified buyer, unqualified buyers, mostly thinking about budgeting and cost, and really don't have any idea, because they aren't rewarded
+
+43
+00:06:57.670 --> 00:07:00.520
+Jason Liu: for making these better decisions right?
+
+44
+00:07:03.580 --> 00:07:15.690
+Jason Liu: And so when you start talking to the qualified buyer, really, the question is, you know, asking the people who reach out or reaching out to people that say, Okay, who else should be involved in these decisions? Right? Can we identify these stakeholders in these group meetings.
+
+45
+00:07:16.150 --> 00:07:25.180
+Jason Liu: Can I do anything or write anything that can help the non-decision makers present to leadership and the situational assessment that we'll talk about is a great tool to do that.
+
+46
+00:07:25.870 --> 00:07:32.970
+Jason Liu: And ultimately the difference between the qualified buyer and the unqualified buyer is a focus on outcomes and not just features.
+
+47
+00:07:34.940 --> 00:07:50.780
+Jason Liu: and you'll definitely start noticing, as you talk to more people where some folks have the ability to make a lot of financial decisions without constant approval. They understand the long term vision of a company. They understand the business impact and the technical details, and they can discuss previous investments
+
+48
+00:07:51.640 --> 00:08:07.570
+Jason Liu: right? There have been times where, you know, I spoke to unqualified buyers, and it's wasted months of my time, and there's been times where I was speaking to a qualified buyer without really realizing it. And I give them a price, and they just accept immediately, because it was so much smaller than what they're used to.
+
+49
+00:08:07.680 --> 00:08:10.099
+Jason Liu: Right like a like a
+
+50
+00:08:10.360 --> 00:08:17.579
+Jason Liu: a funny story. That isn't that funny to me is at 1 point I was talking to the coo of a company I just didn't realize.
+
+51
+00:08:18.120 --> 00:08:29.119
+Jason Liu: And so I made this big deal like, Oh, you know, I'm pretty busy, but maybe we can do something if it's for like a $14,000 monthly retainer. And they just said, Okay, that's fine.
+
+52
+00:08:29.310 --> 00:08:44.519
+Jason Liu: You send me the paperwork. And after I did some research, it turns out they were like the coo of a company with like 5 billion dollars under management. And I realized that I was just incredibly cheap relative to the kinds of decisions they were
+
+53
+00:08:45.000 --> 00:08:46.250
+Jason Liu: comfortable making.
+
+54
+00:08:47.180 --> 00:08:49.180
+Jason Liu: They basically pay with credit card.
+
+55
+00:08:51.350 --> 00:09:00.159
+Jason Liu: once you start having these conversations, you're going to realize that you really have to figure out, you know, who needs to be involved and like what the typical processes for investments are.
+
+56
+00:09:00.200 --> 00:09:23.129
+Jason Liu: When I work for fortune, 500 companies, a lot of it is actually multiple layers of procurement and legal and all that. And you should understand what it takes up front to get these things out the door right. It might be easy to sell to like a solo founder because they control the budget, but they might not understand what the long term vision is in terms of actually generating revenue if they're pre product market fit.
+
+57
+00:09:23.400 --> 00:09:30.139
+Jason Liu: whereas a bigger company might have much more bureaucracy. But they actually understand what they're trying to get out of this engagement.
+
+58
+00:09:31.220 --> 00:09:40.709
+Jason Liu: Okay? And obviously, if people need to check with their boss and only focus on these technical details, they're the ones you trying to want to technically avoid right? A lot of times
+
+59
+00:09:40.780 --> 00:09:47.309
+Jason Liu: technical co-founders will read my blog post and reach out. But fundamentally, I just basically learned that
+
+60
+00:09:47.400 --> 00:09:55.580
+Jason Liu: because they're so focused on the technical details. This conversation of Roi is is nearly impossible, and I have to immediately talk to the CEO 1st
+
+61
+00:09:55.640 --> 00:09:57.909
+Jason Liu: and then get reintroduced to the CTO.
+
+62
+00:10:00.990 --> 00:10:07.610
+Jason Liu: And and my, you know, big mistakes that that happened when I started out was really understanding that the people who book my time
+
+63
+00:10:08.490 --> 00:10:11.240
+Jason Liu: we're not qualified buyers.
+
+64
+00:10:12.060 --> 00:10:18.639
+Jason Liu: This is okay in the beginning, because these conversations are the ones that can help you generate content and help you figure out what to write about.
+
+65
+00:10:19.820 --> 00:10:27.680
+Jason Liu: and you can do the legwork of doing this investigative journalism and figure out what they want. And you can write about that.
+
+66
+00:10:27.940 --> 00:10:33.119
+Jason Liu: But if you don't know what they want, and they don't know what they want. You're always going to be a nice to have.
+
+67
+00:10:33.650 --> 00:10:43.069
+Jason Liu: and when their priorities change, you know that those conversations are on churn and continue the engagement. Those are the awkward things that I think everyone will run into, but
+
+68
+00:10:43.300 --> 00:10:47.709
+Jason Liu: could be avoided. If you have the luxury of actually figuring out whether the qualified buyer
+
+69
+00:10:48.810 --> 00:10:52.499
+Jason Liu: the second question, right? The question I loved asking is just what is at stake.
+
+70
+00:10:52.540 --> 00:10:55.810
+Jason Liu: and this is something I'll just ask straight off in the beginning.
+
+71
+00:10:55.910 --> 00:11:00.100
+Jason Liu: right? If you go on my website and you find my like services
+
+72
+00:11:00.230 --> 00:11:05.270
+Jason Liu: like request form. The 1st question is, what is at stake?
+
+73
+00:11:05.350 --> 00:11:07.879
+Jason Liu: What is your timeline? Can you measure Roi?
+
+74
+00:11:08.180 --> 00:11:10.620
+Jason Liu: And you know what? What is your role at the company?
+
+75
+00:11:12.310 --> 00:11:19.309
+Jason Liu: It's a really important to ask question to ask, because this is the thing that actually figures out if they're hungry enough to actually work with you
+
+76
+00:11:19.520 --> 00:11:29.609
+Jason Liu: right? And understanding what is at stake early on in the process is going to help. Not only the pitch it's gonna help with follow ups. It's gonna help with everything. So, for example.
+
+77
+00:11:30.320 --> 00:11:39.129
+Jason Liu: if what is at stake is that they need to go, you know. Build this product before the end of the year. Maybe you send them a proposal, and maybe they don't reply back.
+
+78
+00:11:39.690 --> 00:11:47.509
+Jason Liu: Well, instead of just saying like, Hey, just checking in like, do you still need my help? Because you know what's at stake. You can return with something better.
+
+79
+00:11:47.880 --> 00:11:53.889
+Jason Liu: Hey? This is Jason. I reached out earlier. Are you still committed to getting the result
+
+80
+00:11:54.090 --> 00:11:58.969
+Jason Liu: right? Even that small positioning can get you a lot higher conversion just on these emails that you sent.
+
+81
+00:11:59.980 --> 00:12:10.150
+Jason Liu: And again figuring out what's at stake can be really simplified into the value equation that we talked about many times right, the dream, the likelihood of success, time, and effort.
+
+82
+00:12:12.180 --> 00:12:20.280
+Jason Liu: And the more you can dig at this question of what is at stake. You can start asking them, you know, how long have they been working on this? How much effort have they put in?
+
+83
+00:12:20.600 --> 00:12:26.060
+Jason Liu: If they've been stuck for many months and going nowhere, that increases the time right?
+
+84
+00:12:26.260 --> 00:12:30.939
+Jason Liu: If they're bleeding customers and their CTO is spread very thin. Maybe this is about the effort.
+
+85
+00:12:30.990 --> 00:12:39.539
+Jason Liu: right? And maybe they're already researching and funding different solutions at the same time. And you're just someone that can help, you know, make the resource allocation a little bit more effectively.
+
+86
+00:12:40.580 --> 00:12:49.429
+Jason Liu: knowing the answers to all these questions, will not only help you make more money, but it's gonna give you the confidence to ask for more right? Because when you don't know this.
+
+87
+00:12:50.180 --> 00:12:56.219
+Jason Liu: all your questions and all your thoughts around, how much you charge effectively is this internal feeling of how much you think you're worth.
+
+88
+00:12:56.690 --> 00:12:59.269
+Jason Liu: But once you understand how big the problem is.
+
+89
+00:12:59.340 --> 00:13:08.419
+Jason Liu: This is where you get a lot more confidence. And this is where you can start, you know, thinking about the higher price point options and figuring out, okay, well, if I was able to charge this much, what kind of service could I provide for them?
+
+90
+00:13:08.720 --> 00:13:11.740
+Jason Liu: What kind of budget can I basically allocate for myself
+
+91
+00:13:11.920 --> 00:13:15.130
+Jason Liu: rather than just answering the question of like, How much is my time worth?
+
+92
+00:13:17.520 --> 00:13:21.829
+Jason Liu: And again, when they don't have good answers on this, you're just a nice to have
+
+93
+00:13:21.950 --> 00:13:27.610
+Jason Liu: right when someone just says they want to work with me for some, you know amorphous definition.
+
+94
+00:13:27.700 --> 00:13:29.710
+Jason Liu: Usually it's a couple of calls.
+
+95
+00:13:29.840 --> 00:13:34.480
+Jason Liu: you know. You give them as much information as you can. You send them a proposal, and they just stop applying to you.
+
+96
+00:13:35.010 --> 00:13:42.249
+Jason Liu: and so really wanting to avoid wasting that time, especially if you're later on on the consulting journey. And again, if it's early.
+
+97
+00:13:42.490 --> 00:13:49.899
+Jason Liu: you know, if they're not paying, they're the product. And you should really be thinking about how to leverage those opportunities to write more content to help you practice
+
+98
+00:13:50.880 --> 00:13:51.290
+Jason Liu: alright.
+
+99
+00:13:52.040 --> 00:13:53.520
+Jason Liu: And like I said.
+
+100
+00:13:53.730 --> 00:14:08.470
+Jason Liu: on day 2, the more you ask this question, the crazier the answers get, like they're either no one knows what they want or something massive is at stake. Right? If we build this demo, we can actually raise like 4 or 5 million dollars.
+
+101
+00:14:08.610 --> 00:14:16.740
+Jason Liu: You know one company. They told me that their co-founder left, and they need, like an interim CTO, while they go figure out what to do next.
+
+102
+00:14:16.810 --> 00:14:20.499
+Jason Liu: Right. These are massive holes that you can fill.
+
+103
+00:14:22.660 --> 00:14:38.470
+Jason Liu: Another company basically was running out of money because they were having such expensive Api calls and just figure out how to lower those costs would be worth it, and and helping them manage that while they focus on raising more money was a great example of just measuring the outcomes and measuring what success looks like.
+
+104
+00:14:40.140 --> 00:14:44.560
+Jason Liu: Another company I work with wanted to do more Llm. As a judge.
+
+105
+00:14:44.740 --> 00:15:03.090
+Jason Liu: but when you start asking about why they want Llm. As a judge, it turns out half the team quit. And so they were trying to just start replacing it with AI rather than thinking about the backfill. And so right away, it's like, Oh, wow! Like, how much does 2 people cost? How much does the hiring process cost? How much could the Llm. As a judge help you solve that problem sooner and faster?
+
+106
+00:15:04.030 --> 00:15:18.860
+Jason Liu: And obviously there are people that are building like consumer applications where they're making a lot of money. But because AI stuff doesn't really work that well, turn is a big problem, and evals are needed. But evals are needed not just for the sake of evals.
+
+107
+00:15:19.260 --> 00:15:22.499
+Jason Liu: but to really figure out how we can make the customers trust you.
+
+108
+00:15:22.790 --> 00:15:33.259
+Jason Liu: So it's not about the question of how much are the Evals worth? But how much is it costing you for your customers to lose trust? How much is it costing you for your customers to churn.
+
+109
+00:15:33.430 --> 00:15:35.759
+Jason Liu: and those are the ideal conversations you want to have.
+
+110
+00:15:37.280 --> 00:15:54.499
+Jason Liu: And obviously there's other times where the thing that I've really noticed in my consulting is. Many companies are also looking to grow and hire, and they just never hired for a role like an AI engineer or a machine learning engineer. And again, you know. How much does a recruiter make? Those are much larger numbers than I would have charged had I been charging an hourly rate.
+
+111
+00:15:55.120 --> 00:16:00.610
+Jason Liu: And then, lastly, thinking about. You know what we look for in a partner and what success looks like
+
+112
+00:16:01.670 --> 00:16:02.470
+Jason Liu: right
+
+113
+00:16:02.770 --> 00:16:22.280
+Jason Liu: understanding why someone seeks your help is going to be very beneficial primarily, because in the proposals that you write, the more you listen for some of these issues, the more you can customize what kind of offer you have right. The joke for me always is the fact that if they want more high touch or less high touch, you can charge more for the same option
+
+114
+00:16:22.310 --> 00:16:24.740
+Jason Liu: right whether it's weekly meetings or hourly things.
+
+115
+00:16:25.190 --> 00:16:30.350
+Jason Liu: you know. Maybe someone wants to be very involved in the process, and they want to learn to be a better AI
+
+116
+00:16:30.640 --> 00:16:31.790
+Jason Liu: engineer.
+
+117
+00:16:31.980 --> 00:16:37.480
+Jason Liu: Maybe you can include them in weekly meetings, and you can give them weekly updates. So they know what's going on.
+
+118
+00:16:37.970 --> 00:16:44.469
+Jason Liu: Maybe they want lower touch involvement, because this is not the highest priority thing. Okay, then I can also run the entire team.
+
+119
+00:16:46.520 --> 00:16:51.599
+Jason Liu: And you can actually likely write a proposal that says, Okay, well, if you want high touch.
+
+120
+00:16:51.730 --> 00:16:53.620
+Jason Liu: I can be a regular advisor.
+
+121
+00:16:53.720 --> 00:16:56.740
+Jason Liu: But for another option, which is a higher price point.
+
+122
+00:16:56.810 --> 00:17:01.220
+Jason Liu: I can be higher touch for you. I can do these monthly updates and and syncs with you guys.
+
+123
+00:17:01.960 --> 00:17:06.480
+Jason Liu: But for this, for a different customer, you can say for less touch.
+
+124
+00:17:07.060 --> 00:17:12.309
+Jason Liu: right? So I can be an advisor. But for you know, $8,000 extra I can be, you know. Lower touch.
+
+125
+00:17:13.339 --> 00:17:23.559
+Jason Liu: The idea is that you're charging on the value of the work, because value is captured by all the convenience they have, and you can charge more regardless whether it's more or less work.
+
+126
+00:17:25.849 --> 00:17:34.970
+Jason Liu: because really, what you're looking for is accountability right? Some customers that I work with just want to ask me questions on a on an hourly basis or on a weekly basis.
+
+127
+00:17:35.060 --> 00:17:37.499
+Jason Liu: Some might want help deploying a product.
+
+128
+00:17:37.580 --> 00:17:46.500
+Jason Liu: whereas on a higher level of accountability, you can be doing research interviews and load testing and handling the deployments and and improving the hiring process.
+
+129
+00:17:46.590 --> 00:17:47.145
+Jason Liu: Right?
+
+130
+00:17:47.840 --> 00:17:59.649
+Jason Liu: You should be able to give them a menu of options that go up and down this scale with the understanding that the better you understand the product, and the better you understand accountability you are, you deserve a bigger reward.
+
+131
+00:18:00.550 --> 00:18:05.540
+Jason Liu: And then, lastly, understanding what success looks like is sort of the complement of understanding what's at stake.
+
+132
+00:18:06.560 --> 00:18:07.380
+Jason Liu: Right?
+
+133
+00:18:07.720 --> 00:18:22.629
+Jason Liu: This is a conversation that is is fairly difficult to systematize, because it's very different. Given the audience. You know, I thought most of most of the people here were working with startups, but I think there's many folks here who are working with like healthcare or government and whatnot.
+
+134
+00:18:23.200 --> 00:18:29.539
+Jason Liu: and each of you will have to sort of figure out how to draw these conversations and what metrics they care about.
+
+135
+00:18:29.600 --> 00:18:37.859
+Jason Liu: But as you niche down, you're going to be able to figure out what those questions are. And if you want to do experiments, we can always just, you know, write blog posts and see what sticks.
+
+136
+00:18:39.190 --> 00:19:02.170
+Jason Liu: But as a result, what I find is not everyone just wants to prototype right? They actually want to have better processes and improve the evals and build out a network and figure what the roadmap is, and those are all things you can start, including into your services. And here, you know, if I invite, if I'm trying to help you hire someone, and I run a dinner for you again. This is not a thing you should be charging hourly for. Right? This doesn't make any sense.
+
+137
+00:19:04.940 --> 00:19:19.490
+Jason Liu: And you know, like I said before, it's gonna be pretty awkward to ask these questions in the beginning, when you don't understand the true value. But this is where things like writing can really help with your communication, and it can solidify some of these ideas. So you can figure out what to say. You know game time.
+
+138
+00:19:21.290 --> 00:19:21.725
+Jason Liu: alright.
+
+139
+00:19:22.890 --> 00:19:40.129
+Jason Liu: and for me the thing that ultimately led to the most conversions, you know, maybe like a year into my consulting is really figuring out like this phrasing, which is, you know. Hey? Look, your team is obviously very smart. But I think a lot of companies just need permission to do the boring thing and to look at data and figure out what that means and just run experiments.
+
+140
+00:19:40.290 --> 00:20:00.430
+Jason Liu: And without that permission from the engineering team or engineering leadership, because they don't know if it's right or wrong, it's really hard for the leadership to figure out if their AI engineering team is ineffective, or if the problem was inherently difficult, this ended up being a line that resonates a lot. This is something I had sort of figured out just throughout tons of writing and tons of free calls.
+
+141
+00:20:00.610 --> 00:20:04.620
+Jason Liu: Alright, most engineering teams have the right idea.
+
+142
+00:20:04.670 --> 00:20:09.619
+Jason Liu: but they're just not fully confident in being able to execute on that idea. And that's where I'm able to come in
+
+143
+00:20:10.530 --> 00:20:11.200
+Jason Liu: right.
+
+144
+00:20:11.960 --> 00:20:19.090
+Jason Liu: And once you figure out who's a qualified buyer? What's at stake? What do they look for in a partner and what success looks like?
+
+145
+00:20:19.260 --> 00:20:23.029
+Jason Liu: And then you can start packaging all this up in a proposal.
+
+146
+00:20:23.550 --> 00:20:28.879
+Jason Liu: and then, like fees and costs and terms, those are the things that you you communicate afterwards.
+
+147
+00:20:29.920 --> 00:20:32.099
+Jason Liu: This is where we get into the situational assessment.
+
+148
+00:20:33.070 --> 00:20:42.569
+Jason Liu: A situational assessment is effectively a proposal that 1st talks about the dreams and pains of the customer, then about how we measure it and how we accomplish it.
+
+149
+00:20:42.640 --> 00:20:51.349
+Jason Liu: We talk about the values and benefits of solving the problem, how we're going to get it done, and then only then do you present options for them to choose from
+
+150
+00:20:51.760 --> 00:20:52.600
+Jason Liu: right.
+
+151
+00:20:53.350 --> 00:21:04.629
+Jason Liu: This approach really helps prevent sticker shock and starts seeding the person with the ideas around the roi, and their willingness to invest, to achieve that roi rather than just
+
+152
+00:21:04.870 --> 00:21:07.900
+Jason Liu: this is who I am. And this is how much I'm gonna cost you.
+
+153
+00:21:09.990 --> 00:21:24.580
+Jason Liu: And the conversation should ultimately focus on the project's roi. And I understand that that's very difficult at times when you're not familiar with this, but again figuring out the kind of questions and using the situational assessment as the sort of form you've got to fill out really helps with that.
+
+154
+00:21:26.430 --> 00:21:30.130
+Jason Liu: So let's just go into some smaller examples that I've had in the past, right?
+
+155
+00:21:30.440 --> 00:21:37.730
+Jason Liu: So you know, the the b 2 c product went from like 30,000 Mrr to 200,000, Mrr. But the churn was really bad.
+
+156
+00:21:38.000 --> 00:21:51.540
+Jason Liu: And if you just sort of do the math and what they're going to lose in the next half year, you realize, okay, this is kind of the upper bound of the value. Right? A $100,000 in the next year, you know, you can do some some math. But really, what this is saying is
+
+157
+00:21:51.610 --> 00:21:55.089
+Jason Liu: this is probably not like a 5, $6,000 solution.
+
+158
+00:21:55.250 --> 00:22:00.960
+Jason Liu: right? And if I, if I wanted 10% of that versus 20% of that or 50% of that.
+
+159
+00:22:01.540 --> 00:22:05.719
+Jason Liu: What would it take like? How accountable do I have to be for the success of that product.
+
+160
+00:22:05.830 --> 00:22:06.779
+Jason Liu: It's fair.
+
+161
+00:22:08.110 --> 00:22:17.539
+Jason Liu: There are other companies that are, you know, public companies that have many competitors, for example, Nyc, and then the question is, okay. Well, if you were to buy a company.
+
+162
+00:22:17.740 --> 00:22:29.360
+Jason Liu: how much would you be spending if you built this thing? How much money do you think you'd be making? And all of a sudden the answers they give you are like 20 million dollars, like a hundred 1 million dollars. And you realize again, okay, well.
+
+163
+00:22:30.020 --> 00:22:34.259
+Jason Liu: what would it take like, if I only took 1% of that or 2% of that or 3% of that.
+
+164
+00:22:35.200 --> 00:22:39.409
+Jason Liu: what kind of services could I provide to help you make that more likely to happen.
+
+165
+00:22:39.960 --> 00:22:41.719
+Jason Liu: You know, a last one that
+
+166
+00:22:41.860 --> 00:22:53.149
+Jason Liu: was like very surprising to me was a head of AI had like basically left because they wanted to do more research, and they were very. They were just like scrambling to to hire a new head before they they start their fundraising.
+
+167
+00:22:53.900 --> 00:22:59.160
+Jason Liu: And again, initially, they thought about the prototype. But really it was an opportunity to be an investor.
+
+168
+00:23:00.230 --> 00:23:07.900
+Jason Liu: And again, the idea is that you have to figure out who's actually hungry. If you want to like, sell your services right? You got to find the people who really need you.
+
+169
+00:23:08.460 --> 00:23:12.079
+Jason Liu: And if their answers to those questions that we asked aren't that good?
+
+170
+00:23:12.380 --> 00:23:19.840
+Jason Liu: And they can't really open their eyes to what's possible. You know what's happening is they might not know, and they might not be the right customer.
+
+171
+00:23:20.130 --> 00:23:20.830
+Jason Liu: Right?
+
+172
+00:23:23.080 --> 00:23:33.399
+Jason Liu: And what I'll say to this is, if that is the case, what makes sense for me is often just to sell a monthly plan, right? Like a subscription based model where you have access to yourself.
+
+173
+00:23:34.280 --> 00:23:40.070
+Jason Liu: And you can use that time. Basically, you know, maybe it's like 30Â min twice a week, an hour, and that's up to you
+
+174
+00:23:40.970 --> 00:24:05.979
+Jason Liu: that will help you. Sort of, you know. Have these conversations, ask questions, learn more about the services and the help that they need. And maybe you can use that to write more content, share memos, and figure out what they truly want. But there's a lot of, you know, issues around churn and prioritization, and being a nice to have that you run into. But this is a good way to downsell some services as long as you have a portfolio of services that you can present.
+
+175
+00:24:09.090 --> 00:24:12.819
+Jason Liu: And so the general situational assessment has this kind of structure.
+
+176
+00:24:13.150 --> 00:24:15.699
+Jason Liu: 1st we talk about the situation itself.
+
+177
+00:24:16.310 --> 00:24:21.990
+Jason Liu: What is that stake? What is it costing you? If you were able to solve this problem, what would it unlock?
+
+178
+00:24:22.330 --> 00:24:27.940
+Jason Liu: Then we talk about the objectives themselves, which is just like what the company actually needs in a very material way.
+
+179
+00:24:28.530 --> 00:24:57.269
+Jason Liu: How do we measure that success? And if we are able to solve these problems, what are the values and the benefits? And here we can not only talk about the business outcomes, but also even the emotional outcomes right? Do you think there'll be promotions? How do we make you the customer look good and feel good, too? Right? If I was going to do a you know, a larger, like consulting consultants thing. Maybe the benefits are a work life balance. Maybe the benefits is the ability to travel right. These are things you can put into the situational assessment
+
+180
+00:24:57.460 --> 00:25:00.099
+Jason Liu: if you ask those questions about what they're celebrating.
+
+181
+00:25:00.680 --> 00:25:07.200
+Jason Liu: And only then do you talk about your methodologies, and what people are accountable, and the pricing and the terms that people care about.
+
+182
+00:25:09.020 --> 00:25:14.390
+Jason Liu: So I'm going to exit this and then
+
+183
+00:25:18.890 --> 00:25:20.370
+Jason Liu: jump into.
+
+184
+00:25:23.550 --> 00:25:25.860
+Jason Liu: Yes, great.
+
+185
+00:25:26.560 --> 00:25:40.699
+Jason Liu: So I have this workshop. I'm gonna share this with everyone on the slack after the call. Just because people I don't want people to get too distracted. But one of the feedback was, we wanted some more worksheets. So we've actually built out some of these as well. So I have, like a sales worksheet with some kind of question to ask.
+
+186
+00:25:41.900 --> 00:25:44.210
+Jason Liu: as well as some example proposals.
+
+187
+00:25:44.380 --> 00:25:54.750
+Jason Liu: I will call out that the situational assessment is something I've really adapted from Alan Weiss's book, 1 million Dollar consulting and the consulting Bible. And so if you check out this link.
+
+188
+00:25:54.940 --> 00:26:05.489
+Jason Liu: you're basically gonna have an example of what this actually means with some, you know, contracts and and proposals that aren't really AI related, but are just sort of general, generally good ideas.
+
+189
+00:26:06.160 --> 00:26:15.190
+Jason Liu: I've also included 3 example proposals from actual proposals that were accepted, as well as some more tips on how to think about situational assessments.
+
+190
+00:26:19.770 --> 00:26:22.209
+Jason Liu: This is an example, for for example.
+
+191
+00:26:24.430 --> 00:26:27.250
+Jason Liu: as well as a generic proposal.
+
+192
+00:26:31.060 --> 00:26:42.579
+Jason Liu: and what I do is I will actually upload all of this and create my own proposal, cloud project and use that to do some kind of self coaching and do some kind of proposal writing.
+
+193
+00:26:42.950 --> 00:26:52.280
+Jason Liu: And so what I'll do is I'll have this all in a cloud project, and every time I end a sales call I'll go into something like, circle back, copy the transcript, paste it back in.
+
+194
+00:26:52.540 --> 00:26:54.650
+Jason Liu: and just have a conversation right?
+
+195
+00:26:55.030 --> 00:26:57.049
+Jason Liu: What questions. Did I not ask?
+
+196
+00:26:57.381 --> 00:27:08.520
+Jason Liu: What could I? What could I have done better? Okay. Given what you know? Write me a draft of a proposal. Write me some follow up questions and then write me an email I can use to send to the customer
+
+197
+00:27:09.700 --> 00:27:18.169
+Jason Liu: right? And this is just my way of sort of iterating on these ideas in isolation. And obviously, if you post things in questions, I'm happy to take a look.
+
+198
+00:27:18.900 --> 00:27:23.724
+Jason Liu: I will also say, when you start thinking about
+
+199
+00:27:24.210 --> 00:27:27.570
+Jason Liu: doing these sales calls where that lead to these proposals.
+
+200
+00:27:28.070 --> 00:27:30.379
+Jason Liu: I really wanted to make sure you do 2 things.
+
+201
+00:27:31.080 --> 00:27:32.359
+Jason Liu: The 1st one is
+
+202
+00:27:32.890 --> 00:27:43.880
+Jason Liu: after any kind of sales call, really confirm and lock in a date, for when the proposal will be ready right? And and it might take you like 2 or 3Â h to write a good proposal. But it's very important that you do this.
+
+203
+00:27:44.090 --> 00:27:50.480
+Jason Liu: The second thing is at the end of the call. You should always try to book the following call right?
+
+204
+00:27:50.560 --> 00:28:03.610
+Jason Liu: So like you might want to end the conversation and say, Great! It sounds like what you really need in the next couple of months is to really figure out how you can go from time-based pricing to value-based pricing. If you can do that, you're going to be able to have way more free time.
+
+205
+00:28:03.710 --> 00:28:07.460
+Jason Liu: make a little bit more money, and, you know, spend more time with the kids or something.
+
+206
+00:28:08.360 --> 00:28:15.919
+Jason Liu: What I can do is, I'm gonna send you a proposal, probably sometime in the next week. Are you available this time next week to jump on a call and review it
+
+207
+00:28:16.310 --> 00:28:30.880
+Jason Liu: right, and the goal is to really get that calendar set up as quickly as possible, and then your only job is to sprint to get the proposal done, but ideally, because you have the transcript and you have the Cloud project. You can come up with a draft pretty quickly and start talking to your customer.
+
+208
+00:28:31.460 --> 00:28:35.079
+Jason Liu: Okay, that's enough of that. Let's just jump into some proposals.
+
+209
+00:28:36.650 --> 00:28:39.618
+Jason Liu: So let me just go into this one.
+
+210
+00:28:40.730 --> 00:28:41.510
+Jason Liu: Right?
+
+211
+00:28:43.610 --> 00:28:50.589
+Jason Liu: So the general idea is, I want to have a proposal that 1st talks about the situation right? This is mostly about my understanding of the customer.
+
+212
+00:28:51.200 --> 00:29:00.389
+Jason Liu: and here some of the objectives were just like improved generation and ranking and information, you know, upskilled internal teams on AI, best practices, etc. Etc.
+
+213
+00:29:02.750 --> 00:29:06.420
+Jason Liu: Then we can talk about the weekly engagements, and then some kind of fee structure.
+
+214
+00:29:07.280 --> 00:29:28.479
+Jason Liu: This one was done very quickly, because this is actually the coo that I talked about. And so I skipped a lot of these steps. But the general idea is like only until you present the objectives and the values. Do you present sort of the fee structure? And usually what I do is, I either have a monthly fee or some kind of minimum engagement where I present some kind of discount upfront.
+
+215
+00:29:31.290 --> 00:29:48.390
+Jason Liu: And this is something that's like pretty aggressive, but it's something I usually stand by, which is, I will actually just give you the money back if you don't like the work that we're doing. And this is okay. Because of 2 things. One, I'm billing a lot more and 2. The time commitment is very low. So really, I might lose about like 6Â HA month.
+
+216
+00:29:48.620 --> 00:29:55.549
+Jason Liu: But this is still an engagement that I'm very happy with right. If it was $2,000 a month for 6Â h of calls.
+
+217
+00:29:55.760 --> 00:29:59.870
+Jason Liu: Offering the refund again becomes something that's a little bit more challenging and doesn't feel very good.
+
+218
+00:30:01.510 --> 00:30:06.424
+Jason Liu: If you think of a bigger example like this one. This is basically the one I had to done with.
+
+219
+00:30:08.340 --> 00:30:11.230
+Jason Liu: big Crm company right?
+
+220
+00:30:11.620 --> 00:30:15.380
+Jason Liu: This one is a much more intentional appraisal.
+
+221
+00:30:15.650 --> 00:30:39.740
+Jason Liu: The company has these large initiatives to integrate new AI capabilities into the Crm, right? It's processing, you know, hundreds of thousands of emails a minute. It's doing both emails and call transcripts. And we really need to capitalize on the existing ecosystem to figure out what's going on on top of that, we need to solve problems like legal and privacy requirements, and figure out how we can fit all of this in the existing infrastructure.
+
+222
+00:30:40.560 --> 00:30:41.290
+Jason Liu: Right?
+
+223
+00:30:42.380 --> 00:30:44.220
+Jason Liu: And then we talk about the objectives.
+
+224
+00:30:44.410 --> 00:30:46.460
+Jason Liu: We want a scalable prototype.
+
+225
+00:30:46.570 --> 00:30:50.240
+Jason Liu: We want to make sure things are auto auditing. We want to make sure that we have
+
+226
+00:30:50.530 --> 00:30:55.140
+Jason Liu: good solutions, and we can stay competitive with these, like smaller, like Yc companies, for example.
+
+227
+00:30:55.640 --> 00:31:06.719
+Jason Liu: success looks like a functional prototype. Success looks like accuracy relevance. And here I just say that it's benchmarked against human preferences rather than giving some kind of exact amount.
+
+228
+00:31:12.040 --> 00:31:17.429
+Jason Liu: And then, lastly, we can think about the value of these things and focus on what the company stands to gain.
+
+229
+00:31:18.360 --> 00:31:23.670
+Jason Liu: And then, lastly, we'll talk about different options right?
+
+230
+00:31:24.760 --> 00:31:30.670
+Jason Liu: And here I have an advisory option which is always going to be the monthly retainer.
+
+231
+00:31:30.790 --> 00:31:35.810
+Jason Liu: There's a comprehensive option which I just have a little bit more work, a little more hands-on work with the entire team.
+
+232
+00:31:35.840 --> 00:31:41.850
+Jason Liu: and then my upsell in this case ends up being the same program, but with some kind of expert network.
+
+233
+00:31:42.210 --> 00:31:51.719
+Jason Liu: And again, it's not often the case that the higher price point upsell is the thing that you actually want to sell, but it is something that can help you anchor your prices against everything else.
+
+234
+00:31:51.920 --> 00:31:56.520
+Jason Liu: Right? So here I have like a list of experts. And I basically say, you know anyone on this list.
+
+235
+00:31:56.530 --> 00:32:05.329
+Jason Liu: I mean, I actually am able to pay them to access to access. I can pay them to talk to you and give give workshops, but this is an additional fee.
+
+236
+00:32:06.380 --> 00:32:11.159
+Jason Liu: Then we talk about some, you know joint accountabilities, and then we can go into the fee structure.
+
+237
+00:32:11.970 --> 00:32:15.539
+Jason Liu: And again, I try my best to have some kind of 50%
+
+238
+00:32:15.640 --> 00:32:21.160
+Jason Liu: on acceptance, 50% due 45 days afterwards, and then offer some kind of discount if things are paid upfront
+
+239
+00:32:21.410 --> 00:32:22.090
+Jason Liu: bye.
+
+240
+00:32:24.980 --> 00:32:38.573
+Jason Liu: And again, one of the one of the benefits of having an engagement like this, again, is, if if things are slow, or especially in like the AI world like many times, people want AI, but they're not really ready to have it. And they have like integration work and some other issues.
+
+241
+00:32:38.990 --> 00:32:40.989
+Jason Liu: it ends up being the case that
+
+242
+00:32:41.510 --> 00:32:54.410
+Jason Liu: if a month is slow it's really easy to say great. Well, let's just go from 3 months to 4 months since we haven't gotten much work done. And really I want to be rewarded for the work that we do, and I don't really mind if things go a little bit longer.
+
+243
+00:32:54.770 --> 00:33:04.280
+Jason Liu: and those things would get very hard if you do some kind of monthly structure, or if you just have some kind of hourly structure where now you're just not getting rewarded at all
+
+244
+00:33:04.540 --> 00:33:05.270
+Jason Liu: right.
+
+245
+00:33:05.620 --> 00:33:14.569
+Jason Liu: and because you do things like paying 50% upfront or offering these discounts. If they've paid upfront, they're also more committed to getting the result as well.
+
+246
+00:33:15.640 --> 00:33:28.119
+Jason Liu: And so I really recommend at the end of this class, taking some of this information, putting into a cloud project, and really seeing how we can get any more feedback and develop your muscle for writing these kind of proposals.
+
+247
+00:33:28.320 --> 00:33:37.149
+Jason Liu: They have helped me a lot in the past year. Right? The proposal effectively helped me go from a $5,000 monthly retainer to things like, you know.
+
+248
+00:33:37.220 --> 00:33:41.119
+Jason Liu: tens, or even hundreds of $1,000 work paid upfront.
+
+249
+00:33:41.490 --> 00:33:48.240
+Jason Liu: And obviously this is this is part of the brand. This is part of the messaging, but this has been very helpful in understanding
+
+250
+00:33:48.990 --> 00:33:50.550
+Jason Liu: how to really get this kind of work done.
+
+251
+00:33:52.370 --> 00:33:54.210
+Jason Liu: I'm gonna just stop sharing the screen.
+
+252
+00:33:54.983 --> 00:34:00.520
+Jason Liu: And yeah, let me let me just open up the Slido real quick.
+
+253
+00:34:03.050 --> 00:34:07.760
+Jason Liu: and then start talking a little bit about that great.
+
+254
+00:34:07.940 --> 00:34:23.389
+Jason Liu: So what I'm gonna do is I'm actually going to probably take one or 2 questions now and then we'll move to the proposals. I just want everyone to have some time to like dig up the proposals they're looking for and go from there.
+
+255
+00:34:23.679 --> 00:34:25.920
+Jason Liu: Awesome. I'm just gonna stop recording.
