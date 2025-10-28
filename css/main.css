@@ -50,10 +50,18 @@ body {
 }
 
 .logo {
+  display: flex;
+  align-items: center;
+  gap: 12px;
   font-size: 1.5rem;
   font-weight: 600;
   color: #ECDFCC;
   letter-spacing: -0.02em;
+}
+
+.logo-icon {
+  width: 28px;
+  height: auto;
 }
 
 .nav {
