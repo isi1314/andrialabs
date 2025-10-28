@@ -131,22 +131,87 @@ body {
   line-height: 1.6;
 }
 
+/* CTA Buttons */
 .cta-button {
   display: inline-block;
-  padding: 14px 32px;
-  background-color: #ECDFCC;
-  color: #181C14;
+  padding: 16px 40px;
   text-decoration: none;
-  font-size: 1rem;
-  font-weight: 500;
+  font-size: 1.05rem;
+  font-weight: 600;
   border-radius: 8px;
-  transition: all 0.2s ease;
+  transition: all 0.3s ease;
+  border: 2px solid transparent;
 }
 
-.cta-button:hover {
-  background-color: #697565;
-  color: #ECDFCC;
+.cta-primary {
+  background-color: #ECDFCC;
+  color: #181C14;
+}
+
+.cta-primary:hover {
+  background-color: #ECDFCC;
+  color: #181C14;
   transform: translateY(-2px);
+  box-shadow: 0 8px 20px rgba(236, 223, 204, 0.3);
+}
+
+.cta-secondary {
+  background-color: transparent;
+  color: #ECDFCC;
+  border: 2px solid rgba(236, 223, 204, 0.3);
+}
+
+.cta-secondary:hover {
+  background-color: rgba(236, 223, 204, 0.1);
+  border-color: #ECDFCC;
+  transform: translateY(-2px);
+}
+
+/* Hero CTA */
+.hero-cta {
+  display: flex;
+  gap: 16px;
+  margin-top: 32px;
+  flex-wrap: wrap;
+}
+
+/* Mid CTA */
+.mid-cta {
+  margin-top: 40px;
+  text-align: left;
+}
+
+/* Final CTA Section */
+.final-cta {
+  max-width: 700px;
+  text-align: center;
+  margin: 0 auto 100px;
+  padding: 60px 40px;
+  background-color: rgba(60, 61, 55, 0.2);
+  border: 1px solid rgba(236, 223, 204, 0.1);
+  border-radius: 12px;
+}
+
+.final-cta-title {
+  font-size: 2rem;
+  font-weight: 600;
+  color: #ECDFCC;
+  margin-bottom: 16px;
+  letter-spacing: -0.02em;
+}
+
+.final-cta-text {
+  font-size: 1.1rem;
+  color: #697565;
+  line-height: 1.6;
+  margin-bottom: 32px;
+}
+
+.final-cta-buttons {
+  display: flex;
+  gap: 16px;
+  justify-content: center;
+  flex-wrap: wrap;
 }
 
 /* Value Proposition */
@@ -514,8 +579,25 @@ body {
   }
 
   .cta-button {
-    padding: 12px 28px;
-    font-size: 0.95rem;
+    padding: 14px 32px;
+    font-size: 1rem;
+  }
+
+  .hero-cta {
+    gap: 12px;
+  }
+
+  .final-cta {
+    padding: 48px 32px;
+    margin-bottom: 60px;
+  }
+
+  .final-cta-title {
+    font-size: 1.75rem;
+  }
+
+  .final-cta-text {
+    font-size: 1rem;
   }
 
   .value-prop {
@@ -621,6 +703,43 @@ body {
 
   .business-subtitle {
     font-size: 0.95rem;
+  }
+
+  .cta-button {
+    padding: 12px 28px;
+    font-size: 0.95rem;
+  }
+
+  .hero-cta {
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  .hero-cta .cta-button {
+    width: 100%;
+    text-align: center;
+  }
+
+  .final-cta {
+    padding: 40px 24px;
+    margin-bottom: 60px;
+  }
+
+  .final-cta-title {
+    font-size: 1.5rem;
+  }
+
+  .final-cta-text {
+    font-size: 0.95rem;
+  }
+
+  .final-cta-buttons {
+    flex-direction: column;
+  }
+
+  .final-cta-buttons .cta-button {
+    width: 100%;
+    text-align: center;
   }
 
   .value-prop-text {
