@@ -583,6 +583,30 @@ body {
 }
 
 @media (max-width: 480px) {
+  .container {
+    padding: 0 20px;
+  }
+
+  .header {
+    padding: 20px 0;
+  }
+
+  .logo {
+    font-size: 1.1rem;
+  }
+
+  .logo-icon {
+    width: 24px;
+  }
+
+  .nav {
+    gap: 16px;
+  }
+
+  .nav a {
+    font-size: 0.85rem;
+  }
+
   .hero-title {
     font-size: 2rem;
   }
@@ -603,6 +627,14 @@ body {
     font-size: 0.95rem;
   }
 
+  .security-note {
+    font-size: 0.9rem;
+  }
+
+  .section-title {
+    font-size: 1.35rem;
+  }
+
   .service-item h3 {
     font-size: 1.1rem;
   }
@@ -619,6 +651,10 @@ body {
     font-size: 0.9rem;
   }
 
+  .process-intro {
+    font-size: 0.95rem;
+  }
+
   .process-number {
     font-size: 2rem;
   }
@@ -629,8 +665,46 @@ body {
     font-size: 1.05rem;
   }
 
+  .process-item p,
+  .deliverable-item p {
+    font-size: 0.9rem;
+  }
+
+  .pricing-item h3 {
+    font-size: 1.3rem;
+  }
+
+  .pricing-range {
+    font-size: 1.4rem;
+  }
+
+  .pricing-description {
+    font-size: 0.95rem;
+  }
+
+  .pricing-includes li {
+    font-size: 0.9rem;
+  }
+
+  .pricing-note {
+    font-size: 0.9rem;
+  }
+
   .tech-tag {
     font-size: 0.85rem;
     padding: 6px 12px;
+  }
+
+  .contact-link {
+    font-size: 1rem;
+  }
+
+  .footer-links {
+    flex-direction: column;
+    gap: 16px;
+  }
+
+  .footer-links a {
+    font-size: 0.85rem;
   }
 }
