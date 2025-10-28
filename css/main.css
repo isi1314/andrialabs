@@ -233,6 +233,14 @@ body {
   margin-bottom: 100px;
 }
 
+.process-intro {
+  font-size: 1rem;
+  color: #697565;
+  line-height: 1.6;
+  margin-bottom: 48px;
+  max-width: 600px;
+}
+
 .process-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
