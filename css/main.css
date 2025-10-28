@@ -72,19 +72,6 @@ body {
   color: #ECDFCC;
 }
 
-.nav-cta {
-  background-color: #3C3D37;
-  color: #ECDFCC !important;
-  padding: 8px 20px;
-  border-radius: 6px;
-  transition: all 0.2s ease;
-}
-
-.nav-cta:hover {
-  background-color: #697565;
-  color: #ECDFCC !important;
-}
-
 /* Main Content */
 .main {
   flex: 1;
