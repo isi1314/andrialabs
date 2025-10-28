@@ -180,6 +180,13 @@
     font-size: 1.75rem;
   }
 
+  .member-photo {
+    width: 100px;
+    height: 100px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
   .member-info h2 {
     font-size: 1.5rem;
   }
