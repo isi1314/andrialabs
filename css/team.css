@@ -35,8 +35,8 @@
 }
 
 .member-photo {
-  width: 120px;
-  height: 120px;
+  width: 160px;
+  height: 160px;
   object-fit: cover;
   border-radius: 8px;
   border: 1px solid rgba(236, 223, 204, 0.2);
@@ -149,8 +149,8 @@
   }
 
   .member-photo {
-    width: 100px;
-    height: 100px;
+    width: 130px;
+    height: 130px;
     order: -1;
   }
 
@@ -181,8 +181,8 @@
   }
 
   .member-photo {
-    width: 100px;
-    height: 100px;
+    width: 120px;
+    height: 120px;
     margin-left: 0;
     margin-right: 0;
   }
