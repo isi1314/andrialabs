@@ -140,6 +140,27 @@
   line-height: 1.7;
 }
 
+.name-origin {
+  margin-top: 80px;
+  padding-top: 60px;
+  border-top: 1px solid rgba(236, 223, 204, 0.15);
+}
+
+.name-origin h2 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #ECDFCC;
+  margin-bottom: 20px;
+  letter-spacing: -0.02em;
+}
+
+.name-origin p {
+  font-size: 1.05rem;
+  color: #697565;
+  line-height: 1.7;
+  font-style: italic;
+}
+
 /* Responsive */
 @media (max-width: 768px) {
   .team-main {
@@ -183,6 +204,19 @@
   .member-link {
     text-align: center;
   }
+
+  .name-origin {
+    margin-top: 60px;
+    padding-top: 40px;
+  }
+
+  .name-origin h2 {
+    font-size: 1.35rem;
+  }
+
+  .name-origin p {
+    font-size: 1rem;
+  }
 }
 
 @media (max-width: 480px) {
@@ -202,6 +236,14 @@
   }
 
   .member-bio p {
+    font-size: 0.95rem;
+  }
+
+  .name-origin h2 {
+    font-size: 1.25rem;
+  }
+
+  .name-origin p {
     font-size: 0.95rem;
   }
 }
