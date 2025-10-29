@@ -23,7 +23,7 @@ Ready to build? Get in touch.
 
 📧 hello@andrialabs.ai
 🌐 https://andrialabs.ai
-📅 https://calendar.app.google/UpMsL5x65SeTqhME7
+📅 https://calendly.com/isidora-andrialabs/30min
 
 #AI #MachineLearning #SoftwareDevelopment #AIEngineering #Startups
 
@@ -75,7 +75,7 @@ Enterprise-ready:
 • Remote work, global clients
 
 Contact us: hello@andrialabs.ai
-Book a call: https://calendar.app.google/UpMsL5x65SeTqhME7
+Book a call: https://calendly.com/isidora-andrialabs/30min
 
 Let's build.
 
