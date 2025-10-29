@@ -66,8 +66,8 @@
 }
 
 .policy-section a {
-  color: #ECDFCC;
-  text-decoration: underline;
+  color: inherit;
+  text-decoration: none;
   transition: opacity 0.2s ease;
 }
 
