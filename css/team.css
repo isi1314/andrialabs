@@ -130,6 +130,16 @@
   transform: translateY(-2px);
 }
 
+.member-collaboration {
+  margin-top: 32px;
+}
+
+.member-collaboration p {
+  font-size: 1.05rem;
+  color: #697565;
+  line-height: 1.7;
+}
+
 /* Responsive */
 @media (max-width: 768px) {
   .team-main {
