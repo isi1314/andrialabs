@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Primary Meta Tags -->
+  <title>Contact - Andria Labs</title>
+  <meta name="title" content="Contact - Andria Labs">
+  <meta name="description" content="Get in touch with Andria Labs. Book a free strategic call or send us a message.">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://andrialabs.ai/contact.html">
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://andrialabs.ai/contact.html">
+  <meta property="og:title" content="Contact - Andria Labs">
+  <meta property="og:description" content="Get in touch with Andria Labs. Book a free strategic call or send us a message.">
+  <meta property="og:image" content="https://andrialabs.ai/images/og-image.png">
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="https://andrialabs.ai/contact.html">
+  <meta property="twitter:title" content="Contact - Andria Labs">
+  <meta property="twitter:description" content="Get in touch with Andria Labs. Book a free strategic call or send us a message.">
+  <meta property="twitter:image" content="https://andrialabs.ai/images/og-image.png">
+
+  <link rel="stylesheet" href="css/min/main.min.css">
+  <link rel="icon" href="/images/favicon.ico?v=2">
+  <link rel="apple-touch-icon" href="/images/apple-touch-icon.png?v=2">
+  <script
+    defer
+    data-website-id="dfid_WcsYNYdp5AujaNrAKGVgJ"
+    data-domain="andrialabs.ai"
+    src="https://datafa.st/js/script.js">
+  </script>
+
+  <style>
+    .contact-container {
+      max-width: 600px;
+      margin: 0 auto;
+      padding: 60px 20px;
+    }
+
+    .contact-header {
+      text-align: center;
+      margin-bottom: 40px;
+    }
+
+    .contact-header h1 {
+      font-size: 2rem;
+      font-weight: 600;
+      margin-bottom: 15px;
+      color: #ecdfcc;
+    }
+
+    .contact-header p {
+      font-size: 1rem;
+      color: #697565;
+      line-height: 1.6;
+    }
+
+    .contact-email {
+      text-align: center;
+      margin-bottom: 50px;
+      margin-top: 50px;
+    }
+
+    .contact-email h2 {
+      font-size: 1.1rem;
+      margin-bottom: 10px;
+      color: #697565;
+      font-weight: 500;
+    }
+
+    .contact-email a {
+      font-size: 1rem;
+      color: #ecdfcc;
+      text-decoration: none;
+      font-weight: 400;
+    }
+
+    .contact-email a:hover {
+      opacity: 0.7;
+    }
+
+    .form-container {
+      margin-bottom: 60px;
+    }
+
+    .form-container h2 {
+      font-size: 1.1rem;
+      margin-bottom: 25px;
+      text-align: center;
+      color: #697565;
+      font-weight: 500;
+    }
+
+    .contact-form {
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+    }
+
+    .form-group {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    .form-group label {
+      font-size: 0.9rem;
+      color: #ecdfcc;
+      font-weight: 500;
+    }
+
+    .form-group input,
+    .form-group textarea {
+      padding: 12px 16px;
+      border: 1px solid rgba(236, 223, 204, 0.2);
+      border-radius: 4px;
+      font-size: 1rem;
+      font-family: inherit;
+      background: rgba(60, 61, 55, 0.3);
+      color: #ecdfcc;
+      transition: all 0.2s;
+    }
+
+    .form-group input:focus,
+    .form-group textarea:focus {
+      outline: none;
+      border-color: rgba(236, 223, 204, 0.4);
+      background: rgba(60, 61, 55, 0.4);
+    }
+
+    .form-group textarea {
+      min-height: 120px;
+      resize: vertical;
+    }
+
+    .submit-btn {
+      padding: 14px 32px;
+      background-color: #ecdfcc;
+      color: #181c14;
+      border: none;
+      border-radius: 4px;
+      font-size: 0.95rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.2s;
+      align-self: flex-start;
+    }
+
+    .submit-btn:hover {
+      opacity: 0.9;
+      transform: translateY(-2px);
+    }
+
+    .submit-btn:disabled {
+      opacity: 0.5;
+      cursor: not-allowed;
+      transform: none;
+    }
+
+    .form-status {
+      padding: 12px;
+      border-radius: 4px;
+      text-align: center;
+      font-size: 0.95rem;
+      display: none;
+      margin-bottom: 20px;
+    }
+
+    .form-status.success {
+      background-color: rgba(60, 61, 55, 0.4);
+      color: #ecdfcc;
+      border: 1px solid rgba(236, 223, 204, 0.3);
+      display: block;
+    }
+
+    .form-status.error {
+      background-color: rgba(60, 61, 55, 0.4);
+      color: #ecdfcc;
+      border: 1px solid rgba(236, 223, 204, 0.3);
+      display: block;
+    }
+
+    @media (max-width: 768px) {
+      .contact-header h1 {
+        font-size: 1.75rem;
+      }
+
+      .contact-header p {
+        font-size: 0.95rem;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+
+    <!-- Header -->
+    <header class="header">
+      <a href="index.html" style="text-decoration: none; color: inherit;">
+        <div class="logo">
+          <img src="images/logo-icon.svg" alt="Andria Labs" class="logo-icon">
+          <span>Andria Labs</span>
+        </div>
+      </a>
+      <nav class="nav">
+        <a href="index.html#about">Services</a>
+        <a href="index.html#pricing">Pricing</a>
+        <a href="contact.html">Contact</a>
+        <a href="https://calendly.com/isidora-andrialabs/30min" target="_blank">Book a Call</a>
+      </nav>
+    </header>
+
+    <!-- Main Content -->
+    <main class="main">
+      <div class="contact-container">
+
+        <!-- Contact Header -->
+        <div class="contact-header">
+          <h1>Get in Touch</h1>
+          <p>Ready to build? Let's discuss your project. Book a free strategic call or send us a message below.</p>
+        </div>
+
+        <!-- Contact Form -->
+        <div class="form-container">
+          <div id="form-status" class="form-status"></div>
+          <form id="contact-form" class="contact-form" action="https://formspree.io/f/xeoqkvnw" method="POST">
+            <div class="form-group">
+              <label for="name">Name *</label>
+              <input type="text" id="name" name="name" required>
+            </div>
+            <div class="form-group">
+              <label for="email">Email *</label>
+              <input type="email" id="email" name="email" required>
+            </div>
+            <div class="form-group">
+              <label for="company">Company</label>
+              <input type="text" id="company" name="company">
+            </div>
+            <div class="form-group">
+              <label for="message">Message *</label>
+              <textarea id="message" name="message" required></textarea>
+            </div>
+            <button type="submit" class="submit-btn">Send Message</button>
+          </form>
+        </div>
+
+        <!-- Email Section -->
+        <div class="contact-email">
+          <h2>Email Us Directly</h2>
+          <a href="mailto:hello@andrialabs.ai">hello@andrialabs.ai</a>
+        </div>
+
+      </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+      <div class="footer-content">
+        <div class="footer-left">
+          <a href="mailto:hello@andrialabs.ai" class="contact-link" aria-label="Email">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path>
+              <polyline points="22,6 12,13 2,6"></polyline>
+            </svg>
+          </a>
+          <div class="social-icons">
+            <a href="https://www.linkedin.com/company/andria-labs/" target="_blank" rel="noopener noreferrer" class="social-icon" aria-label="LinkedIn">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path>
+                <rect x="2" y="9" width="4" height="12"></rect>
+                <circle cx="4" cy="4" r="2"></circle>
+              </svg>
+            </a>
+            <a href="https://x.com/AndriaLabsAI" target="_blank" rel="noopener noreferrer" class="social-icon" aria-label="X (Twitter)">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M4 4l11.733 16h4.267l-11.733 -16z"></path>
+                <path d="M4 20l6.768 -6.768m2.46 -2.46l6.772 -6.772"></path>
+              </svg>
+            </a>
+          </div>
+        </div>
+        <div class="footer-links">
+          <a href="team.html">Team</a>
+          <a href="policy/privacy-policy.html">Privacy</a>
+          <a href="policy/terms-conditions.html">Terms</a>
+        </div>
+      </div>
+    </footer>
+
+  </div>
+
+  <script>
+    const form = document.getElementById('contact-form');
+    const statusDiv = document.getElementById('form-status');
+
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault();
+
+      const submitBtn = form.querySelector('.submit-btn');
+      const originalText = submitBtn.textContent;
+      submitBtn.textContent = 'Sending...';
+      submitBtn.disabled = true;
+      statusDiv.style.display = 'none';
+
+      const formData = new FormData(form);
+
+      try {
+        const response = await fetch(form.action, {
+          method: 'POST',
+          body: formData,
+          headers: {
+            'Accept': 'application/json'
+          }
+        });
+
+        if (response.ok) {
+          statusDiv.textContent = 'Thank you! Your message has been sent successfully.';
+          statusDiv.className = 'form-status success';
+          form.reset();
+        } else {
+          throw new Error('Form submission failed');
+        }
+      } catch (error) {
+        statusDiv.textContent = 'Oops! There was a problem sending your message. Please try again or email us directly.';
+        statusDiv.className = 'form-status error';
+      } finally {
+        submitBtn.textContent = originalText;
+        submitBtn.disabled = false;
+      }
+    });
+  </script>
+
+</body>
+</html>
