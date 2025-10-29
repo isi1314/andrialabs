@@ -588,19 +588,19 @@ body {
 }
 
 .tech-tag {
-  padding: 8px 16px;
-  background-color: rgba(60, 61, 55, 0.4);
-  border: 1px solid rgba(236, 223, 204, 0.1);
-  border-radius: 6px;
   font-size: 0.9rem;
   color: #697565;
-  transition: all 0.2s ease;
+  margin-right: 4px;
 }
 
-.tech-tag:hover {
-  background-color: rgba(60, 61, 55, 0.6);
-  border-color: rgba(236, 223, 204, 0.2);
-  color: #ECDFCC;
+.tech-tag::after {
+  content: " ·";
+  color: #697565;
+  margin-left: 4px;
+}
+
+.tech-tag:last-child::after {
+  content: "";
 }
 
 /* Footer */
@@ -999,7 +999,6 @@ body {
 
   .tech-tag {
     font-size: 0.85rem;
-    padding: 6px 12px;
   }
 
   .contact-link {
