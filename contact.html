@@ -229,7 +229,7 @@
         <!-- Contact Form -->
         <div class="form-container">
           <div id="form-status" class="form-status"></div>
-          <form id="contact-form" class="contact-form" action="https://formspree.io/f/xeoqkvnw" method="POST">
+          <form id="contact-form" class="contact-form">
             <div class="form-group">
               <label for="name">Name *</label>
               <input type="text" id="name" name="name" required>
@@ -308,15 +308,20 @@
       submitBtn.disabled = true;
       statusDiv.style.display = 'none';
 
-      const formData = new FormData(form);
+      const formData = {
+        name: form.querySelector('#name').value,
+        email: form.querySelector('#email').value,
+        company: form.querySelector('#company').value,
+        message: form.querySelector('#message').value
+      };
 
       try {
-        const response = await fetch(form.action, {
+        const response = await fetch('/api/contact', {
           method: 'POST',
-          body: formData,
           headers: {
-            'Accept': 'application/json'
-          }
+            'Content-Type': 'application/json',
+          },
+          body: JSON.stringify(formData)
         });
 
         if (response.ok) {
