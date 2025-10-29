@@ -35,8 +35,8 @@
 }
 
 .member-photo {
-  width: 180px;
-  height: 180px;
+  width: 200px;
+  height: 200px;
   object-fit: cover;
   border-radius: 8px;
   border: 1px solid rgba(236, 223, 204, 0.2);
