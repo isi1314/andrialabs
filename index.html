@@ -40,6 +40,101 @@
     data-domain="andrialabs.ai"
     src="https://datafa.st/js/script.js">
   </script>
+  <script>
+    // DataFast custom goal tracking
+    document.addEventListener('DOMContentLoaded', function() {
+      // Track "Book a Call" clicks
+      document.querySelectorAll('a[href*="calendly.com"]').forEach(function(link) {
+        link.addEventListener('click', function() {
+          if (window.datafast) {
+            window.datafast.goal('book_call_click', {
+              location: link.closest('header') ? 'header' :
+                       link.closest('.final-cta') ? 'footer_cta' :
+                       'other'
+            });
+          }
+        });
+      });
+
+      // Track email clicks
+      document.querySelectorAll('a[href^="mailto:"]').forEach(function(link) {
+        link.addEventListener('click', function() {
+          if (window.datafast) {
+            window.datafast.goal('email_click', {
+              location: link.closest('header') ? 'header' :
+                       link.closest('footer') ? 'footer' :
+                       link.closest('.final-cta') ? 'cta' :
+                       'other'
+            });
+          }
+        });
+      });
+
+      // Track pricing tier interest
+      document.querySelectorAll('.pricing-item').forEach(function(item) {
+        item.addEventListener('click', function() {
+          var tierName = item.querySelector('h3').textContent.toLowerCase().replace(/\s+/g, '_');
+          if (window.datafast) {
+            window.datafast.goal('pricing_tier_view', {
+              tier: tierName,
+              featured: item.classList.contains('pricing-featured') ? 'yes' : 'no'
+            });
+          }
+        });
+      });
+
+      // Track service item clicks
+      document.querySelectorAll('.service-item').forEach(function(item) {
+        item.addEventListener('click', function() {
+          var serviceName = item.querySelector('h3').textContent.toLowerCase().replace(/\s+/g, '_');
+          if (window.datafast) {
+            window.datafast.goal('service_interest', {
+              service: serviceName
+            });
+          }
+        });
+      });
+
+      // Track navigation clicks
+      document.querySelectorAll('nav.nav a').forEach(function(link) {
+        link.addEventListener('click', function() {
+          var linkText = link.textContent.toLowerCase().replace(/\s+/g, '_');
+          var isExternal = link.getAttribute('target') === '_blank';
+          if (window.datafast) {
+            window.datafast.goal('navigation_click', {
+              destination: linkText,
+              type: isExternal ? 'external' : 'internal'
+            });
+          }
+        });
+      });
+
+      // Track footer link clicks
+      document.querySelectorAll('.footer-links a').forEach(function(link) {
+        link.addEventListener('click', function() {
+          var linkText = link.textContent.toLowerCase().replace(/\s+/g, '_');
+          if (window.datafast) {
+            window.datafast.goal('footer_link_click', {
+              destination: linkText
+            });
+          }
+        });
+      });
+
+      // Track social media clicks
+      document.querySelectorAll('.social-icon').forEach(function(link) {
+        link.addEventListener('click', function() {
+          var platform = link.getAttribute('aria-label').toLowerCase();
+          if (window.datafast) {
+            window.datafast.goal('social_click', {
+              platform: platform,
+              location: 'footer'
+            });
+          }
+        });
+      });
+    });
+  </script>
 
   <!-- Structured Data -->
   <script type="application/ld+json">

@@ -34,6 +34,34 @@
     data-domain="andrialabs.ai"
     src="https://datafa.st/js/script.js">
   </script>
+  <script>
+    // DataFast custom goal tracking
+    document.addEventListener('DOMContentLoaded', function() {
+      // Track "Book a Call" clicks
+      document.querySelectorAll('a[href*="calendly.com"]').forEach(function(link) {
+        link.addEventListener('click', function() {
+          if (window.datafast) {
+            window.datafast.goal('book_call_click', {
+              location: 'contact_page',
+              source: link.closest('header') ? 'header' : 'content'
+            });
+          }
+        });
+      });
+
+      // Track email clicks
+      document.querySelectorAll('a[href^="mailto:"]').forEach(function(link) {
+        link.addEventListener('click', function() {
+          if (window.datafast) {
+            window.datafast.goal('email_click', {
+              location: 'contact_page',
+              source: link.closest('footer') ? 'footer' : 'content'
+            });
+          }
+        });
+      });
+    });
+  </script>
 
   <style>
     .contact-container {
@@ -305,6 +333,14 @@
         });
 
         if (response.ok) {
+          // Track contact form submission goal
+          if (window.datafast) {
+            window.datafast.goal('contact_form_submit', {
+              company: formData.company || 'none',
+              has_company: formData.company ? 'yes' : 'no'
+            });
+          }
+
           statusDiv.textContent = 'Thank you! Your message has been sent successfully.';
           statusDiv.className = 'form-status success';
           form.reset();
