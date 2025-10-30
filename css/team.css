@@ -56,7 +56,30 @@
 .member-title {
   font-size: 1.15rem;
   color: #697565;
-  margin-bottom: 0;
+  margin-bottom: 12px;
+}
+
+.member-social-icons {
+  display: flex;
+  gap: 12px;
+  margin-top: 12px;
+}
+
+.member-social-icon {
+  color: #697565;
+  transition: color 0.2s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.member-social-icon:hover {
+  color: #ECDFCC;
+}
+
+.member-social-icon svg {
+  width: 20px;
+  height: 20px;
 }
 
 .member-bio {
@@ -179,6 +202,12 @@
     text-align: center;
   }
 
+  .member-header-text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
   .member-photo {
     width: 130px;
     height: 130px;
@@ -191,6 +220,10 @@
 
   .member-title {
     font-size: 1.05rem;
+  }
+
+  .member-social-icons {
+    justify-content: center;
   }
 
   .member-bio p {
