@@ -1,0 +1,806 @@
+# INSTANTLY.AI COLD EMAIL SETUP INSTRUCTIONS
+# For: Andria Labs - Customer Acquisition via Cold Outreach
+# Last Updated: October 30, 2025
+
+================================================================================
+CURRENT STATUS
+================================================================================
+
+✅ COMPLETED:
+- Instantly.ai account set up
+- Email account added: isidora@andrialabs.ai
+- MX records configured (mx1.instantly.ai, mx2.instantly.ai)
+- SPF record added (includes Instantly + Resend)
+- Warmup ENABLED and running
+
+⏳ IN PROGRESS:
+- Email warmup (2-3 weeks) - DO NOT send campaigns yet
+
+🔲 TODO:
+- Add DMARC record
+- Set up email forwarding for hello@andrialabs.ai
+- Build lead list (50-100 prospects)
+- Write first email campaign sequence
+- Wait for warmup to complete
+- Launch first campaign
+
+================================================================================
+SECTION 1: COMPLETE DNS SETUP (Do These Now)
+================================================================================
+
+1.1 ADD DMARC RECORD
+--------------------
+This improves email deliverability and protects your domain.
+
+WHERE: Namecheap → Domain List → Manage andrialabs.ai → Advanced DNS
+
+ADD NEW RECORD:
+Type: TXT Record
+Host: _dmarc
+Value: v=DMARC1; p=none; rua=mailto:hello@andrialabs.ai
+TTL: Automatic
+
+Click "Save All Changes"
+
+
+1.2 SET UP EMAIL FORWARDING FOR hello@andrialabs.ai
+----------------------------------------------------
+Since you removed Resend's MX records, emails TO hello@andrialabs.ai
+won't be received unless forwarded.
+
+WHERE: Namecheap → Advanced DNS → Email Forwarding section
+
+CLICK: Add Forwarder
+Alias: hello
+Forward To: [YOUR PERSONAL EMAIL ADDRESS - e.g., your Gmail]
+
+This ensures contact form replies reach you.
+
+NOTE: You can still SEND from hello@andrialabs.ai via Resend (contact form).
+      You just can't RECEIVE at it without forwarding.
+
+
+1.3 VERIFY DNS PROPAGATION
+---------------------------
+✅ COMPLETED - DNS records verified and propagated successfully
+
+MX Records (Verified October 30, 2025):
+✅ andrialabs.ai mail exchanger = 10 mx1.instantly.ai
+✅ andrialabs.ai mail exchanger = 20 mx2.instantly.ai
+
+To verify again, run:
+$ nslookup -type=MX andrialabs.ai
+
+To check SPF and DMARC records, run:
+$ nslookup -type=TXT andrialabs.ai
+
+Expected TXT records:
+- SPF: v=spf1 include:instantly.ai include:amazonses.com ~all
+- DMARC: v=DMARC1; p=none; rua=mailto:hello@andrialabs.ai
+
+================================================================================
+SECTION 2: WARMUP PHASE (Current Status: RUNNING)
+================================================================================
+
+TIMELINE: 2-3 weeks minimum before sending cold campaigns
+
+WHAT'S HAPPENING:
+- Instantly sends emails between warmup accounts
+- Starts: 5-10 emails/day
+- Week 2: 15-25 emails/day
+- Week 3: 30-40 emails/day
+- Builds sender reputation with Gmail, Outlook, etc.
+
+DURING WARMUP - DO NOT:
+❌ Send any cold email campaigns
+❌ Manually send emails from isidora@andrialabs.ai
+❌ Change DNS settings
+❌ Disable warmup
+
+DURING WARMUP - YOU CAN:
+✅ Prepare lead lists
+✅ Write email sequences
+✅ Set up campaigns in Instantly (don't launch)
+✅ Add more email accounts
+✅ Monitor warmup progress
+
+MONITOR DAILY:
+Go to Instantly.ai → Email Accounts → isidora@andrialabs.ai
+- Check warmup status (should show "Active" or percentage)
+- Monitor reputation score (aim for 80%+ before campaigns)
+- Watch for bounce/spam flags
+
+READY TO SEND WHEN:
+- Warmup running for 2-3 weeks minimum
+- Reputation score 80%+
+- No spam/bounce warnings
+- Start with 20-30 emails/day max
+
+================================================================================
+SECTION 3: BUILD YOUR LEAD LIST (Week 1-2)
+================================================================================
+
+TARGET: 50-100 perfect-fit prospects for first campaign
+
+3.1 IDEAL CUSTOMER PROFILE (From Your Playbook)
+------------------------------------------------
+Title: VP Engineering, CTO, Head of AI/ML, Director of Data Science
+Company Stage: Series A-B startups ($5M-$50M funding)
+Company Size: 50-500 employees
+Industry: AI/ML startups, SaaS, FinTech, HealthTech
+Geography: US, UK, EU
+Budget: $100k+ for AI initiatives
+
+PAIN POINTS THEY FACE:
+- AI projects stalled (6+ months, nothing shipped)
+- No evaluation/testing framework
+- High LLM costs ($50k+/month)
+- Accuracy issues causing customer churn
+- Can't hire/retain AI talent
+- Research-to-production gap
+
+3.2 WHERE TO FIND LEADS
+-----------------------
+✅ LinkedIn Sales Navigator ($99/mo - worth it)
+   - Search: "CTO" + "Series B" + "AI" + "50-500 employees"
+   - Save leads, export via tool
+
+✅ Apollo.io (Free tier or $49/mo)
+   - Filter by title, funding, industry
+   - Export emails with verification
+
+✅ Recent funding announcements
+   - TechCrunch funding news
+   - Crunchbase "Recently Funded"
+   - Target companies 1-6 months post-funding
+
+✅ AI job postings
+   - Companies hiring "AI Engineer" or "ML Engineer"
+   - Indicates they're building AI teams (pain point: hiring)
+
+3.3 RESEARCH EACH PROSPECT (Critical for Success)
+--------------------------------------------------
+For EACH prospect, document:
+
+1. TRIGGER: Why reach out now?
+   - Just raised Series B
+   - Posted AI job opening
+   - Launched new AI feature
+   - CEO posted about AI on LinkedIn
+
+2. PAIN POINT: What AI challenge do they likely face?
+   - Based on company stage, industry, recent activity
+   - Example: FinTech Series B = compliance + AI accuracy
+
+3. PERSONALIZATION: Something specific about them
+   - Recent LinkedIn post
+   - Company milestone
+   - Product feature you noticed
+   - Something they wrote
+
+4. CONTACT INFO:
+   - First name
+   - Email (verified)
+   - Company name
+   - LinkedIn URL
+
+3.4 LEAD LIST FORMAT
+--------------------
+Create a CSV with these columns:
+
+email,firstName,company,title,trigger,painPoint,blogLink,linkedinUrl
+
+Example row:
+john@acmeai.com,John,Acme AI,CTO,raised Series B,RAG accuracy issues,https://andrialabs.ai/blog/rag-eval,linkedin.com/in/johnsmith
+
+SAVE AS: andria-labs-leads-campaign1.csv
+
+================================================================================
+SECTION 4: WRITE YOUR EMAIL SEQUENCE (Week 2)
+================================================================================
+
+Based on your playbook's "value-first" approach:
+
+CAMPAIGN NAME: "AI Initiative Risk Assessment"
+GOAL: Book 30-min free assessment calls
+TARGET RESPONSE RATE: 5-15%
+
+4.1 EMAIL 1 - VALUE HOOK (Day 0)
+---------------------------------
+SUBJECT LINE OPTIONS (A/B test):
+A) Quick question about {{company}}'s AI roadmap
+B) {{company}}'s AI initiative - 30-min diagnostic?
+C) Risk assessment for {{company}}'s AI project
+
+EMAIL BODY:
+-----------
+Hi {{firstName}},
+
+I noticed {{company}} recently {{trigger}}.
+
+Most AI initiatives at this stage hit one of three walls:
+1. 6+ months in R&D with nothing shipped to production
+2. $100k+ in compute costs that don't scale
+3. No way to evaluate if it's actually working
+
+I built a diagnostic framework that spots these issues in a 30-minute call,
+and I'm offering 5 free assessments this month to {{title}}s at Series B companies.
+
+Worth 15 minutes to see if you're on track?
+
+Best,
+Isidora Tourni
+Founder, Andria Labs
+[calendly link]
+
+P.S. Here's a recent post on {{painPoint}}: {{blogLink}}
+
+
+4.2 EMAIL 2 - PROOF (Day 4 if no response)
+-------------------------------------------
+SUBJECT: Re: Quick question about {{company}}'s AI roadmap
+
+{{firstName}},
+
+Following up on the free AI assessment I mentioned.
+
+I should mention why I'm offering this:
+
+I recently helped a Series B FinTech company fix their RAG system that was
+costing $40k/month with 60% accuracy.
+
+After our assessment → implementation: 95% accuracy, $8k/month costs,
+shipped in 10 weeks.
+
+If you're investing in AI this quarter, 30 minutes could save you 6+ months
+of wrong turns.
+
+[calendly link]
+
+Best,
+Isidora
+
+
+4.3 EMAIL 3 - BREAKUP (Day 8 if no response)
+---------------------------------------------
+SUBJECT: Closing the loop
+
+{{firstName}},
+
+I haven't heard back, so I'll assume this isn't a priority right now.
+
+If anything changes or you hit a wall with your AI initiatives, my calendar
+is here: [link]
+
+In the meantime, here's a resource that might help: [link to best blog post]
+
+Best of luck with {{trigger}},
+Isidora
+
+P.S. If you know another CTO/VP Eng dealing with AI challenges, feel free to
+forward this.
+
+================================================================================
+SECTION 5: SET UP CAMPAIGN IN INSTANTLY (Don't Launch Yet)
+================================================================================
+
+WHEN: After warmup completes (Week 3+)
+
+5.1 UPLOAD LEAD LIST
+--------------------
+1. Go to Instantly.ai → Campaigns
+2. Click "Create Campaign"
+3. Name: "AI Risk Assessment - Series B CTOs"
+4. Upload CSV: andria-labs-leads-campaign1.csv
+5. Map columns to variables:
+   - email → Email
+   - firstName → First Name
+   - company → Company
+   - trigger → Custom Variable: trigger
+   - painPoint → Custom Variable: painPoint
+   - blogLink → Custom Variable: blogLink
+
+5.2 ADD EMAIL SEQUENCE
+----------------------
+Step 1: Email 1 (paste from Section 4.1)
+Delay: N/A (first email)
+
+Step 2: Email 2 (paste from Section 4.2)
+Delay: 4 days after Email 1
+Condition: If no reply
+
+Step 3: Email 3 (paste from Section 4.3)
+Delay: 4 days after Email 2
+Condition: If no reply
+
+5.3 CAMPAIGN SETTINGS
+---------------------
+Daily Limit: 20-30 emails/day (start conservative)
+Sending Schedule:
+  - Days: Tuesday, Wednesday, Thursday (best response rates)
+  - Hours: 9am - 5pm recipient's time zone
+  - Time zone: Recipient's local time
+
+Stop on Reply: YES (critical!)
+Stop on Bounce: YES
+Track Opens: YES
+Track Clicks: YES
+
+A/B Test Subject Lines: YES
+Test variants: Subject A vs B vs C
+Winner selection: After 50 sends
+
+5.4 CONNECT EMAIL ACCOUNT
+--------------------------
+Select: isidora@andrialabs.ai
+Verify warmup score is 80%+
+
+5.5 SAVE AS DRAFT
+-----------------
+DO NOT CLICK "LAUNCH" YET
+Save campaign and wait until warmup completes
+
+================================================================================
+SECTION 6: LAUNCH YOUR FIRST CAMPAIGN (Week 3+)
+================================================================================
+
+PRE-LAUNCH CHECKLIST:
+□ Warmup running for 2-3 weeks minimum
+□ Reputation score 80%+
+□ Lead list has 50+ verified emails
+□ Email sequence written and proofread
+□ Calendly link works and is in emails
+□ Campaign set to 20-30 emails/day max
+□ "Stop on Reply" enabled
+□ Tuesday-Thursday sending only
+□ Recipient time zone sending enabled
+
+LAUNCH DAY:
+1. Go to Campaigns → Your campaign
+2. Review all settings one final time
+3. Click "Launch Campaign"
+4. Monitor first 10 sends for any issues
+
+DAILY MONITORING (15 min/day):
+- Check replies in Instantly inbox
+- Respond to positive replies within 2 hours
+- Move interested prospects to CRM
+- Track metrics (see Section 7)
+
+================================================================================
+SECTION 7: TRACK & OPTIMIZE
+================================================================================
+
+7.1 KEY METRICS TO MONITOR
+---------------------------
+METRIC                TARGET      RED FLAG
+Open Rate             40-60%      <30% = deliverability issue
+Reply Rate            5-15%       <2% = bad targeting/message
+Positive Reply Rate   2-5%        <1% = wrong audience
+Bounce Rate           <3%         >5% = bad list quality
+Unsubscribe Rate      <1%         >2% = poor targeting
+
+7.2 WHAT TO DO WITH REPLIES
+----------------------------
+POSITIVE REPLY ("Yes, let's talk"):
+1. Move to HubSpot/CRM with source: "Cold Outbound"
+2. Reply within 2 hours:
+
+   "{{firstName}}, great to hear from you!
+
+   Based on what you mentioned about {{their pain}}, I think a call would
+   be valuable.
+
+   Here's my calendar: [calendly link]
+
+   Before we talk, it helps if you can share:
+   1. What's the main AI challenge you're facing?
+   2. What's at stake if it doesn't get solved?
+   3. What's your timeline?
+
+   Looking forward to it,
+   Isidora"
+
+3. Use Sales Call Script from /playbook/SALES_CALL_SCRIPT.md
+4. Qualify hard (decision authority, budget, urgency)
+
+NEUTRAL REPLY ("Tell me more" or "What do you offer?"):
+1. Don't pitch yet, ask questions:
+
+   "Happy to share more. Quick question first - what prompted you to reply?
+   What AI challenge are you facing right now?"
+
+2. Based on answer, determine if qualified
+3. If qualified, book call
+4. If not, send resource and nurture
+
+NEGATIVE REPLY ("Not interested" or "Unsubscribe"):
+1. Respect it immediately
+2. Reply: "No problem, thanks for letting me know!"
+3. Remove from campaign
+4. Don't take it personally (98% won't reply anyway)
+
+OBJECTION ("Too expensive" or "Not now"):
+See playbook/SALES_CALL_SCRIPT.md Section: Common Objections
+
+7.3 OPTIMIZATION CYCLE
+----------------------
+EVERY WEEK:
+- Review metrics
+- Identify best-performing subject lines
+- Identify what triggers/pain points resonate
+- Adjust messaging based on feedback
+
+EVERY MONTH:
+- Refresh lead list (add 50-100 new)
+- Update case studies with recent wins
+- Test new subject lines
+- Adjust targeting if needed
+
+================================================================================
+SECTION 8: SCALING UP (Month 2-3)
+================================================================================
+
+WHEN TO SCALE:
+✅ First campaign running smoothly (Week 4+)
+✅ Reply rate 5%+
+✅ Booking 2-3 calls/week
+✅ No deliverability issues
+
+HOW TO SCALE:
+
+8.1 ADD MORE EMAIL ACCOUNTS
+----------------------------
+Set up 2-3 more sending accounts:
+- consulting@team.andrialabs.ai
+- partnerships@team.andrialabs.ai
+
+Why: Spreads volume, reduces spam risk
+Note: Each needs 2-3 week warmup
+
+8.2 INCREASE DAILY VOLUME
+--------------------------
+Week 4: 30 emails/day
+Week 6: 40 emails/day
+Week 8: 50 emails/day
+Month 3: 75-100 emails/day (across multiple accounts)
+
+Never exceed 50 emails/day per account
+
+8.3 RUN MULTIPLE CAMPAIGNS
+---------------------------
+Campaign 2: "AI Project Rescue"
+Target: Companies with stalled AI projects
+Hook: "6 months in, nothing shipped? Here's why"
+
+Campaign 3: "Post-Funding AI Strategy"
+Target: Just raised Series A/B (1-3 months ago)
+Hook: "You raised $XM. Don't waste it on wrong AI approach"
+
+Campaign 4: "AI Hiring & Interviewing"
+Target: Companies posting AI job openings
+Hook: "Hiring AI talent? Here's how to evaluate candidates"
+
+8.4 BUILD NURTURE SEQUENCES
+----------------------------
+For leads who aren't ready yet:
+- Add to ConvertKit email list
+- Send valuable content monthly
+- Re-engage when timing is better
+
+================================================================================
+SECTION 9: INTEGRATION WITH FULL SALES PROCESS
+================================================================================
+
+COLD EMAIL → DISCOVERY CALL → PROPOSAL → CLOSE
+
+9.1 FROM REPLY TO CALL
+----------------------
+When prospect books call:
+1. Add to CRM with source: "Instantly - Campaign X"
+2. Send Calendly confirmation (auto)
+3. Send pre-call questionnaire (optional):
+   - What's your main AI challenge?
+   - What have you tried so far?
+   - What's your timeline?
+   - What's at stake if this doesn't get solved?
+
+9.2 DISCOVERY CALL
+------------------
+Use: /playbook/SALES_CALL_SCRIPT.md
+
+MUST QUALIFY:
+- Decision authority (can they say yes?)
+- Budget ($50k+ allocated or available)
+- Urgency (timeline within 6 months)
+- Clear problem with stakes ($100k+ impact)
+
+If qualified → Send proposal
+If not → Nurture or gracefully exit
+
+9.3 PROPOSAL
+------------
+Use: /playbook/PROPOSAL_TEMPLATE.md
+
+Present 3 tiers:
+- Advisory: $18k/month
+- Comprehensive: $65k/month
+- Premium: $95k/month
+
+9.4 PRICING
+-----------
+Use: /playbook/PRICING_CALCULATOR.md
+
+Base on:
+- What's at stake (their potential loss)
+- ROI they'll achieve (their potential gain)
+- Your unique value (speed, expertise, de-risking)
+
+NOT based on:
+- Your hourly rate
+- Your costs
+- What you "need" to make
+
+================================================================================
+SECTION 10: COMPLIANCE & BEST PRACTICES
+================================================================================
+
+10.1 LEGAL REQUIREMENTS
+-----------------------
+✅ Include physical address in footer (use your business address)
+✅ Include unsubscribe link (Instantly adds automatically)
+✅ Honor unsubscribes immediately
+✅ Only email business contacts (B2B), not consumers
+✅ Don't email purchased lists (only researched prospects)
+
+10.2 DELIVERABILITY BEST PRACTICES
+-----------------------------------
+✅ Keep emails under 200 words
+✅ Avoid spam trigger words ("free money", "guarantee", "limited time")
+✅ Use plain text (no fancy formatting)
+✅ One link maximum in first email
+✅ No attachments
+✅ Personalize every email (use variables)
+✅ Send from real person (not info@, noreply@)
+✅ Have valid reply-to that you monitor
+✅ Respond to replies quickly (within 2-4 hours)
+
+10.3 WHAT NOT TO DO
+-------------------
+❌ Send generic templates with no personalization
+❌ Email before warming up accounts
+❌ Send more than 50/day per account when starting
+❌ Use salesy language ("hop on a call", "quick chat")
+❌ Pitch in first email (lead with value)
+❌ Follow up more than 3 times
+❌ Ignore negative replies
+❌ Buy email lists
+❌ Use misleading subject lines
+❌ Pretend you know them if you don't
+
+================================================================================
+SECTION 11: TROUBLESHOOTING
+================================================================================
+
+PROBLEM: Low open rates (<30%)
+CAUSE: Deliverability issue or bad subject lines
+FIX:
+- Check spam score (mail-tester.com)
+- Verify DNS records correct
+- Test different subject lines
+- Reduce daily volume
+- Check if domain blacklisted (mxtoolbox.com)
+
+PROBLEM: Low reply rate (<2%)
+CAUSE: Wrong audience or message doesn't resonate
+FIX:
+- Review targeting (are these qualified buyers?)
+- Add more personalization
+- Lead with different value prop
+- Test different pain points
+- Shorten emails
+
+PROBLEM: High bounce rate (>5%)
+CAUSE: Bad email list
+FIX:
+- Use email verification tool
+- Remove bounced emails immediately
+- Improve lead research process
+- Use verified emails only
+
+PROBLEM: Lots of "unsubscribe" or negative replies
+CAUSE: Wrong targeting
+FIX:
+- Tighten ICP (ideal customer profile)
+- Improve lead research
+- Ensure trigger is relevant
+- Make value prop clearer
+
+PROBLEM: Good replies but no call bookings
+CAUSE: Friction in booking process
+FIX:
+- Make Calendly link prominent
+- Offer specific times
+- Reduce pre-call requirements
+- Follow up if they don't book
+
+PROBLEM: Emails going to spam
+CAUSE: Reputation/deliverability issue
+FIX:
+- Pause campaigns
+- Extend warmup
+- Check SPF/DKIM/DMARC records
+- Reduce daily volume
+- Improve email content (less salesy)
+- Ask recipients to whitelist you
+
+================================================================================
+SECTION 12: RESOURCES & TOOLS
+================================================================================
+
+LEAD GENERATION:
+- LinkedIn Sales Navigator: $99/mo (worth it)
+- Apollo.io: Free tier or $49/mo
+- Hunter.io: Email finder, $49/mo
+- Crunchbase: Funding data, free tier available
+
+EMAIL TOOLS:
+- Instantly.ai: Cold email platform (current setup)
+- mail-tester.com: Check spam score (free)
+- mxtoolbox.com: Check blacklist status (free)
+
+CRM & TRACKING:
+- HubSpot: Free tier for CRM
+- Pipedrive: $14/mo, simpler alternative
+- Notion/Airtable: Manual tracking
+
+SCHEDULING:
+- Calendly: You already have this
+
+CONTENT CREATION:
+- ChatGPT: Draft emails, personalization, $20/mo
+- Grammarly: Polish writing
+
+ANALYTICS:
+- Instantly built-in analytics
+- Google Sheets: Manual tracking
+
+================================================================================
+SECTION 13: QUICK REFERENCE
+================================================================================
+
+CURRENT EMAIL SETUP:
+- isidora@andrialabs.ai → Cold outreach (Instantly)
+- hello@andrialabs.ai → Contact form sending (Resend)
+- hello@andrialabs.ai → Receiving (forwarded to your personal email)
+
+DNS RECORDS (andrialabs.ai):
+- MX: mx1.instantly.ai (priority 10)
+- MX: mx2.instantly.ai (priority 20)
+- SPF: v=spf1 include:instantly.ai include:amazonses.com ~all
+- DMARC: v=DMARC1; p=none; rua=mailto:hello@andrialabs.ai
+- DKIM: (handled by Instantly automatically)
+
+CAMPAIGN LIMITS (Starting):
+- Daily: 20-30 emails/day
+- Days: Tuesday-Thursday
+- Hours: 9am-5pm recipient time
+- Follow-ups: 2 max (total 3 touches)
+
+TARGET METRICS:
+- Open rate: 40-60%
+- Reply rate: 5-15%
+- Positive replies: 2-5%
+- Bounce rate: <3%
+- Discovery calls booked: 2-5 per week (once scaled)
+
+PLAYBOOK FILES:
+- /playbook/sales.txt → Sales framework
+- /playbook/SALES_CALL_SCRIPT.md → Discovery call guide
+- /playbook/PROPOSAL_TEMPLATE.md → Proposal template
+- /playbook/PRICING_CALCULATOR.md → Pricing guide
+- /playbook/CONTENT_CALENDAR.md → Content strategy
+- /playbook/STRATEGIC_ANALYSIS_REPORT.md → Full strategy
+
+================================================================================
+SECTION 14: TIMELINE SUMMARY
+================================================================================
+
+WEEK 1 (NOW):
+□ Add DMARC record
+□ Set up email forwarding
+□ Start building lead list (50 prospects)
+□ Write email sequence
+□ Monitor warmup progress
+
+WEEK 2:
+□ Continue lead research (reach 100 prospects)
+□ Refine email sequence
+□ Set up campaign in Instantly (don't launch)
+□ Prepare response templates
+□ Monitor warmup (should be 50%+ complete)
+
+WEEK 3:
+□ Finish lead list and research
+□ Verify warmup complete (80%+ reputation)
+□ Final campaign review
+□ LAUNCH first campaign (20 emails/day)
+□ Monitor replies daily
+
+WEEK 4-6:
+□ Respond to replies within 2 hours
+□ Book discovery calls (target: 2-3/week)
+□ Send proposals to qualified prospects
+□ Optimize based on metrics
+□ Add 50 more leads to pipeline
+
+MONTH 2-3:
+□ Scale to 30-40 emails/day
+□ Add second email account
+□ Launch second campaign
+□ Close first deals
+□ Refine process based on learnings
+
+================================================================================
+NEXT IMMEDIATE ACTIONS
+================================================================================
+
+TODAY (30 minutes):
+1. Add DMARC record in Namecheap
+2. Set up email forwarding for hello@andrialabs.ai
+3. Verify both are working
+
+THIS WEEK (4-6 hours):
+1. Build list of 50 perfect-fit prospects
+   - Research each one thoroughly
+   - Document trigger, pain point, personalization
+   - Verify email addresses
+   - Save as CSV
+
+2. Write email sequence
+   - Customize the templates in Section 4
+   - Add your specific case studies
+   - Test different subject lines
+   - Get feedback from trusted advisor
+
+3. Monitor warmup daily
+   - Check reputation score
+   - Watch for any issues
+
+WEEK 3 (Launch Week):
+1. Upload leads to Instantly
+2. Set up campaign (20 emails/day max)
+3. Launch and monitor closely
+4. Respond to every reply within 2 hours
+5. Book discovery calls
+
+================================================================================
+SUPPORT & HELP
+================================================================================
+
+If you get stuck:
+
+INSTANTLY SUPPORT:
+- Chat icon in Instantly dashboard (bottom right)
+- Usually responds within minutes
+- Ask about: DNS issues, warmup, campaign setup
+
+YOUR PLAYBOOK:
+- All strategy documented in /playbook/ folder
+- Sales process, pricing, proposals all ready
+
+NEED HELP WITH:
+- Writing emails → Use ChatGPT + playbook templates
+- Finding leads → LinkedIn Sales Navigator + Apollo
+- Pricing deals → /playbook/PRICING_CALCULATOR.md
+- Discovery calls → /playbook/SALES_CALL_SCRIPT.md
+
+================================================================================
+
+LAST UPDATED: October 30, 2025
+VERSION: 1.0
+
+Good luck! Remember: The playbook strategy is proven. Execute consistently,
+qualify hard, and focus on value-based conversations.
+
+You've got this. 🚀
