@@ -1,4 +1,44 @@
 {
+  "redirects": [
+    {
+      "source": "/team.html",
+      "destination": "/team",
+      "permanent": true
+    },
+    {
+      "source": "/contact.html",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/policy/privacy-policy.html",
+      "destination": "/policy/privacy-policy",
+      "permanent": true
+    },
+    {
+      "source": "/policy/terms-conditions.html",
+      "destination": "/policy/terms-conditions",
+      "permanent": true
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/team",
+      "destination": "/team.html"
+    },
+    {
+      "source": "/contact",
+      "destination": "/contact.html"
+    },
+    {
+      "source": "/policy/privacy-policy",
+      "destination": "/policy/privacy-policy.html"
+    },
+    {
+      "source": "/policy/terms-conditions",
+      "destination": "/policy/terms-conditions.html"
+    }
+  ],
   "headers": [
     {
       "source": "/css/(.*)\\.min\\.css",
