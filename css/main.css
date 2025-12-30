@@ -405,6 +405,86 @@ body {
   font-style: italic;
 }
 
+/* Recent Projects Section */
+.recent-projects {
+  max-width: 1000px;
+  margin-bottom: 100px;
+}
+
+.projects-intro {
+  font-size: 1.1rem;
+  color: #697565;
+  line-height: 1.7;
+  margin-bottom: 48px;
+  max-width: 800px;
+}
+
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 48px;
+}
+
+.project-item {
+  background-color: rgba(60, 61, 55, 0.2);
+  border: 1px solid rgba(236, 223, 204, 0.1);
+  border-radius: 8px;
+  padding: 32px;
+  transition: all 0.3s ease;
+}
+
+.project-item:hover {
+  background-color: rgba(60, 61, 55, 0.3);
+  border-color: rgba(236, 223, 204, 0.2);
+  transform: translateY(-4px);
+}
+
+.project-header {
+  margin-bottom: 24px;
+  padding-bottom: 16px;
+  border-bottom: 1px solid rgba(236, 223, 204, 0.1);
+}
+
+.project-header h3 {
+  font-size: 1.25rem;
+  font-weight: 500;
+  color: #ECDFCC;
+  margin-bottom: 8px;
+}
+
+.project-industry {
+  font-size: 0.85rem;
+  color: #697565;
+  font-style: italic;
+}
+
+.project-challenge,
+.project-solution {
+  margin-bottom: 20px;
+}
+
+.project-challenge:last-child,
+.project-solution:last-child {
+  margin-bottom: 0;
+}
+
+.project-challenge h4,
+.project-solution h4 {
+  font-size: 0.95rem;
+  font-weight: 500;
+  color: #ECDFCC;
+  margin-bottom: 8px;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.project-challenge p,
+.project-solution p {
+  font-size: 0.95rem;
+  color: #697565;
+  line-height: 1.6;
+}
+
 /* Process Section */
 .process {
   max-width: 1000px;
@@ -864,6 +944,15 @@ body {
   }
 
   .industry-grid {
+    grid-template-columns: 1fr;
+    gap: 32px;
+  }
+
+  .recent-projects {
+    margin-bottom: 60px;
+  }
+
+  .project-grid {
     grid-template-columns: 1fr;
     gap: 32px;
   }
