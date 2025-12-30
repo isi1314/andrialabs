@@ -679,6 +679,14 @@ body {
   content: "";
 }
 
+.tech-stack-note {
+  font-size: 0.95rem;
+  color: #697565;
+  line-height: 1.6;
+  margin-top: 16px;
+  font-style: italic;
+}
+
 /* Footer */
 .footer {
   padding: 40px 0;
@@ -1099,6 +1107,10 @@ body {
 
   .tech-tag {
     font-size: 0.85rem;
+  }
+
+  .tech-stack-note {
+    font-size: 0.9rem;
   }
 
   .contact-link {
