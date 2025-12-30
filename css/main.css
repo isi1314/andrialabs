@@ -412,11 +412,11 @@ body {
 }
 
 .process-intro {
-  font-size: 1rem;
+  font-size: 1.1rem;
   color: #697565;
-  line-height: 1.6;
+  line-height: 1.7;
   margin-bottom: 48px;
-  max-width: 600px;
+  max-width: 800px;
 }
 
 .process-grid {
@@ -1064,10 +1064,6 @@ body {
 
   .industries-note {
     font-size: 0.9rem;
-  }
-
-  .process-intro {
-    font-size: 0.95rem;
   }
 
   .process-number {
