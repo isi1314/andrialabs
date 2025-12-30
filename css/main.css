@@ -434,8 +434,9 @@ body {
 
 .project-industry {
   font-size: 0.85rem;
-  font-weight: 400;
+  font-weight: 300;
   color: #697565;
+  font-style: normal;
 }
 
 .project-item p {
