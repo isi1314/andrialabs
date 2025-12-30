@@ -411,14 +411,6 @@ body {
   margin-bottom: 80px;
 }
 
-.projects-intro {
-  font-size: 1.1rem;
-  color: #697565;
-  line-height: 1.7;
-  margin-bottom: 48px;
-  max-width: 800px;
-}
-
 .project-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
@@ -430,13 +422,6 @@ body {
   font-weight: 500;
   margin-bottom: 12px;
   color: #ECDFCC;
-}
-
-.project-industry {
-  font-size: 0.85rem;
-  font-weight: 300;
-  color: #697565;
-  font-style: normal;
 }
 
 .project-item p {
