@@ -190,9 +190,6 @@ body {
 .business-value {
   max-width: 800px;
   margin-bottom: 80px;
-  background-color: rgba(60, 61, 55, 0.2);
-  padding: 40px 32px;
-  border-radius: 8px;
 }
 
 .business-title {
@@ -265,9 +262,7 @@ body {
   max-width: 700px;
   text-align: left;
   margin-bottom: 40px;
-  background-color: rgba(60, 61, 55, 0.2);
-  padding: 40px 32px;
-  border-radius: 8px;
+  padding: 0;
 }
 
 .final-cta-text {
@@ -291,9 +286,7 @@ body {
   max-width: 800px;
   margin-bottom: 100px;
   margin-top: 0;
-  background-color: rgba(60, 61, 55, 0.2);
-  padding: 40px 32px;
-  border-radius: 8px;
+  padding: 0 0 40px 0;
 }
 
 .value-prop-text {
@@ -344,9 +337,6 @@ body {
 .use-cases {
   max-width: 1000px;
   margin-bottom: 80px;
-  background-color: rgba(60, 61, 55, 0.2);
-  padding: 40px 32px;
-  border-radius: 8px;
 }
 
 .use-case-grid {
@@ -419,9 +409,6 @@ body {
 .recent-projects {
   max-width: 1000px;
   margin-bottom: 80px;
-  background-color: rgba(60, 61, 55, 0.2);
-  padding: 40px 32px;
-  border-radius: 8px;
 }
 
 .projects-intro {
@@ -543,9 +530,6 @@ body {
 .deliverables {
   max-width: 1000px;
   margin-bottom: 100px;
-  background-color: rgba(60, 61, 55, 0.2);
-  padding: 40px 32px;
-  border-radius: 8px;
 }
 
 .deliverables-grid {
