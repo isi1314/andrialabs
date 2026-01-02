@@ -1,11 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
-  <rect width="32" height="32" fill="#181C14"/>
-  <g stroke="#ECDFCC" stroke-linecap="round" stroke-width="2.5">
-    <path d="M16 8 L8 26 M16 8 L24 26"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="36" viewBox="0 0 32 36" fill="none">
+  <rect width="32" height="36" fill="#181C14"/>
+  <!-- Main diagonal lines -->
+  <g stroke="#ECDFCC" stroke-linecap="round" stroke-width="1.8">
+    <path d="M16 3 L4 33 M16 3 L28 33"/>
   </g>
+  <!-- Inner horizontal lines -->
+  <g stroke="#ECDFCC" stroke-linecap="round" stroke-width="1.4">
+    <path d="M16 24 L8.4 19 M16 24 L23.6 19"/>
+  </g>
+  <!-- Circles -->
   <g fill="#ECDFCC">
-    <circle cx="16" cy="8" r="2.5"/>
-    <circle cx="8" cy="26" r="2.5"/>
-    <circle cx="24" cy="26" r="2.5"/>
+    <circle cx="16" cy="3" r="2.2"/>
+    <circle cx="4" cy="33" r="2.2"/>
+    <circle cx="28" cy="33" r="2.2"/>
+    <circle cx="8.4" cy="19" r="1.4"/>
+    <circle cx="23.6" cy="19" r="1.4"/>
+    <circle cx="16" cy="24" r="1"/>
   </g>
 </svg>
