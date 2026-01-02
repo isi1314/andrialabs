@@ -583,21 +583,21 @@ body {
 }
 
 .pricing-item h3 {
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   font-weight: 600;
   color: #ECDFCC;
   margin-bottom: 16px;
 }
 
 .pricing-range {
-  font-size: 1.75rem;
+  font-size: 1.5rem;
   font-weight: 700;
   color: #ECDFCC;
   margin-bottom: 16px;
 }
 
 .pricing-description {
-  font-size: 1rem;
+  font-size: 0.95rem;
   color: #697565;
   line-height: 1.6;
   margin-bottom: 24px;
@@ -999,7 +999,7 @@ body {
   }
 
   .pricing-range {
-    font-size: 1.5rem;
+    font-size: 1.3rem;
   }
 
   .tech-stack {
@@ -1201,15 +1201,15 @@ body {
   }
 
   .pricing-item h3 {
-    font-size: 1.3rem;
+    font-size: 1.2rem;
   }
 
   .pricing-range {
-    font-size: 1.4rem;
+    font-size: 1.3rem;
   }
 
   .pricing-description {
-    font-size: 0.95rem;
+    font-size: 0.9rem;
   }
 
   .pricing-includes li {
