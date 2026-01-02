@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <!-- Very subtle constellation pattern -->
+  <defs>
+    <style>
+      .star { fill: #ECDFCC; opacity: 0.15; }
+      .line { stroke: #ECDFCC; stroke-width: 0.5; opacity: 0.08; }
+    </style>
+  </defs>
+
+  <!-- Constellation 1: Upper left -->
+  <circle class="star" cx="150" cy="120" r="1.5"/>
+  <circle class="star" cx="220" cy="80" r="1"/>
+  <circle class="star" cx="280" cy="140" r="1.2"/>
+  <circle class="star" cx="190" cy="180" r="0.8"/>
+  <line class="line" x1="150" y1="120" x2="220" y2="80"/>
+  <line class="line" x1="220" y1="80" x2="280" y2="140"/>
+  <line class="line" x1="150" y1="120" x2="190" y2="180"/>
+
+  <!-- Constellation 2: Upper right -->
+  <circle class="star" cx="950" cy="100" r="1.2"/>
+  <circle class="star" cx="1020" cy="140" r="1"/>
+  <circle class="star" cx="1080" cy="90" r="1.5"/>
+  <circle class="star" cx="1000" cy="180" r="0.9"/>
+  <line class="line" x1="950" y1="100" x2="1020" y2="140"/>
+  <line class="line" x1="1020" y1="140" x2="1080" y2="90"/>
+  <line class="line" x1="1020" y1="140" x2="1000" y2="180"/>
+
+  <!-- Constellation 3: Middle left -->
+  <circle class="star" cx="100" cy="400" r="1"/>
+  <circle class="star" cx="180" cy="380" r="1.3"/>
+  <circle class="star" cx="240" cy="420" r="0.9"/>
+  <circle class="star" cx="160" cy="460" r="1.1"/>
+  <line class="line" x1="100" y1="400" x2="180" y2="380"/>
+  <line class="line" x1="180" y1="380" x2="240" y2="420"/>
+  <line class="line" x1="180" y1="380" x2="160" y2="460"/>
+
+  <!-- Constellation 4: Center -->
+  <circle class="star" cx="600" cy="350" r="1.4"/>
+  <circle class="star" cx="560" cy="420" r="1"/>
+  <circle class="star" cx="640" cy="440" r="1.2"/>
+  <circle class="star" cx="680" cy="380" r="0.8"/>
+  <line class="line" x1="600" y1="350" x2="560" y2="420"/>
+  <line class="line" x1="600" y1="350" x2="640" y2="440"/>
+  <line class="line" x1="600" y1="350" x2="680" y2="380"/>
+
+  <!-- Constellation 5: Lower right -->
+  <circle class="star" cx="1050" cy="620" r="1.1"/>
+  <circle class="star" cx="980" cy="680" r="1.3"/>
+  <circle class="star" cx="1100" cy="700" r="0.9"/>
+  <circle class="star" cx="1020" cy="720" r="1"/>
+  <line class="line" x1="1050" y1="620" x2="980" y2="680"/>
+  <line class="line" x1="980" y1="680" x2="1100" y2="700"/>
+  <line class="line" x1="980" y1="680" x2="1020" y2="720"/>
+
+  <!-- Scattered individual stars for depth -->
+  <circle class="star" cx="320" cy="250" r="0.7"/>
+  <circle class="star" cx="450" cy="180" r="0.6"/>
+  <circle class="star" cx="750" cy="220" r="0.8"/>
+  <circle class="star" cx="850" cy="320" r="0.6"/>
+  <circle class="star" cx="400" cy="550" r="0.7"/>
+  <circle class="star" cx="700" cy="600" r="0.6"/>
+  <circle class="star" cx="300" cy="680" r="0.8"/>
+  <circle class="star" cx="500" cy="720" r="0.6"/>
+</svg>
