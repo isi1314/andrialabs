@@ -590,9 +590,9 @@ body {
 }
 
 .pricing-range {
-  font-size: 1.35rem;
-  font-weight: 700;
-  color: #ECDFCC;
+  font-size: 0.95rem;
+  font-weight: 400;
+  color: #697565;
   margin-bottom: 16px;
 }
 
@@ -999,7 +999,7 @@ body {
   }
 
   .pricing-range {
-    font-size: 1.2rem;
+    font-size: 0.9rem;
   }
 
   .tech-stack {
@@ -1205,7 +1205,7 @@ body {
   }
 
   .pricing-range {
-    font-size: 1.2rem;
+    font-size: 0.85rem;
   }
 
   .pricing-description {
