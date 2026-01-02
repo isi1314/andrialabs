@@ -83,7 +83,8 @@ body {
 }
 
 .member-social-icon:hover {
-  color: #ECDFCC;
+  color: #E8D7B0;
+  transition: color 0.2s ease;
 }
 
 .member-social-icon svg {
@@ -133,7 +134,7 @@ body {
 
 .member-expertise li:before {
   content: "•";
-  color: #ECDFCC;
+  color: #C9A961;
   font-weight: bold;
   position: absolute;
   left: 0;
@@ -157,9 +158,10 @@ body {
 }
 
 .member-link:hover {
-  background-color: rgba(60, 61, 55, 0.6);
-  border-color: rgba(236, 223, 204, 0.3);
+  background-color: rgba(201, 169, 97, 0.08);
+  border-color: #C9A961;
   transform: translateY(-2px);
+  transition: all 0.2s ease;
 }
 
 .member-collaboration {
