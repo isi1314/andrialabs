@@ -450,6 +450,37 @@ body {
   margin-bottom: 0;
 }
 
+/* Project Testimonials */
+.project-testimonial {
+  margin-top: 24px;
+  padding-top: 24px;
+  border-top: 1px solid rgba(236, 223, 204, 0.1);
+}
+
+.testimonial-quote {
+  font-size: 0.95rem;
+  color: #697565;
+  line-height: 1.7;
+  font-style: italic;
+  margin-bottom: 12px;
+}
+
+.testimonial-author {
+  font-size: 0.85rem;
+  color: #697565;
+  opacity: 0.8;
+}
+
+.author-name {
+  font-weight: 500;
+  margin-bottom: 2px;
+}
+
+.author-context {
+  font-size: 0.8rem;
+  opacity: 0.7;
+}
+
 /* Process Section */
 .process {
   max-width: 1000px;
