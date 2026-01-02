@@ -24,7 +24,7 @@ html {
 body {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', sans-serif;
   background-color: #181C14;
-  background-image: url('../images/constellation.svg');
+  background-image: url('/images/constellation.svg');
   background-repeat: repeat;
   background-position: center top;
   background-attachment: fixed;
