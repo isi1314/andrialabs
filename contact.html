@@ -326,6 +326,40 @@
   </div>
 
   <script>
+    // Toast notification function
+    function showToast(message, type = 'success') {
+      // Remove any existing toast
+      const existingToast = document.querySelector('.toast');
+      if (existingToast) {
+        existingToast.remove();
+      }
+
+      const toast = document.createElement('div');
+      toast.className = `toast ${type}`;
+
+      const icon = type === 'success'
+        ? '<svg class="toast-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 6L9 17l-5-5"></path></svg>'
+        : '<svg class="toast-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="8" x2="12" y2="12"></line><line x1="12" y1="16" x2="12.01" y2="16"></line></svg>';
+
+      toast.innerHTML = `
+        <div class="toast-content">
+          ${icon}
+          <div class="toast-message">${message}</div>
+        </div>
+      `;
+
+      document.body.appendChild(toast);
+
+      // Trigger animation
+      setTimeout(() => toast.classList.add('show'), 10);
+
+      // Auto-remove after 5 seconds
+      setTimeout(() => {
+        toast.classList.remove('show');
+        setTimeout(() => toast.remove(), 300);
+      }, 5000);
+    }
+
     // Contact form submission
     const form = document.getElementById('contact-form');
     const statusDiv = document.getElementById('form-status');
@@ -335,7 +369,9 @@
 
       const submitBtn = form.querySelector('.submit-btn');
       const originalText = submitBtn.textContent;
-      submitBtn.textContent = 'Sending...';
+
+      // Add spinner
+      submitBtn.innerHTML = '<span class="spinner"></span>Sending...';
       submitBtn.disabled = true;
       statusDiv.style.display = 'none';
 
@@ -364,15 +400,15 @@
             });
           }
 
-          statusDiv.textContent = 'Thank you! Your message has been sent successfully.';
-          statusDiv.className = 'form-status success';
+          // Show success toast
+          showToast('Thank you! Your message has been sent successfully.', 'success');
           form.reset();
         } else {
           throw new Error('Form submission failed');
         }
       } catch (error) {
-        statusDiv.textContent = 'Oops! There was a problem sending your message. Please try again or email us directly.';
-        statusDiv.className = 'form-status error';
+        // Show error toast
+        showToast('Oops! There was a problem sending your message. Please try again or email us directly.', 'error');
       } finally {
         submitBtn.textContent = originalText;
         submitBtn.disabled = false;

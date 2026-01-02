@@ -284,13 +284,13 @@
       </section>
 
       <!-- Business Value -->
-      <section class="business-value">
+      <section class="business-value fade-in-section">
         <h2 class="business-title">AI Solutions That Scale: Transforming Weeks of Work into Minutes of Automation</h2>
         <p class="business-subtitle">We help technology companies bridge the gap between cutting-edge AI research and robust production systems. With a PhD in Computer Science and 10+ years shipping production machine learning systems at industry leaders like Nokia, Electronic Arts, Google, and SandboxAQ, we deliver strategic AI consulting and hands-on implementation. Whether you need expert AI strategy to guide your team or comprehensive system development with seamless knowledge transfer, you get research-grade AI expertise applied to solve real business challenges.</p>
       </section>
 
       <!-- Core Technical Capabilities -->
-      <section id="about" class="services">
+      <section id="about" class="services fade-in-section">
         <h2 class="section-title">Production-Ready AI Development Services</h2>
         <div class="service-grid">
           <div class="service-item" id="llm-systems">
@@ -333,7 +333,7 @@
       </section>
 
       <!-- Problems We Solve -->
-      <section class="use-cases">
+      <section class="use-cases fade-in-section">
         <h2 class="section-title">Problems We Solve</h2>
         <div class="use-case-grid">
           <div class="use-case-item">
@@ -364,7 +364,7 @@
       </section>
 
       <!-- Industries -->
-      <section class="industries">
+      <section class="industries fade-in-section">
         <h2 class="section-title">Industries We Work With</h2>
         <div class="industry-grid">
 
@@ -403,7 +403,7 @@
       </section>
 
       <!-- Value Proposition -->
-      <section class="value-prop">
+      <section class="value-prop fade-in-section">
         <h2 class="section-title">Why Work With Us</h2>
         <p class="value-prop-text">
           Whether we're advising your team on architecture decisions or building your production system from scratch, you get the same level of rigor: PhD-level expertise, clear communication, and actionable solutions.
@@ -423,7 +423,7 @@
       </section>
 
       <!-- How We Work -->
-      <section class="process">
+      <section class="process fade-in-section">
         <h2 class="section-title">How We Work</h2>
         <p class="process-intro">Work remotely with clients worldwide. Expect responses within 24 hours on weekdays, often faster.</p>
         <div class="process-grid">
@@ -451,7 +451,7 @@
       </section>
 
       <!-- What You Get -->
-      <section class="deliverables">
+      <section class="deliverables fade-in-section">
         <h2 class="section-title">What You Get</h2>
         <div class="deliverables-grid">
           <div class="deliverable-item">
@@ -474,7 +474,7 @@
       </section>
 
       <!-- Tech Stack -->
-      <section class="tech-stack">
+      <section class="tech-stack fade-in-section">
         <h2 class="section-title">What We Use</h2>
         <p class="tech-stack-note">These are some of the technologies we work with most often. We select the right tools based on your specific requirements.</p>
         <div class="tech-categories">
@@ -556,7 +556,7 @@
       </section>
 
       <!-- Recent Projects -->
-      <section id="projects" class="recent-projects">
+      <section id="projects" class="recent-projects fade-in-section">
         <h2 class="section-title">Recent Projects</h2>
         <p class="projects-intro">Selected client work demonstrating our approach to AI development and system architecture. Client names withheld under NDA.</p>
 
@@ -584,7 +584,7 @@
       </section>
 
       <!-- Pricing -->
-      <section class="pricing" id="pricing">
+      <section class="pricing fade-in-section" id="pricing">
         <h2 class="section-title">How We Can Work Together</h2>
         <p class="pricing-intro">We offer strategic consulting for teams with engineering capacity and complete system development for teams that need it built.</p>
 
@@ -747,6 +747,29 @@
           top: 0,
           behavior: 'smooth'
         });
+      });
+
+      // Scroll animations with Intersection Observer
+      const fadeInSections = document.querySelectorAll('.fade-in-section');
+
+      const observerOptions = {
+        root: null,
+        rootMargin: '0px',
+        threshold: 0.1
+      };
+
+      const sectionObserver = new IntersectionObserver(function(entries, observer) {
+        entries.forEach(entry => {
+          if (entry.isIntersecting) {
+            entry.target.classList.add('is-visible');
+            // Optionally unobserve after animation
+            observer.unobserve(entry.target);
+          }
+        });
+      }, observerOptions);
+
+      fadeInSections.forEach(section => {
+        sectionObserver.observe(section);
       });
     });
   </script>
