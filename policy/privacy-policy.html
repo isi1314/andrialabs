@@ -52,7 +52,24 @@
         <a href="../contact.html">Contact</a>
         <a href="https://calendly.com/isidora-andrialabs/30min" target="_blank">Book a Call</a>
       </nav>
+      <button class="mobile-menu-toggle" aria-label="Toggle menu">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
     </header>
+
+    <!-- Mobile Navigation Overlay -->
+    <div class="mobile-nav-overlay">
+      <nav class="mobile-nav">
+        <a href="../index.html#about">Services</a>
+        <a href="../index.html#projects">Projects</a>
+        <a href="../index.html#pricing">Pricing</a>
+        <a href="../team.html">Team</a>
+        <a href="../contact.html">Contact</a>
+        <a href="https://calendly.com/isidora-andrialabs/30min" target="_blank">Book a Call</a>
+      </nav>
+    </div>
 
     <!-- Main Content -->
     <main class="main policy-main">
@@ -182,7 +199,6 @@
           </div>
         </div>
         <div class="footer-links">
-          <a href="../team.html">Team</a>
           <a href="privacy-policy.html">Privacy</a>
           <a href="terms-conditions.html">Terms</a>
         </div>
@@ -190,6 +206,39 @@
     </footer>
 
   </div>
+
+  <script>
+    // Mobile menu toggle
+    document.addEventListener('DOMContentLoaded', function() {
+      const mobileMenuToggle = document.querySelector('.mobile-menu-toggle');
+      const mobileNavOverlay = document.querySelector('.mobile-nav-overlay');
+      const mobileNavLinks = document.querySelectorAll('.mobile-nav a');
+
+      mobileMenuToggle.addEventListener('click', function() {
+        this.classList.toggle('active');
+        mobileNavOverlay.classList.toggle('active');
+        document.body.style.overflow = mobileNavOverlay.classList.contains('active') ? 'hidden' : '';
+      });
+
+      // Close menu when clicking on overlay
+      mobileNavOverlay.addEventListener('click', function(e) {
+        if (e.target === this) {
+          mobileMenuToggle.classList.remove('active');
+          this.classList.remove('active');
+          document.body.style.overflow = '';
+        }
+      });
+
+      // Close menu when clicking on a link
+      mobileNavLinks.forEach(link => {
+        link.addEventListener('click', function() {
+          mobileMenuToggle.classList.remove('active');
+          mobileNavOverlay.classList.remove('active');
+          document.body.style.overflow = '';
+        });
+      });
+    });
+  </script>
 
 </body>
 </html>
