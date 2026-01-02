@@ -2,8 +2,8 @@
   <!-- Very subtle constellation pattern -->
   <defs>
     <style>
-      .star { fill: #ECDFCC; opacity: 0.15; }
-      .line { stroke: #ECDFCC; stroke-width: 0.5; opacity: 0.08; }
+      .star { fill: #ECDFCC; opacity: 0.25; }
+      .line { stroke: #ECDFCC; stroke-width: 0.5; opacity: 0.15; }
     </style>
   </defs>
 
