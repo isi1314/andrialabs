@@ -1,12 +1,9 @@
 /* Team Page Styling */
 
-/* Constellation background only for team page */
+/* Constellation background variation for team page */
 body {
-  background-image: url('/images/constellation.svg');
-  background-repeat: repeat;
-  background-position: center top;
-  background-attachment: fixed;
-  background-size: 1200px 800px;
+  background-position: 200px 100px;
+  background-size: 1100px 750px;
 }
 
 .team-main {
