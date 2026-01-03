@@ -20,6 +20,6 @@
   </g>
 
   <!-- Text -->
-  <text x="1100" y="210" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', sans-serif" font-size="52" font-weight="600" fill="#ECDFCC" text-anchor="end">Andria Labs</text>
-  <text x="1100" y="280" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', sans-serif" font-size="32" fill="#697565" text-anchor="end">AI Systems Development and Strategic Consulting</text>
+  <text x="1080" y="225" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', sans-serif" font-size="48" font-weight="500" fill="#ECDFCC" text-anchor="end">Andria Labs</text>
+  <text x="1080" y="285" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', sans-serif" font-size="28" font-weight="400" fill="#697565" text-anchor="end">AI Systems Development and Strategic Consulting</text>
 </svg>
