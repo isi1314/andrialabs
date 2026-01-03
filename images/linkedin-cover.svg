@@ -35,6 +35,6 @@
 
   <!-- Text content -->
   <text x="150" y="75" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="32" font-weight="600" fill="#E8D7B0">Andria Labs</text>
-  <text x="150" y="110" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="500" fill="#C9A961">AI Systems &amp; Strategy</text>
+  <text x="150" y="110" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="500" fill="#C9A961">AI Systems Development and Strategic Consulting</text>
   <text x="150" y="140" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="14" fill="#697565">Research-grade expertise. Production-ready solutions.</text>
 </svg>
