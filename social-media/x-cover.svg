@@ -3,10 +3,10 @@
 
   <!-- Logo on the right -->
   <g transform="translate(1100, 150)">
-    <g stroke="#697565" stroke-linecap="round" stroke-width="9" fill="none">
+    <g stroke="#E8D7B0" stroke-linecap="round" stroke-width="9" fill="none">
       <path d="M80 15 20 165M80 15l60 150"/>
     </g>
-    <g stroke="#697565" stroke-linecap="round" stroke-width="7" fill="none">
+    <g stroke="#E8D7B0" stroke-linecap="round" stroke-width="7" fill="none">
       <path d="m80 120-38-25M80 120l38-25"/>
     </g>
     <g fill="#E8D7B0">
