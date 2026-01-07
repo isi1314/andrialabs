@@ -1,0 +1,132 @@
+# Andria Labs
+
+> AI Systems & Strategy | Consulting & Development
+
+## About
+
+Andria Labs provides expert AI consulting and development services for engineering teams and technology companies. Led by Dr. Isidora Tourni, a computer scientist with a PhD and 10+ years of experience shipping production machine learning systems at Nokia, Electronic Arts, Google, and SandboxAQ.
+
+We specialize in bridging the gap between cutting-edge AI research and robust production systems, offering both strategic consulting for teams with internal capacity and complete system development for those who need it built.
+
+## Services
+
+### Strategic AI Consulting
+- Expert technical guidance for teams with engineering capacity
+- Architecture design and system planning
+- Technical feasibility assessments
+- Code review and optimization recommendations
+- From $300/hour
+
+### MVP & Rapid Prototyping
+- Ship production-ready MVPs or critical features fast
+- End-to-end development with knowledge transfer
+- Optimized for validation and future scaling
+- From $5,000
+
+### Full-Stack AI Development
+- Complete production systems with AI/ML integration
+- Design through deployment, testing, and knowledge transfer
+- Enterprise-grade systems with full ownership transfer
+- From $10,000
+
+### Enterprise AI Transformation
+- Multi-month strategic engagements
+- AI roadmap design with hands-on implementation
+- Mission-critical AI initiatives where failure costs six figures
+- From $50,000
+
+## Technical Capabilities
+
+### Production LLM Systems
+- Custom LLM integration and fine-tuning
+- RAG (Retrieval-Augmented Generation) systems
+- Prompt engineering and optimization
+- LLM observability and evaluation frameworks
+
+### AI System Architecture
+- Scalable ML infrastructure design
+- Real-time inference systems
+- Cost optimization strategies
+- Production deployment pipelines
+
+### Full-Stack AI Development
+- End-to-end system implementation
+- Database design and optimization
+- API development and integration
+- Frontend interfaces for AI systems
+
+## Industries & Use Cases
+
+### Industries Served
+- **Healthtech**: Clinical decision support, medical data analysis, HIPAA-compliant systems
+- **Fintech**: Fraud detection, risk assessment, algorithmic trading
+- **EdTech**: Adaptive learning, automated grading, educational content generation
+- **SaaS Platforms**: AI-powered features, intelligent automation, data analytics
+
+### Common Use Cases
+- Customer support automation with intelligent routing
+- Document processing and analysis systems
+- Predictive analytics and forecasting
+- Knowledge base systems with semantic search
+- Multi-agent AI systems for complex workflows
+
+## Technology Stack
+
+**LLM & AI**: OpenAI GPT-4, Anthropic Claude, Llama, LangChain, LlamaIndex, Vector databases (Pinecone, Weaviate, Chroma)
+
+**ML/Data**: PyTorch, TensorFlow, scikit-learn, pandas, NumPy, Hugging Face Transformers
+
+**Backend**: Python, Node.js, FastAPI, Express, PostgreSQL, Redis, MongoDB
+
+**Infrastructure**: AWS, GCP, Docker, Kubernetes, Terraform, CI/CD pipelines
+
+**Monitoring**: DataDog, Sentry, Weights & Biases, custom observability tools
+
+## Approach
+
+1. **Discovery & Planning**: Understanding business requirements and technical constraints
+2. **Architecture Design**: Scalable system design with cost-efficiency in mind
+3. **Rapid Development**: Iterative implementation with continuous feedback
+4. **Testing & Deployment**: Comprehensive testing and production deployment
+5. **Knowledge Transfer**: Complete documentation and team training
+
+## Guarantees
+
+- **Source code ownership**: All code belongs to you
+- **Complete knowledge transfer**: Documentation and training included
+- **Production-ready systems**: Tested, monitored, and ready to scale
+- **No vendor lock-in**: Clear, maintainable code your team can own
+
+## Contact
+
+- **Website**: https://andrialabs.ai
+- **Email**: hello@andrialabs.ai
+- **LinkedIn**: https://www.linkedin.com/in/isidora-tourni/
+- **Twitter**: @ITourni
+- **Company Twitter**: @AndriaLabsAI
+- **Location**: Athens, Greece (Remote worldwide)
+- **First strategic call**: Free
+
+## Key Pages
+
+- Home: https://andrialabs.ai/
+- Team: https://andrialabs.ai/team.html
+- Contact: https://andrialabs.ai/contact.html
+- Privacy Policy: https://andrialabs.ai/policy/privacy-policy.html
+- Terms & Conditions: https://andrialabs.ai/policy/terms-conditions.html
+
+## Founder
+
+**Dr. Isidora Chara Tourni**
+- PhD in Computer Science (Network Science & Machine Learning)
+- 10+ years building production ML systems
+- Former: Nokia, Electronic Arts, Google, SandboxAQ
+- Specialization: Bridging AI research and production systems
+- Based in Athens, Greece
+
+## Values
+
+- **Research-grade expertise, production-ready results**: Academic rigor meets practical implementation
+- **No buzzword AI**: Real solutions that solve actual business problems
+- **GDPR compliant**: Privacy-first approach to data handling
+- **Complete transparency**: Clear communication, honest timelines, realistic expectations
