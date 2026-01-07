@@ -72,7 +72,7 @@ We specialize in bridging the gap between cutting-edge AI research and robust pr
 
 ## Technology Stack
 
-**LLM & AI**: OpenAI GPT-4, Anthropic Claude, Llama, LangChain, LlamaIndex, Vector databases (Pinecone, Weaviate, Chroma)
+**LLM & AI**: Anthropic Claude, Llama, LangChain, LlamaIndex, Vector databases (Pinecone, Weaviate, Chroma)
 
 **ML/Data**: PyTorch, TensorFlow, scikit-learn, pandas, NumPy, Hugging Face Transformers
 
@@ -104,7 +104,6 @@ We specialize in bridging the gap between cutting-edge AI research and robust pr
 - **LinkedIn**: https://www.linkedin.com/in/isidora-tourni/
 - **Twitter**: @ITourni
 - **Company Twitter**: @AndriaLabsAI
-- **Location**: Athens, Greece (Remote worldwide)
 - **First strategic call**: Free
 
 ## Key Pages
