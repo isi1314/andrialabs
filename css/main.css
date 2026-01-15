@@ -593,6 +593,19 @@ body {
   line-height: 1.6;
 }
 
+/* Research & Development Section */
+.research {
+  max-width: 800px;
+  margin-bottom: 80px;
+}
+
+.research-intro {
+  font-size: 1.1rem;
+  color: #697565;
+  line-height: 1.7;
+  max-width: 800px;
+}
+
 /* Pricing Section */
 .pricing {
   max-width: 1400px;
