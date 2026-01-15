@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Constellation Location - Working</title>
+  <style>
+    body {
+      background: #1A1814;
+      color: #ECDFCC;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', sans-serif;
+      padding: 60px 40px;
+      line-height: 1.8;
+      font-size: 16px;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+    }
+
+    h1 {
+      color: #ECDFCC;
+      margin-bottom: 40px;
+    }
+
+    .demo {
+      margin-bottom: 60px;
+      padding: 30px;
+      background: rgba(105, 117, 101, 0.05);
+      border-radius: 8px;
+    }
+
+    h2 {
+      color: #697565;
+      font-size: 14px;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      margin-bottom: 20px;
+    }
+
+    /* Version 1: Constellation Tooltip */
+    .location-1 {
+      position: relative;
+      display: inline;
+      color: #ECDFCC;
+      border-bottom: 1px dotted #697565;
+      cursor: help;
+    }
+
+    .tooltip {
+      position: absolute;
+      bottom: calc(100% + 20px);
+      left: 50%;
+      transform: translateX(-50%);
+      width: 240px;
+      height: 180px;
+      background: #1A1814;
+      border: 2px solid #697565;
+      border-radius: 8px;
+      padding: 20px;
+      opacity: 0;
+      visibility: hidden;
+      transition: opacity 0.3s ease, visibility 0.3s ease;
+      z-index: 1000;
+      box-shadow: 0 8px 24px rgba(0,0,0,0.6);
+    }
+
+    .location-1:hover .tooltip {
+      opacity: 1;
+      visibility: visible;
+    }
+
+    .constellation-svg {
+      width: 100%;
+      height: 100%;
+    }
+
+    .star-dot {
+      fill: #ECDFCC;
+    }
+
+    .star-line {
+      stroke: #697565;
+      stroke-width: 2;
+      stroke-linecap: round;
+    }
+
+    .tooltip-label {
+      position: absolute;
+      bottom: 8px;
+      left: 50%;
+      transform: translateX(-50%);
+      color: #697565;
+      font-size: 11px;
+      white-space: nowrap;
+    }
+
+    /* Version 2: Mini Icon */
+    .location-2 {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+    }
+
+    .mini-icon {
+      width: 18px;
+      height: 18px;
+      transition: all 0.3s ease;
+    }
+
+    .mini-icon .star-dot {
+      fill: #697565;
+      transition: fill 0.3s ease;
+    }
+
+    .mini-icon .star-line {
+      stroke: #697565;
+      transition: stroke 0.3s ease;
+    }
+
+    .location-2:hover .mini-icon .star-dot {
+      fill: #ECDFCC;
+    }
+
+    .location-2:hover .mini-icon .star-line {
+      stroke: #ECDFCC;
+    }
+
+    .location-2:hover .mini-icon {
+      transform: scale(1.2);
+    }
+
+    /* Version 3: Underline with dots */
+    .location-3 {
+      position: relative;
+      color: #ECDFCC;
+      border-bottom: 1px dotted #697565;
+      cursor: help;
+      transition: all 0.3s ease;
+    }
+
+    .location-3::before,
+    .location-3::after {
+      content: '';
+      position: absolute;
+      width: 4px;
+      height: 4px;
+      background: #697565;
+      border-radius: 50%;
+      top: 50%;
+      transform: translateY(-50%);
+      opacity: 0;
+      transition: all 0.3s ease;
+    }
+
+    .location-3::before {
+      left: -10px;
+    }
+
+    .location-3::after {
+      right: -10px;
+    }
+
+    .location-3:hover {
+      border-bottom-color: #ECDFCC;
+    }
+
+    .location-3:hover::before,
+    .location-3:hover::after {
+      opacity: 1;
+      background: #ECDFCC;
+    }
+
+    .location-3:hover::before {
+      left: -14px;
+    }
+
+    .location-3:hover::after {
+      right: -14px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Constellation Location Styles</h1>
+
+    <div class="demo">
+      <h2>Version 1: Hover Tooltip with Constellation</h2>
+      <p>
+        Computer Science PhD from Boston University (2023), originally from
+        <span class="location-1">
+          Athens
+          <span class="tooltip">
+            <svg class="constellation-svg" viewBox="0 0 200 140">
+              <circle class="star-dot" cx="100" cy="30" r="4"/>
+              <circle class="star-dot" cx="60" cy="80" r="3.5"/>
+              <circle class="star-dot" cx="140" cy="80" r="3.5"/>
+              <circle class="star-dot" cx="70" cy="120" r="3"/>
+              <circle class="star-dot" cx="130" cy="120" r="3"/>
+
+              <line class="star-line" x1="100" y1="30" x2="60" y2="80"/>
+              <line class="star-line" x1="100" y1="30" x2="140" y2="80"/>
+              <line class="star-line" x1="60" y1="80" x2="70" y2="120"/>
+              <line class="star-line" x1="140" y1="80" x2="130" y2="120"/>
+            </svg>
+            <div class="tooltip-label">Athens, Greece</div>
+          </span>
+        </span>. 10+ years of expertise spanning both academia and industry.
+      </p>
+    </div>
+
+    <div class="demo">
+      <h2>Version 2: Inline Mini Constellation Icon</h2>
+      <p>
+        Computer Science PhD from Boston University (2023), originally from
+        <span class="location-2">
+          <svg class="mini-icon" viewBox="0 0 20 20">
+            <circle class="star-dot" cx="10" cy="4" r="1.5"/>
+            <circle class="star-dot" cx="4" cy="16" r="1.2"/>
+            <circle class="star-dot" cx="16" cy="16" r="1.2"/>
+            <line class="star-line" x1="10" y1="4" x2="4" y2="16"/>
+            <line class="star-line" x1="10" y1="4" x2="16" y2="16"/>
+          </svg>
+          <span>Athens</span>
+        </span>. 10+ years of expertise spanning both academia and industry.
+      </p>
+    </div>
+
+    <div class="demo">
+      <h2>Version 3: Constellation Dots (Minimal)</h2>
+      <p>
+        Computer Science PhD from Boston University (2023), originally from
+        <span class="location-3">Athens</span>. 10+ years of expertise spanning both academia and industry.
+      </p>
+    </div>
+
+  </div>
+</body>
+</html>

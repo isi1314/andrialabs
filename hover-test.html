@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hover Test</title>
+  <style>
+    body {
+      background: #1A1814;
+      color: #ECDFCC;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      padding: 40px;
+      font-size: 18px;
+    }
+
+    .test-hover {
+      color: #ECDFCC;
+      border-bottom: 2px dotted #697565;
+      cursor: pointer;
+      transition: all 0.3s ease;
+    }
+
+    .test-hover:hover {
+      color: #FBF6F0;
+      border-bottom-color: #ECDFCC;
+      background: rgba(236, 223, 204, 0.1);
+    }
+  </style>
+</head>
+<body>
+  <p>If hover is working, <span class="test-hover">this text should change</span> when you mouse over it.</p>
+</body>
+</html>

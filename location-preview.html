@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Location Image Preview Options</title>
+  <style>
+    body {
+      background: #1A1814;
+      color: #ECDFCC;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', sans-serif;
+      padding: 40px;
+      line-height: 1.6;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+
+    h1 {
+      color: #ECDFCC;
+      margin-bottom: 40px;
+      font-size: 32px;
+    }
+
+    .option {
+      background: rgba(105, 117, 101, 0.1);
+      padding: 30px;
+      margin-bottom: 40px;
+      border-radius: 12px;
+      border: 1px solid rgba(105, 117, 101, 0.2);
+    }
+
+    .option h2 {
+      color: #ECDFCC;
+      margin-top: 0;
+      font-size: 20px;
+      margin-bottom: 8px;
+    }
+
+    .option-label {
+      color: #697565;
+      font-size: 14px;
+      margin-bottom: 20px;
+    }
+
+    .bio-text {
+      font-size: 16px;
+      line-height: 1.8;
+    }
+
+    /* Option 1: Hover Tooltip */
+    .location-tag {
+      color: #ECDFCC;
+      border-bottom: 1px dotted #697565;
+      cursor: help;
+      position: relative;
+      display: inline-block;
+    }
+
+    .location-tag::before {
+      content: '';
+      position: absolute;
+      bottom: 100%;
+      left: 50%;
+      transform: translateX(-50%) translateY(-8px);
+      width: 300px;
+      height: 200px;
+      background-image: url('https://images.unsplash.com/photo-1555993539-1732b0258235?w=600&h=400&fit=crop');
+      background-size: cover;
+      background-position: center;
+      border-radius: 8px;
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.3s ease, transform 0.3s ease;
+      box-shadow: 0 8px 24px rgba(0,0,0,0.4);
+      border: 2px solid rgba(236, 223, 204, 0.2);
+    }
+
+    .location-tag::after {
+      content: 'Athens, Greece';
+      position: absolute;
+      bottom: 100%;
+      left: 50%;
+      transform: translateX(-50%) translateY(-8px);
+      background: rgba(26, 24, 20, 0.95);
+      color: #ECDFCC;
+      padding: 8px 16px;
+      border-radius: 6px;
+      font-size: 13px;
+      white-space: nowrap;
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.3s ease, transform 0.3s ease;
+      margin-bottom: 210px;
+    }
+
+    .location-tag:hover::before,
+    .location-tag:hover::after {
+      opacity: 1;
+      transform: translateX(-50%) translateY(-12px);
+    }
+
+    /* Option 2: Inline Badge */
+    .location-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      color: #ECDFCC;
+    }
+
+    .location-icon {
+      width: 24px;
+      height: 24px;
+      border-radius: 50%;
+      object-fit: cover;
+      border: 2px solid #697565;
+      box-shadow: 0 0 8px rgba(236, 223, 204, 0.2);
+      transition: transform 0.2s ease;
+    }
+
+    .location-icon:hover {
+      transform: scale(1.3);
+      box-shadow: 0 0 12px rgba(236, 223, 204, 0.4);
+    }
+
+    /* Option 3: Click to Expand Modal */
+    .location-link {
+      color: #ECDFCC;
+      text-decoration: underline;
+      text-decoration-style: dotted;
+      cursor: pointer;
+      transition: color 0.2s ease;
+    }
+
+    .location-link:hover {
+      color: #FBF6F0;
+    }
+
+    .modal {
+      display: none;
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(26, 24, 20, 0.95);
+      z-index: 1000;
+      animation: fadeIn 0.3s ease;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+
+    .modal.active {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .modal-content {
+      background: #1A1814;
+      border: 2px solid rgba(236, 223, 204, 0.2);
+      border-radius: 12px;
+      overflow: hidden;
+      max-width: 600px;
+      width: 90%;
+      animation: slideUp 0.3s ease;
+    }
+
+    @keyframes slideUp {
+      from {
+        opacity: 0;
+        transform: translateY(20px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    .modal-content img {
+      width: 100%;
+      height: auto;
+      display: block;
+    }
+
+    .modal-content p {
+      padding: 20px;
+      margin: 0;
+      color: #ECDFCC;
+      text-align: center;
+      font-size: 16px;
+    }
+
+    .close-modal {
+      position: absolute;
+      top: 20px;
+      right: 20px;
+      background: rgba(26, 24, 20, 0.9);
+      border: 2px solid rgba(236, 223, 204, 0.3);
+      color: #ECDFCC;
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      font-size: 24px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: all 0.2s ease;
+    }
+
+    .close-modal:hover {
+      background: rgba(236, 223, 204, 0.2);
+      border-color: #ECDFCC;
+    }
+
+    /* Option 4: Background Pattern */
+    .bio-with-pattern {
+      position: relative;
+      overflow: hidden;
+      padding: 20px;
+      border-radius: 8px;
+    }
+
+    .bio-with-pattern::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      right: 0;
+      width: 400px;
+      height: 100%;
+      background-image: url('https://images.unsplash.com/photo-1555993539-1732b0258235?w=800&h=600&fit=crop');
+      background-size: cover;
+      background-position: center;
+      opacity: 0.05;
+      filter: blur(3px);
+      pointer-events: none;
+    }
+
+    .bio-with-pattern .bio-text {
+      position: relative;
+      z-index: 1;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Location Image Display Options</h1>
+
+    <!-- Option 1 -->
+    <div class="option">
+      <h2>Option 1: Hover Tooltip with Image</h2>
+      <p class="option-label">Hover over "Athens" to see the image tooltip (desktop only)</p>
+      <div class="bio-text">
+        <p>Computer Science PhD from Boston University (2023), originally from <span class="location-tag">Athens</span>. 10+ years of expertise spanning both academia and industry, including work at leading technology companies.</p>
+      </div>
+    </div>
+
+    <!-- Option 2 -->
+    <div class="option">
+      <h2>Option 2: Inline Subtle Badge</h2>
+      <p class="option-label">Small icon next to location name (hover to enlarge)</p>
+      <div class="bio-text">
+        <p>Computer Science PhD from Boston University (2023), originally from <span class="location-badge">
+          <img src="https://images.unsplash.com/photo-1555993539-1732b0258235?w=100&h=100&fit=crop" alt="Athens" class="location-icon">
+          Athens
+        </span>. 10+ years of expertise spanning both academia and industry, including work at leading technology companies.</p>
+      </div>
+    </div>
+
+    <!-- Option 3 -->
+    <div class="option">
+      <h2>Option 3: Click to Expand Modal</h2>
+      <p class="option-label">Click "Athens" to view full image with description (mobile-friendly)</p>
+      <div class="bio-text">
+        <p>Computer Science PhD from Boston University (2023), originally from <span class="location-link" onclick="showLocationModal()">Athens</span>. 10+ years of expertise spanning both academia and industry, including work at leading technology companies.</p>
+      </div>
+    </div>
+
+    <!-- Option 4 -->
+    <div class="option">
+      <h2>Option 4: Subtle Background Pattern</h2>
+      <p class="option-label">Very subtle Athens image as background overlay (always visible but non-intrusive)</p>
+      <div class="bio-with-pattern">
+        <div class="bio-text">
+          <p>Computer Science PhD from Boston University (2023), originally from Athens. 10+ years of expertise spanning both academia and industry, including work at leading technology companies like Nokia, Electronic Arts, Google, and SandboxAQ. My research focused on applied Machine Learning and multilingual/multimodal AI systems.</p>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- Modal for Option 3 -->
+  <div id="location-modal" class="modal" onclick="closeModal(event)">
+    <div class="close-modal" onclick="closeModal(event)">×</div>
+    <div class="modal-content" onclick="event.stopPropagation()">
+      <img src="https://images.unsplash.com/photo-1555993539-1732b0258235?w=1200&h=800&fit=crop" alt="Athens, Greece">
+      <p><strong>Athens, Greece</strong> — Birthplace of democracy, philosophy, and Western civilization</p>
+    </div>
+  </div>
+
+  <script>
+    function showLocationModal() {
+      document.getElementById('location-modal').classList.add('active');
+    }
+
+    function closeModal(event) {
+      document.getElementById('location-modal').classList.remove('active');
+    }
+
+    // Close modal on ESC key
+    document.addEventListener('keydown', function(event) {
+      if (event.key === 'Escape') {
+        closeModal(event);
+      }
+    });
+  </script>
+</body>
+</html>

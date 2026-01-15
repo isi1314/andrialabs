@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Basic Tooltip Test</title>
+  <style>
+    body {
+      background: #1A1814;
+      color: #ECDFCC;
+      font-family: sans-serif;
+      padding: 100px 40px;
+      font-size: 18px;
+    }
+
+    .wrapper {
+      position: relative;
+      display: inline-block;
+    }
+
+    .trigger {
+      color: #ECDFCC;
+      border-bottom: 2px solid #697565;
+      cursor: pointer;
+    }
+
+    .popup {
+      position: absolute;
+      bottom: 100%;
+      left: 50%;
+      transform: translateX(-50%);
+      margin-bottom: 10px;
+      width: 200px;
+      height: 150px;
+      background: #697565;
+      border: 3px solid #ECDFCC;
+      border-radius: 8px;
+      display: none;
+    }
+
+    .wrapper:hover .popup {
+      display: block;
+    }
+
+    .popup img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      border-radius: 4px;
+    }
+  </style>
+</head>
+<body>
+  <p>
+    I am from
+    <span class="wrapper">
+      <span class="trigger">Athens</span>
+      <span class="popup">
+        <img src="https://images.unsplash.com/photo-1555993539-1732b0258235?w=400&h=300&fit=crop" alt="Athens">
+      </span>
+    </span>
+    in Greece.
+  </p>
+</body>
+</html>
